@@ -37,7 +37,8 @@
       "CHỨC DANH": "Tổng Giám đốc",
       "Mail": "leson@esuhai.com"
     },
-    "displayId": "MNV S001"
+    "displayId": "MNV S001",
+    "formCCount": 3
   },
   {
     "id": "V001",
@@ -77,7 +78,8 @@
       "CHỨC DANH": "Thủ quỹ",
       "Mail": "ngocgiang@esuhai.com"
     },
-    "displayId": "MNV V001"
+    "displayId": "MNV V001",
+    "formCCount": 1
   },
   {
     "id": "C001",
@@ -117,7 +119,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "shimizu@esuhai.com"
     },
-    "displayId": "MNV C001"
+    "displayId": "MNV C001",
+    "formCCount": 2
   },
   {
     "id": "S004",
@@ -157,7 +160,8 @@
       "CHỨC DANH": "Trưởng phòng đào tạo ",
       "Mail": "thinhien@kaizen.edu.vn"
     },
-    "displayId": "MNV S004"
+    "displayId": "MNV S004",
+    "formCCount": 2
   },
   {
     "id": "S005",
@@ -197,7 +201,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "trucly@esuhai.com"
     },
-    "displayId": "MNV S005"
+    "displayId": "MNV S005",
+    "formCCount": 4
   },
   {
     "id": "S009",
@@ -237,7 +242,8 @@
       "CHỨC DANH": "Trưởng phòng đào tạo",
       "Mail": "thinhai@kaizen.edu.vn"
     },
-    "displayId": "MNV S009"
+    "displayId": "MNV S009",
+    "formCCount": 4
   },
   {
     "id": "S083",
@@ -277,7 +283,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "satomura@esuhai.com"
     },
-    "displayId": "MNV S083"
+    "displayId": "MNV S083",
+    "formCCount": 0
   },
   {
     "id": "S015",
@@ -317,7 +324,8 @@
       "CHỨC DANH": "Trưởng phòng Hành chánh giáo vụ",
       "Mail": "ngochan@kaizen.edu.vn"
     },
-    "displayId": "MNV S015"
+    "displayId": "MNV S015",
+    "formCCount": 3
   },
   {
     "id": "S016",
@@ -357,7 +365,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "trucchi@kaizen.edu.vn"
     },
-    "displayId": "MNV S016"
+    "displayId": "MNV S016",
+    "formCCount": 0
   },
   {
     "id": "S018",
@@ -397,7 +406,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "longtrieu@esuhai.com"
     },
-    "displayId": "MNV S018"
+    "displayId": "MNV S018",
+    "formCCount": 3
   },
   {
     "id": "S019",
@@ -437,7 +447,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hohan@kaizen.edu.vn"
     },
-    "displayId": "MNV S019"
+    "displayId": "MNV S019",
+    "formCCount": 0
   },
   {
     "id": "V010",
@@ -477,7 +488,8 @@
       "CHỨC DANH": "Trưởng ban Kế toán",
       "Mail": "sontung@esuhai.com"
     },
-    "displayId": "MNV V010"
+    "displayId": "MNV V010",
+    "formCCount": 0
   },
   {
     "id": "S021",
@@ -517,7 +529,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thienthu@kaizen.edu.vn"
     },
-    "displayId": "MNV S021"
+    "displayId": "MNV S021",
+    "formCCount": 3
   },
   {
     "id": "S095",
@@ -557,7 +570,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "letuan@esuhai.com"
     },
-    "displayId": "MNV S095"
+    "displayId": "MNV S095",
+    "formCCount": 4
   },
   {
     "id": "S026",
@@ -597,7 +611,8 @@
       "CHỨC DANH": "Trưởng ban Tài xế",
       "Mail": "duytran@esuhai.com"
     },
-    "displayId": "MNV S026"
+    "displayId": "MNV S026",
+    "formCCount": 3
   },
   {
     "id": "S027",
@@ -637,7 +652,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "thientin@esuhai.com"
     },
-    "displayId": "MNV S027"
+    "displayId": "MNV S027",
+    "formCCount": 1
   },
   {
     "id": "S029",
@@ -677,7 +693,8 @@
       "CHỨC DANH": "Phó phòng phụ trách Cơ sở dữ liệu",
       "Mail": "hoangkha@esuhai.com"
     },
-    "displayId": "MNV S029"
+    "displayId": "MNV S029",
+    "formCCount": 0
   },
   {
     "id": "S052",
@@ -717,7 +734,8 @@
       "CHỨC DANH": "Phó phòng khai thác khách hàng (VN)",
       "Mail": "hisano@esuhai.com"
     },
-    "displayId": "MNV S052"
+    "displayId": "MNV S052",
+    "formCCount": 3
   },
   {
     "id": "C043",
@@ -757,7 +775,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "bichthuy@esuhai.com"
     },
-    "displayId": "MNV C043"
+    "displayId": "MNV C043",
+    "formCCount": 3
   },
   {
     "id": "S031",
@@ -797,7 +816,8 @@
       "CHỨC DANH": "Trưởng phòng Tổng hợp",
       "Mail": "thuyha@esuhai.com"
     },
-    "displayId": "MNV S031"
+    "displayId": "MNV S031",
+    "formCCount": 2
   },
   {
     "id": "V029",
@@ -837,7 +857,8 @@
       "CHỨC DANH": "Phó phòng khai thác khách hàng (VN)",
       "Mail": "utsumi@esuhai.com"
     },
-    "displayId": "MNV V029"
+    "displayId": "MNV V029",
+    "formCCount": 2
   },
   {
     "id": "S032",
@@ -877,7 +898,8 @@
       "CHỨC DANH": "Chuyên viên tư vấn ",
       "Mail": "hongan@kaizen.edu.vn"
     },
-    "displayId": "MNV S032"
+    "displayId": "MNV S032",
+    "formCCount": 4
   },
   {
     "id": "S033",
@@ -917,7 +939,8 @@
       "CHỨC DANH": "Chuyên viên tư vấn tuyển sinh",
       "Mail": "thihuong@esuhai.com"
     },
-    "displayId": "MNV S033"
+    "displayId": "MNV S033",
+    "formCCount": 4
   },
   {
     "id": "S038",
@@ -957,7 +980,8 @@
       "CHỨC DANH": "Nhân viên bảo vệ",
       "Mail": "duykhuong@esuhai.com"
     },
-    "displayId": "MNV S038"
+    "displayId": "MNV S038",
+    "formCCount": 0
   },
   {
     "id": "S041",
@@ -997,7 +1021,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "phuongthao@esuhai.com"
     },
-    "displayId": "MNV S041"
+    "displayId": "MNV S041",
+    "formCCount": 4
   },
   {
     "id": "S050",
@@ -1037,7 +1062,8 @@
       "CHỨC DANH": "Phó Tổng Giám đốc",
       "Mail": "xuanlanh@esuhai.com"
     },
-    "displayId": "MNV S050"
+    "displayId": "MNV S050",
+    "formCCount": 1
   },
   {
     "id": "S059",
@@ -1077,7 +1103,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thiday@kaizen.edu.vn"
     },
-    "displayId": "MNV S059"
+    "displayId": "MNV S059",
+    "formCCount": 0
   },
   {
     "id": "S180",
@@ -1117,7 +1144,8 @@
       "CHỨC DANH": "Nhân viên hỗ trợ khách hàng",
       "Mail": "ngocchau@esuhai.com"
     },
-    "displayId": "MNV S180"
+    "displayId": "MNV S180",
+    "formCCount": 0
   },
   {
     "id": "S066",
@@ -1157,7 +1185,8 @@
       "CHỨC DANH": "Phó ban",
       "Mail": "thithuy@esuhai.com"
     },
-    "displayId": "MNV S066"
+    "displayId": "MNV S066",
+    "formCCount": 0
   },
   {
     "id": "S068",
@@ -1197,7 +1226,8 @@
       "CHỨC DANH": "Phó phòng Truyền thông",
       "Mail": "minhtan@esuhai.com"
     },
-    "displayId": "MNV S068"
+    "displayId": "MNV S068",
+    "formCCount": 0
   },
   {
     "id": "S173",
@@ -1237,7 +1267,8 @@
       "CHỨC DANH": "Phó ban khai thác khách hàng (VN)",
       "Mail": "kawai@esuhai.com"
     },
-    "displayId": "MNV S173"
+    "displayId": "MNV S173",
+    "formCCount": 0
   },
   {
     "id": "W001",
@@ -1277,7 +1308,8 @@
       "CHỨC DANH": "Chuyên viên kế toán",
       "Mail": "thitam@esuhai.com"
     },
-    "displayId": "MNV W001"
+    "displayId": "MNV W001",
+    "formCCount": 3
   },
   {
     "id": "S073",
@@ -1317,7 +1349,8 @@
       "CHỨC DANH": "Trợ lý Tổng Giám đốc",
       "Mail": "minhhieu@esuhai.com"
     },
-    "displayId": "MNV S073"
+    "displayId": "MNV S073",
+    "formCCount": 4
   },
   {
     "id": "S085",
@@ -1357,7 +1390,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "huyenanh@kaizen.edu.vn"
     },
-    "displayId": "MNV S085"
+    "displayId": "MNV S085",
+    "formCCount": 0
   },
   {
     "id": "S087",
@@ -1397,7 +1431,8 @@
       "CHỨC DANH": "Nhân viên bảo vệ",
       "Mail": "vannhi@esuhai.com"
     },
-    "displayId": "MNV S087"
+    "displayId": "MNV S087",
+    "formCCount": 1
   },
   {
     "id": "S089",
@@ -1437,7 +1472,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nguyenhang@kaizen.edu.vn"
     },
-    "displayId": "MNV S089"
+    "displayId": "MNV S089",
+    "formCCount": 1
   },
   {
     "id": "S092",
@@ -1477,7 +1513,8 @@
       "CHỨC DANH": "Trưởng phòng đào tạo kỹ năng",
       "Mail": "dangkhoa@proskills.ac.vn"
     },
-    "displayId": "MNV S092"
+    "displayId": "MNV S092",
+    "formCCount": 0
   },
   {
     "id": "S100",
@@ -1517,7 +1554,8 @@
       "CHỨC DANH": "Phó phòng",
       "Mail": "minhduy@esuhai.com"
     },
-    "displayId": "MNV S100"
+    "displayId": "MNV S100",
+    "formCCount": 0
   },
   {
     "id": "S106",
@@ -1557,7 +1595,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hongduc@kaizen.edu.vn"
     },
-    "displayId": "MNV S106"
+    "displayId": "MNV S106",
+    "formCCount": 0
   },
   {
     "id": "S109",
@@ -1597,7 +1636,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "khanhlinh@kaizen.edu.vn"
     },
-    "displayId": "MNV S109"
+    "displayId": "MNV S109",
+    "formCCount": 4
   },
   {
     "id": "E025",
@@ -1637,7 +1677,8 @@
       "CHỨC DANH": "Chuyên viên kế toán",
       "Mail": "quocduy@esuhai.com"
     },
-    "displayId": "MNV E025"
+    "displayId": "MNV E025",
+    "formCCount": 3
   },
   {
     "id": "C019",
@@ -1677,7 +1718,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "maichi@esuhai.com"
     },
-    "displayId": "MNV C019"
+    "displayId": "MNV C019",
+    "formCCount": 4
   },
   {
     "id": "S117",
@@ -1717,7 +1759,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuhuong@kaizen.edu.vn"
     },
-    "displayId": "MNV S117"
+    "displayId": "MNV S117",
+    "formCCount": 3
   },
   {
     "id": "E012",
@@ -1757,7 +1800,8 @@
       "CHỨC DANH": "Nhân viên hỗ trợ khách hàng",
       "Mail": "dauyen@esuhai.com"
     },
-    "displayId": "MNV E012"
+    "displayId": "MNV E012",
+    "formCCount": 0
   },
   {
     "id": "S140",
@@ -1797,7 +1841,8 @@
       "CHỨC DANH": "Chuyên viên tư vấn tuyển sinh",
       "Mail": "thithao@esuhai.com"
     },
-    "displayId": "MNV S140"
+    "displayId": "MNV S140",
+    "formCCount": 0
   },
   {
     "id": "S146",
@@ -1837,7 +1882,8 @@
       "CHỨC DANH": "Giáo viên Tiếng Nhật - Thiết kế Kaizen",
       "Mail": "thanhvc@kaizen.edu.vn"
     },
-    "displayId": "MNV S146"
+    "displayId": "MNV S146",
+    "formCCount": 0
   },
   {
     "id": "S142",
@@ -1877,7 +1923,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "phamduc@kaizen.edu.vn"
     },
-    "displayId": "MNV S142"
+    "displayId": "MNV S142",
+    "formCCount": 0
   },
   {
     "id": "S144",
@@ -1917,7 +1964,8 @@
       "CHỨC DANH": "Chuyên viên tư vấn tuyển sinh",
       "Mail": "nhungoc@esuhai.com"
     },
-    "displayId": "MNV S144"
+    "displayId": "MNV S144",
+    "formCCount": 1
   },
   {
     "id": "S154",
@@ -1957,7 +2005,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "trungquan@kaizen.edu.vn"
     },
-    "displayId": "MNV S154"
+    "displayId": "MNV S154",
+    "formCCount": 2
   },
   {
     "id": "S157",
@@ -1997,7 +2046,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hoangson@kaizen.edu.vn"
     },
-    "displayId": "MNV S157"
+    "displayId": "MNV S157",
+    "formCCount": 0
   },
   {
     "id": "S167",
@@ -2037,7 +2087,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "matsunomoto@kaizen.edu.vn"
     },
-    "displayId": "MNV S167"
+    "displayId": "MNV S167",
+    "formCCount": 3
   },
   {
     "id": "S166",
@@ -2077,7 +2128,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuydiem@kaizen.edu.vn"
     },
-    "displayId": "MNV S166"
+    "displayId": "MNV S166",
+    "formCCount": 4
   },
   {
     "id": "S381",
@@ -2117,7 +2169,8 @@
       "CHỨC DANH": "Nhân viên Nhân sự",
       "Mail": "minhthien@esuhai.com"
     },
-    "displayId": "MNV S381"
+    "displayId": "MNV S381",
+    "formCCount": 0
   },
   {
     "id": "S164",
@@ -2157,7 +2210,8 @@
       "CHỨC DANH": "Trưởng ban Website",
       "Mail": "thanhha@esuhai.com"
     },
-    "displayId": "MNV S164"
+    "displayId": "MNV S164",
+    "formCCount": 0
   },
   {
     "id": "C026",
@@ -2197,7 +2251,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (NB)",
       "Mail": "kubota@esuhai.com"
     },
-    "displayId": "MNV C026"
+    "displayId": "MNV C026",
+    "formCCount": 2
   },
   {
     "id": "S176",
@@ -2237,7 +2292,8 @@
       "CHỨC DANH": "Trưởng ban Hành chánh giáo vụ",
       "Mail": "longngan@proskills.ac.vn"
     },
-    "displayId": "MNV S176"
+    "displayId": "MNV S176",
+    "formCCount": 3
   },
   {
     "id": "C029",
@@ -2277,7 +2333,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "thutrang@esuhai.com"
     },
-    "displayId": "MNV C029"
+    "displayId": "MNV C029",
+    "formCCount": 0
   },
   {
     "id": "S510",
@@ -2317,7 +2374,8 @@
       "CHỨC DANH": "Phó ban",
       "Mail": "thikien@esuhai.com"
     },
-    "displayId": "MNV S510"
+    "displayId": "MNV S510",
+    "formCCount": 3
   },
   {
     "id": "S511",
@@ -2357,7 +2415,8 @@
       "CHỨC DANH": "Chuyên viên tư vấn tuyển sinh",
       "Mail": "ngochuong@esuhai.com"
     },
-    "displayId": "MNV S511"
+    "displayId": "MNV S511",
+    "formCCount": 0
   },
   {
     "id": "VH03",
@@ -2397,7 +2456,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "myhanh@kaizen.edu.vn"
     },
-    "displayId": "MNV VH03"
+    "displayId": "MNV VH03",
+    "formCCount": 0
   },
   {
     "id": "S210",
@@ -2437,7 +2497,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "truonggiang@kaizen.edu.vn"
     },
-    "displayId": "MNV S210"
+    "displayId": "MNV S210",
+    "formCCount": 0
   },
   {
     "id": "S513",
@@ -2477,7 +2538,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "daotrang@kaizen.edu.vn"
     },
-    "displayId": "MNV S513"
+    "displayId": "MNV S513",
+    "formCCount": 0
   },
   {
     "id": "S342",
@@ -2517,7 +2579,8 @@
       "CHỨC DANH": "Phó ban Hỗ trợ khách hàng",
       "Mail": "vansang@esuhai.com"
     },
-    "displayId": "MNV S342"
+    "displayId": "MNV S342",
+    "formCCount": 4
   },
   {
     "id": "S214",
@@ -2557,7 +2620,8 @@
       "CHỨC DANH": "Phó ban Pháp chế phái cử",
       "Mail": "thixuan@esuhai.com"
     },
-    "displayId": "MNV S214"
+    "displayId": "MNV S214",
+    "formCCount": 0
   },
   {
     "id": "S215",
@@ -2597,7 +2661,8 @@
       "CHỨC DANH": "Giáo viên thể chất",
       "Mail": "thitrang@proskills.ac.vn"
     },
-    "displayId": "MNV S215"
+    "displayId": "MNV S215",
+    "formCCount": 0
   },
   {
     "id": "S217",
@@ -2637,7 +2702,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngochoa@kaizen.edu.vn"
     },
-    "displayId": "MNV S217"
+    "displayId": "MNV S217",
+    "formCCount": 0
   },
   {
     "id": "VH12",
@@ -2677,7 +2743,8 @@
       "CHỨC DANH": "Trưởng ban Tổng vụ",
       "Mail": "thisang@esuhai.com"
     },
-    "displayId": "MNV VH12"
+    "displayId": "MNV VH12",
+    "formCCount": 0
   },
   {
     "id": "S514",
@@ -2717,7 +2784,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngoc.anh@kaizen.edu.vn"
     },
-    "displayId": "MNV S514"
+    "displayId": "MNV S514",
+    "formCCount": 0
   },
   {
     "id": "VH21",
@@ -2757,7 +2825,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "quachlinh@kaizen.edu.vn"
     },
-    "displayId": "MNV VH21"
+    "displayId": "MNV VH21",
+    "formCCount": 2
   },
   {
     "id": "S226",
@@ -2797,7 +2866,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuhien@kaizen.edu.vn"
     },
-    "displayId": "MNV S226"
+    "displayId": "MNV S226",
+    "formCCount": 2
   },
   {
     "id": "V044",
@@ -2837,7 +2907,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "beloan@kaizen.edu.vn"
     },
-    "displayId": "MNV V044"
+    "displayId": "MNV V044",
+    "formCCount": 0
   },
   {
     "id": "C030",
@@ -2877,7 +2948,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "ikeda@esuhai.com"
     },
-    "displayId": "MNV C030"
+    "displayId": "MNV C030",
+    "formCCount": 4
   },
   {
     "id": "C031",
@@ -2917,7 +2989,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "nguyenngoc@esuhai.com"
     },
-    "displayId": "MNV C031"
+    "displayId": "MNV C031",
+    "formCCount": 4
   },
   {
     "id": "S515",
@@ -2957,7 +3030,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "lequyen@kaizen.edu.vn"
     },
-    "displayId": "MNV S515"
+    "displayId": "MNV S515",
+    "formCCount": 4
   },
   {
     "id": "VH26",
@@ -2997,7 +3071,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nguyenthuy@kaizen.edu.vn"
     },
-    "displayId": "MNV VH26"
+    "displayId": "MNV VH26",
+    "formCCount": 0
   },
   {
     "id": "S240",
@@ -3037,7 +3112,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thaomy@kaizen.edu.vn"
     },
-    "displayId": "MNV S240"
+    "displayId": "MNV S240",
+    "formCCount": 0
   },
   {
     "id": "S243",
@@ -3077,7 +3153,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nguyennhu@kaizen.edu.vn"
     },
-    "displayId": "MNV S243"
+    "displayId": "MNV S243",
+    "formCCount": 0
   },
   {
     "id": "VH13",
@@ -3117,7 +3194,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "ngochoang@esuhai.com"
     },
-    "displayId": "MNV VH13"
+    "displayId": "MNV VH13",
+    "formCCount": 0
   },
   {
     "id": "S257",
@@ -3157,7 +3235,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "quocbao@esuhai.com"
     },
-    "displayId": "MNV S257"
+    "displayId": "MNV S257",
+    "formCCount": 0
   },
   {
     "id": "S261",
@@ -3197,7 +3276,8 @@
       "CHỨC DANH": "Nhân viên bảo vệ",
       "Mail": "thanhphuong@esuhai.com"
     },
-    "displayId": "MNV S261"
+    "displayId": "MNV S261",
+    "formCCount": 4
   },
   {
     "id": "VH14",
@@ -3237,7 +3317,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "nthiphuong@esuhai.com"
     },
-    "displayId": "MNV VH14"
+    "displayId": "MNV VH14",
+    "formCCount": 2
   },
   {
     "id": "S273",
@@ -3277,7 +3358,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "quoctuan@esuhai.com"
     },
-    "displayId": "MNV S273"
+    "displayId": "MNV S273",
+    "formCCount": 2
   },
   {
     "id": "S275",
@@ -3317,7 +3399,8 @@
       "CHỨC DANH": "Giáo viên kỹ năng",
       "Mail": "quynhanh@proskills.ac.vn"
     },
-    "displayId": "MNV S275"
+    "displayId": "MNV S275",
+    "formCCount": 0
   },
   {
     "id": "S278",
@@ -3357,7 +3440,8 @@
       "CHỨC DANH": "Giáo viên kỹ năng",
       "Mail": "tranthi@proskills.ac.vn"
     },
-    "displayId": "MNV S278"
+    "displayId": "MNV S278",
+    "formCCount": 2
   },
   {
     "id": "S285",
@@ -3397,7 +3481,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thanhyen@kaizen.edu.vn"
     },
-    "displayId": "MNV S285"
+    "displayId": "MNV S285",
+    "formCCount": 0
   },
   {
     "id": "S284",
@@ -3437,7 +3522,8 @@
       "CHỨC DANH": "Nhân viên Pháp chế ",
       "Mail": "lampt@esuhai.com"
     },
-    "displayId": "MNV S284"
+    "displayId": "MNV S284",
+    "formCCount": 2
   },
   {
     "id": "E002",
@@ -3477,7 +3563,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "tuongtrang@esuhai.com"
     },
-    "displayId": "MNV E002"
+    "displayId": "MNV E002",
+    "formCCount": 3
   },
   {
     "id": "VH17",
@@ -3517,7 +3604,8 @@
       "CHỨC DANH": "Nhân viên hành chánh nhân sự",
       "Mail": "phamnhung@esuhai.com"
     },
-    "displayId": "MNV VH17"
+    "displayId": "MNV VH17",
+    "formCCount": 1
   },
   {
     "id": "S287",
@@ -3557,7 +3645,8 @@
       "CHỨC DANH": "Giáo viên thể chất",
       "Mail": "thanhuyen@proskills.ac.vn"
     },
-    "displayId": "MNV S287"
+    "displayId": "MNV S287",
+    "formCCount": 3
   },
   {
     "id": "S289",
@@ -3597,7 +3686,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hathi@kaizen.edu.vn"
     },
-    "displayId": "MNV S289"
+    "displayId": "MNV S289",
+    "formCCount": 0
   },
   {
     "id": "S294",
@@ -3637,7 +3727,8 @@
       "CHỨC DANH": "Nhân viên Kế toán",
       "Mail": "dieutuyet@esuhai.com"
     },
-    "displayId": "MNV S294"
+    "displayId": "MNV S294",
+    "formCCount": 0
   },
   {
     "id": "S298",
@@ -3677,7 +3768,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "huethanh@esuhai.com"
     },
-    "displayId": "MNV S298"
+    "displayId": "MNV S298",
+    "formCCount": 1
   },
   {
     "id": "S362",
@@ -3717,7 +3809,8 @@
       "CHỨC DANH": "Phó ban Truyền thông",
       "Mail": "thanhhieu@esuhai.com"
     },
-    "displayId": "MNV S362"
+    "displayId": "MNV S362",
+    "formCCount": 2
   },
   {
     "id": "VH30",
@@ -3757,7 +3850,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "vuongtrang@kaizen.edu.vn"
     },
-    "displayId": "MNV VH30"
+    "displayId": "MNV VH30",
+    "formCCount": 3
   },
   {
     "id": "VH39",
@@ -3797,7 +3891,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thihoai@kaizen.edu.vn"
     },
-    "displayId": "MNV VH39"
+    "displayId": "MNV VH39",
+    "formCCount": 2
   },
   {
     "id": "S308",
@@ -3837,7 +3932,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "huyennga@esuhai.com"
     },
-    "displayId": "MNV S308"
+    "displayId": "MNV S308",
+    "formCCount": 3
   },
   {
     "id": "S310",
@@ -3877,7 +3973,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "chidai@kaizen.edu.vn"
     },
-    "displayId": "MNV S310"
+    "displayId": "MNV S310",
+    "formCCount": 4
   },
   {
     "id": "S309",
@@ -3917,7 +4014,8 @@
       "CHỨC DANH": "Phó ban Tiến cử phỏng vấn",
       "Mail": "vannhin@esuhai.com"
     },
-    "displayId": "MNV S309"
+    "displayId": "MNV S309",
+    "formCCount": 0
   },
   {
     "id": "S313",
@@ -3957,7 +4055,8 @@
       "CHỨC DANH": "Nhân viên hỗ trợ khách hàng",
       "Mail": "trannhi@esuhai.com"
     },
-    "displayId": "MNV S313"
+    "displayId": "MNV S313",
+    "formCCount": 0
   },
   {
     "id": "S314",
@@ -3997,7 +4096,8 @@
       "CHỨC DANH": "Chuyên viên tuyển dụng",
       "Mail": "lethao@esuhai.com"
     },
-    "displayId": "MNV S314"
+    "displayId": "MNV S314",
+    "formCCount": 0
   },
   {
     "id": "S316",
@@ -4037,7 +4137,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "minhnhat@kaizen.edu.vn"
     },
-    "displayId": "MNV S316"
+    "displayId": "MNV S316",
+    "formCCount": 0
   },
   {
     "id": "S324",
@@ -4077,7 +4178,8 @@
       "CHỨC DANH": "Trưởng ban MS - Tư vấn tạo nguồn kỹ sư",
       "Mail": "thu.duonganh@esutech.vn"
     },
-    "displayId": "MNV S324"
+    "displayId": "MNV S324",
+    "formCCount": 1
   },
   {
     "id": "S329",
@@ -4117,7 +4219,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "vannguyen@kaizen.edu.vn"
     },
-    "displayId": "MNV S329"
+    "displayId": "MNV S329",
+    "formCCount": 0
   },
   {
     "id": "S086",
@@ -4157,7 +4260,8 @@
       "CHỨC DANH": "Trưởng phòng đào tạo",
       "Mail": "anhthu@kaizen.edu.vn"
     },
-    "displayId": "MNV S086"
+    "displayId": "MNV S086",
+    "formCCount": 3
   },
   {
     "id": "S334",
@@ -4197,7 +4301,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (VN)",
       "Mail": "htkngoc@esuhai.com"
     },
-    "displayId": "MNV S334"
+    "displayId": "MNV S334",
+    "formCCount": 0
   },
   {
     "id": "S338",
@@ -4237,7 +4342,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thison@kaizen.edu.vn"
     },
-    "displayId": "MNV S338"
+    "displayId": "MNV S338",
+    "formCCount": 4
   },
   {
     "id": "S339",
@@ -4277,7 +4383,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "bachlien@kaizen.edu.vn"
     },
-    "displayId": "MNV S339"
+    "displayId": "MNV S339",
+    "formCCount": 0
   },
   {
     "id": "S345",
@@ -4317,7 +4424,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thihoa@kaizen.edu.vn"
     },
-    "displayId": "MNV S345"
+    "displayId": "MNV S345",
+    "formCCount": 2
   },
   {
     "id": "S348",
@@ -4357,7 +4465,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "quoctien@esuhai.com"
     },
-    "displayId": "MNV S348"
+    "displayId": "MNV S348",
+    "formCCount": 0
   },
   {
     "id": "E007",
@@ -4397,7 +4506,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nthanhthuy@kaizen.edu.vn"
     },
-    "displayId": "MNV E007"
+    "displayId": "MNV E007",
+    "formCCount": 0
   },
   {
     "id": "S351",
@@ -4437,7 +4547,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "leloc@kaizen.edu.vn"
     },
-    "displayId": "MNV S351"
+    "displayId": "MNV S351",
+    "formCCount": 0
   },
   {
     "id": "VH27",
@@ -4477,7 +4588,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "thuhang@esuhai.com"
     },
-    "displayId": "MNV VH27"
+    "displayId": "MNV VH27",
+    "formCCount": 0
   },
   {
     "id": "S354",
@@ -4517,7 +4629,8 @@
       "CHỨC DANH": "Phó ban Truyền thông đối ngoại",
       "Mail": "phuongtram@esuhai.com"
     },
-    "displayId": "MNV S354"
+    "displayId": "MNV S354",
+    "formCCount": 0
   },
   {
     "id": "S357",
@@ -4557,7 +4670,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "hatrang@esuhai.com"
     },
-    "displayId": "MNV S357"
+    "displayId": "MNV S357",
+    "formCCount": 0
   },
   {
     "id": "E026",
@@ -4597,7 +4711,8 @@
       "CHỨC DANH": "Nhân viên Thư ký",
       "Mail": "thuytruc@esuhai.com"
     },
-    "displayId": "MNV E026"
+    "displayId": "MNV E026",
+    "formCCount": 0
   },
   {
     "id": "S360",
@@ -4637,7 +4752,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "vanut@esuhai.com"
     },
-    "displayId": "MNV S360"
+    "displayId": "MNV S360",
+    "formCCount": 0
   },
   {
     "id": "S363",
@@ -4677,7 +4793,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "lexuan@kaizen.edu.vn"
     },
-    "displayId": "MNV S363"
+    "displayId": "MNV S363",
+    "formCCount": 2
   },
   {
     "id": "S367",
@@ -4717,7 +4834,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "hongngoc@esuhai.com"
     },
-    "displayId": "MNV S367"
+    "displayId": "MNV S367",
+    "formCCount": 1
   },
   {
     "id": "S372",
@@ -4757,7 +4875,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "leanh@kaizen.edu.vn"
     },
-    "displayId": "MNV S372"
+    "displayId": "MNV S372",
+    "formCCount": 0
   },
   {
     "id": "S378",
@@ -4797,7 +4916,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hanny@kaizen.edu.vn"
     },
-    "displayId": "MNV S378"
+    "displayId": "MNV S378",
+    "formCCount": 0
   },
   {
     "id": "C039",
@@ -4837,7 +4957,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "xuandat@esuhai.com"
     },
-    "displayId": "MNV C039"
+    "displayId": "MNV C039",
+    "formCCount": 3
   },
   {
     "id": "S512",
@@ -4877,7 +4998,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "ngoctuyet@esuhai.com"
     },
-    "displayId": "MNV S512"
+    "displayId": "MNV S512",
+    "formCCount": 2
   },
   {
     "id": "VH31",
@@ -4917,7 +5039,8 @@
       "CHỨC DANH": "Nhân viên bảo vệ",
       "Mail": "doanngoc@esuhai.com"
     },
-    "displayId": "MNV VH31"
+    "displayId": "MNV VH31",
+    "formCCount": 1
   },
   {
     "id": "S387",
@@ -4957,7 +5080,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "trongdai@kaizen.edu.vn"
     },
-    "displayId": "MNV S387"
+    "displayId": "MNV S387",
+    "formCCount": 1
   },
   {
     "id": "S394",
@@ -4997,7 +5121,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "mongtuyen@kaizen.edu.vn"
     },
-    "displayId": "MNV S394"
+    "displayId": "MNV S394",
+    "formCCount": 4
   },
   {
     "id": "S396",
@@ -5037,7 +5162,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "huynhphuong@esuhai.com"
     },
-    "displayId": "MNV S396"
+    "displayId": "MNV S396",
+    "formCCount": 3
   },
   {
     "id": "E021",
@@ -5077,7 +5203,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "tranthao@kaizen.edu.vn"
     },
-    "displayId": "MNV E021"
+    "displayId": "MNV E021",
+    "formCCount": 3
   },
   {
     "id": "VH33",
@@ -5117,7 +5244,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "vantuan@esuhai.com"
     },
-    "displayId": "MNV VH33"
+    "displayId": "MNV VH33",
+    "formCCount": 0
   },
   {
     "id": "E022",
@@ -5157,7 +5285,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "phuonggiang@kaizen.edu.vn"
     },
-    "displayId": "MNV E022"
+    "displayId": "MNV E022",
+    "formCCount": 2
   },
   {
     "id": "VH34",
@@ -5197,7 +5326,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thanhbi@kaizen.edu.vn"
     },
-    "displayId": "MNV VH34"
+    "displayId": "MNV VH34",
+    "formCCount": 2
   },
   {
     "id": "S349",
@@ -5237,7 +5367,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngocvang@kaizen.edu.vn"
     },
-    "displayId": "MNV S349"
+    "displayId": "MNV S349",
+    "formCCount": 0
   },
   {
     "id": "E005",
@@ -5277,7 +5408,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "vymy@esuhai.com"
     },
-    "displayId": "MNV E005"
+    "displayId": "MNV E005",
+    "formCCount": 0
   },
   {
     "id": "S419",
@@ -5317,7 +5449,8 @@
       "CHỨC DANH": "Nhân viên tư vấn du học",
       "Mail": "tranvan@esuhai.com"
     },
-    "displayId": "MNV S419"
+    "displayId": "MNV S419",
+    "formCCount": 0
   },
   {
     "id": "S422",
@@ -5357,7 +5490,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển dụng",
       "Mail": "thengan@esuhai.com"
     },
-    "displayId": "MNV S422"
+    "displayId": "MNV S422",
+    "formCCount": 3
   },
   {
     "id": "VH37",
@@ -5397,7 +5531,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "minhhien@kaizen.edu.vn"
     },
-    "displayId": "MNV VH37"
+    "displayId": "MNV VH37",
+    "formCCount": 4
   },
   {
     "id": "S433",
@@ -5437,7 +5572,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngocloan@kaizen.edu.vn"
     },
-    "displayId": "MNV S433"
+    "displayId": "MNV S433",
+    "formCCount": 4
   },
   {
     "id": "S438",
@@ -5477,7 +5613,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "minhsang@kaizen.edu.vn"
     },
-    "displayId": "MNV S438"
+    "displayId": "MNV S438",
+    "formCCount": 0
   },
   {
     "id": "S435",
@@ -5517,7 +5654,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thichau@kaizen.edu.vn"
     },
-    "displayId": "MNV S435"
+    "displayId": "MNV S435",
+    "formCCount": 1
   },
   {
     "id": "S440",
@@ -5557,7 +5695,8 @@
       "CHỨC DANH": "Chuyên viên C&B",
       "Mail": "voyen@esuhai.com"
     },
-    "displayId": "MNV S440"
+    "displayId": "MNV S440",
+    "formCCount": 2
   },
   {
     "id": "S448",
@@ -5597,7 +5736,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "lamquy@kaizen.edu.vn"
     },
-    "displayId": "MNV S448"
+    "displayId": "MNV S448",
+    "formCCount": 2
   },
   {
     "id": "E009",
@@ -5637,7 +5777,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "kimanh@kaizen.edu.vn"
     },
-    "displayId": "MNV E009"
+    "displayId": "MNV E009",
+    "formCCount": 0
   },
   {
     "id": "S459",
@@ -5677,7 +5818,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thoi.vanhoang@esutech.vn"
     },
-    "displayId": "MNV S459"
+    "displayId": "MNV S459",
+    "formCCount": 0
   },
   {
     "id": "S461",
@@ -5717,7 +5859,8 @@
       "CHỨC DANH": "Nhân viên hỗ trợ khách hàng",
       "Mail": "thanhtrung@esuhai.com"
     },
-    "displayId": "MNV S461"
+    "displayId": "MNV S461",
+    "formCCount": 3
   },
   {
     "id": "C045",
@@ -5757,7 +5900,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "iwabuchi@esuhai.com"
     },
-    "displayId": "MNV C045"
+    "displayId": "MNV C045",
+    "formCCount": 4
   },
   {
     "id": "S460",
@@ -5797,7 +5941,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "oshiro@kaizen.edu.vn"
     },
-    "displayId": "MNV S460"
+    "displayId": "MNV S460",
+    "formCCount": 0
   },
   {
     "id": "S472",
@@ -5837,7 +5982,8 @@
       "CHỨC DANH": "Chuyên viên quản lý chương trình Kaigo",
       "Mail": "nhutrang@esuhai.com"
     },
-    "displayId": "MNV S472"
+    "displayId": "MNV S472",
+    "formCCount": 0
   },
   {
     "id": "S467",
@@ -5877,7 +6023,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "vunhu@kaizen.edu.vn"
     },
-    "displayId": "MNV S467"
+    "displayId": "MNV S467",
+    "formCCount": 0
   },
   {
     "id": "S469",
@@ -5917,7 +6064,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "honggai@kaizen.edu.vn"
     },
-    "displayId": "MNV S469"
+    "displayId": "MNV S469",
+    "formCCount": 4
   },
   {
     "id": "S476",
@@ -5957,7 +6105,8 @@
       "CHỨC DANH": "Nhân viên Phụ trách khai thác & hỗ trợ khách hàng tại Việt Nam",
       "Mail": "hongha@esuhai.com"
     },
-    "displayId": "MNV S476"
+    "displayId": "MNV S476",
+    "formCCount": 2
   },
   {
     "id": "S478",
@@ -5997,7 +6146,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hoangthi@kaizen.edu.vn"
     },
-    "displayId": "MNV S478"
+    "displayId": "MNV S478",
+    "formCCount": 0
   },
   {
     "id": "S479",
@@ -6037,7 +6187,8 @@
       "CHỨC DANH": "Nhân viên MS - Tư vấn tạo nguồn kỹ sư",
       "Mail": "duyen.trinhlemy@esutech.vn"
     },
-    "displayId": "MNV S479"
+    "displayId": "MNV S479",
+    "formCCount": 2
   },
   {
     "id": "S477",
@@ -6077,7 +6228,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hongthe@kaizen.edu.vn"
     },
-    "displayId": "MNV S477"
+    "displayId": "MNV S477",
+    "formCCount": 4
   },
   {
     "id": "S488",
@@ -6117,7 +6269,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "congdong@kaizen.edu.vn"
     },
-    "displayId": "MNV S488"
+    "displayId": "MNV S488",
+    "formCCount": 0
   },
   {
     "id": "S573",
@@ -6157,7 +6310,8 @@
       "CHỨC DANH": "Nhân viên marketing",
       "Mail": "nhikhang@esuhai.com"
     },
-    "displayId": "MNV S573"
+    "displayId": "MNV S573",
+    "formCCount": 0
   },
   {
     "id": "S494",
@@ -6197,7 +6351,8 @@
       "CHỨC DANH": "Trưởng ban phụ trách tuyển dụng",
       "Mail": "anhdao@esuhai.com"
     },
-    "displayId": "MNV S494"
+    "displayId": "MNV S494",
+    "formCCount": 2
   },
   {
     "id": "S496",
@@ -6237,7 +6392,8 @@
       "CHỨC DANH": "Nhân viên truyền thông",
       "Mail": "quoccuong@esuhai.com"
     },
-    "displayId": "MNV S496"
+    "displayId": "MNV S496",
+    "formCCount": 0
   },
   {
     "id": "S506",
@@ -6277,7 +6433,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "nakagawa@esuhai.com"
     },
-    "displayId": "MNV S506"
+    "displayId": "MNV S506",
+    "formCCount": 1
   },
   {
     "id": "S551",
@@ -6317,7 +6474,8 @@
       "CHỨC DANH": "Trưởng ban Gate Awards",
       "Mail": "thienhao@esuhai.com"
     },
-    "displayId": "MNV S551"
+    "displayId": "MNV S551",
+    "formCCount": 0
   },
   {
     "id": "S519",
@@ -6357,7 +6515,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "kimdieu@kaizen.edu.vn"
     },
-    "displayId": "MNV S519"
+    "displayId": "MNV S519",
+    "formCCount": 3
   },
   {
     "id": "E030",
@@ -6397,7 +6556,8 @@
       "CHỨC DANH": "Trưởng ban Pháp chế",
       "Mail": "viettrinh@esuhai.com"
     },
-    "displayId": "MNV E030"
+    "displayId": "MNV E030",
+    "formCCount": 0
   },
   {
     "id": "S522",
@@ -6437,7 +6597,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "ntyennhi@esuhai.com"
     },
-    "displayId": "MNV S522"
+    "displayId": "MNV S522",
+    "formCCount": 0
   },
   {
     "id": "S525",
@@ -6477,7 +6638,8 @@
       "CHỨC DANH": "chuyên viên Digital Marketing",
       "Mail": "trantien@esuhai.com"
     },
-    "displayId": "MNV S525"
+    "displayId": "MNV S525",
+    "formCCount": 1
   },
   {
     "id": "S528",
@@ -6517,7 +6679,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ntthuylinh@kaizen.edu.vn"
     },
-    "displayId": "MNV S528"
+    "displayId": "MNV S528",
+    "formCCount": 1
   },
   {
     "id": "S535",
@@ -6557,7 +6720,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "trankieu@kaizen.edu.vn"
     },
-    "displayId": "MNV S535"
+    "displayId": "MNV S535",
+    "formCCount": 0
   },
   {
     "id": "VH40",
@@ -6597,7 +6761,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "nhanhieu@esuhai.com"
     },
-    "displayId": "MNV VH40"
+    "displayId": "MNV VH40",
+    "formCCount": 0
   },
   {
     "id": "S538",
@@ -6637,7 +6802,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "dothao@kaizen.edu.vn"
     },
-    "displayId": "MNV S538"
+    "displayId": "MNV S538",
+    "formCCount": 4
   },
   {
     "id": "S544",
@@ -6677,7 +6843,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thngoc@kaizen.edu.vn"
     },
-    "displayId": "MNV S544"
+    "displayId": "MNV S544",
+    "formCCount": 1
   },
   {
     "id": "S548",
@@ -6717,7 +6884,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "anhtuyet@kaizen.edu.vn"
     },
-    "displayId": "MNV S548"
+    "displayId": "MNV S548",
+    "formCCount": 1
   },
   {
     "id": "S550",
@@ -6757,7 +6925,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "tranlinh@esuhai.com"
     },
-    "displayId": "MNV S550"
+    "displayId": "MNV S550",
+    "formCCount": 0
   },
   {
     "id": "S555",
@@ -6797,7 +6966,8 @@
       "CHỨC DANH": "Nhân viên Quản lý Data & kiểm soát mục tiêu trên hệ thống",
       "Mail": "thuyhien@esuhai.com"
     },
-    "displayId": "MNV S555"
+    "displayId": "MNV S555",
+    "formCCount": 0
   },
   {
     "id": "S556",
@@ -6837,7 +7007,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nguyenlen@kaizen.edu.vn"
     },
-    "displayId": "MNV S556"
+    "displayId": "MNV S556",
+    "formCCount": 0
   },
   {
     "id": "S559",
@@ -6877,7 +7048,8 @@
       "CHỨC DANH": "Nhân viên thiết kế",
       "Mail": "minhthuan@esuhai.com"
     },
-    "displayId": "MNV S559"
+    "displayId": "MNV S559",
+    "formCCount": 3
   },
   {
     "id": "S561",
@@ -6917,7 +7089,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "kifune@kaizen.edu.vn"
     },
-    "displayId": "MNV S561"
+    "displayId": "MNV S561",
+    "formCCount": 4
   },
   {
     "id": "S566",
@@ -6957,7 +7130,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "namphuong@esuhai.com"
     },
-    "displayId": "MNV S566"
+    "displayId": "MNV S566",
+    "formCCount": 3
   },
   {
     "id": "C047",
@@ -6997,7 +7171,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "kawahara@esuhai.com"
     },
-    "displayId": "MNV C047"
+    "displayId": "MNV C047",
+    "formCCount": 0
   },
   {
     "id": "S574",
@@ -7037,7 +7212,8 @@
       "CHỨC DANH": "Nhân viên bảo trì",
       "Mail": "huutho@esuhai.com"
     },
-    "displayId": "MNV S574"
+    "displayId": "MNV S574",
+    "formCCount": 1
   },
   {
     "id": "S586",
@@ -7077,7 +7253,8 @@
       "CHỨC DANH": "Chuyên viên phân tích dữ liệu (Data Analyst)",
       "Mail": "quoctoan@esuhai.com"
     },
-    "displayId": "MNV S586"
+    "displayId": "MNV S586",
+    "formCCount": 0
   },
   {
     "id": "C048",
@@ -7117,7 +7294,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "furutani@esuhai.com"
     },
-    "displayId": "MNV C048"
+    "displayId": "MNV C048",
+    "formCCount": 3
   },
   {
     "id": "SC01",
@@ -7157,7 +7335,8 @@
       "CHỨC DANH": "Nhân viên truyền thông",
       "Mail": "nguyennhut@esuhai.com"
     },
-    "displayId": "MNV SC01"
+    "displayId": "MNV SC01",
+    "formCCount": 0
   },
   {
     "id": "S602",
@@ -7197,7 +7376,8 @@
       "CHỨC DANH": "Nhân viên Bảo vệ",
       "Mail": "duyphuong@esuhai.com"
     },
-    "displayId": "MNV S602"
+    "displayId": "MNV S602",
+    "formCCount": 0
   },
   {
     "id": "S612",
@@ -7237,7 +7417,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "ngocvtk@esuhai.com"
     },
-    "displayId": "MNV S612"
+    "displayId": "MNV S612",
+    "formCCount": 4
   },
   {
     "id": "S618",
@@ -7277,7 +7458,8 @@
       "CHỨC DANH": "Nhân viên bảo trì",
       "Mail": "vinhnq@esuhai.com"
     },
-    "displayId": "MNV S618"
+    "displayId": "MNV S618",
+    "formCCount": 0
   },
   {
     "id": "S619",
@@ -7317,7 +7499,8 @@
       "CHỨC DANH": "Trợ lý Phó Tổng Giám đốc",
       "Mail": "linhvtm@esuhai.com"
     },
-    "displayId": "MNV S619"
+    "displayId": "MNV S619",
+    "formCCount": 1
   },
   {
     "id": "S621",
@@ -7357,7 +7540,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hoadt@kaizen.edu.vn"
     },
-    "displayId": "MNV S621"
+    "displayId": "MNV S621",
+    "formCCount": 0
   },
   {
     "id": "S624",
@@ -7397,7 +7581,8 @@
       "CHỨC DANH": "Chuyên viên system",
       "Mail": "khanhnd@esuhai.com"
     },
-    "displayId": "MNV S624"
+    "displayId": "MNV S624",
+    "formCCount": 0
   },
   {
     "id": "S625",
@@ -7437,7 +7622,8 @@
       "CHỨC DANH": "Nhân viên văn thư lưu trữ",
       "Mail": "linhvd@esuhai.com"
     },
-    "displayId": "MNV S625"
+    "displayId": "MNV S625",
+    "formCCount": 0
   },
   {
     "id": "S223",
@@ -7477,7 +7663,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuytrinh@kaizen.edu.vn"
     },
-    "displayId": "MNV S223"
+    "displayId": "MNV S223",
+    "formCCount": 0
   },
   {
     "id": "C049",
@@ -7517,7 +7704,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "takaoka@esuhai.com"
     },
-    "displayId": "MNV C049"
+    "displayId": "MNV C049",
+    "formCCount": 0
   },
   {
     "id": "A002",
@@ -7557,7 +7745,8 @@
       "CHỨC DANH": "IT support",
       "Mail": "taitt@esuhai.com"
     },
-    "displayId": "MNV A002"
+    "displayId": "MNV A002",
+    "formCCount": 2
   },
   {
     "id": "S632",
@@ -7597,7 +7786,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (VN)",
       "Mail": "oanhnvt@esuhai.com"
     },
-    "displayId": "MNV S632"
+    "displayId": "MNV S632",
+    "formCCount": 0
   },
   {
     "id": "S055",
@@ -7637,7 +7827,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "tuyenntm@kaizen.edu.vn"
     },
-    "displayId": "MNV S055"
+    "displayId": "MNV S055",
+    "formCCount": 2
   },
   {
     "id": "C051",
@@ -7677,7 +7868,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "hoangnhan@esuhai.com"
     },
-    "displayId": "MNV C051"
+    "displayId": "MNV C051",
+    "formCCount": 4
   },
   {
     "id": "S636",
@@ -7717,7 +7909,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "nguyenntt@esuhai.com"
     },
-    "displayId": "MNV S636"
+    "displayId": "MNV S636",
+    "formCCount": 0
   },
   {
     "id": "S637",
@@ -7757,7 +7950,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "nhuynty@esuhai.com"
     },
-    "displayId": "MNV S637"
+    "displayId": "MNV S637",
+    "formCCount": 0
   },
   {
     "id": "T004",
@@ -7797,7 +7991,8 @@
       "CHỨC DANH": "Trưởng nhóm thiết kế",
       "Mail": "linhtd@esutech.edu.vn"
     },
-    "displayId": "MNV T004"
+    "displayId": "MNV T004",
+    "formCCount": 1
   },
   {
     "id": "S643",
@@ -7837,7 +8032,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "hoshiyama@esuhai.com"
     },
-    "displayId": "MNV S643"
+    "displayId": "MNV S643",
+    "formCCount": 3
   },
   {
     "id": "S644",
@@ -7877,7 +8073,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "phuongnt@esuhai.com"
     },
-    "displayId": "MNV S644"
+    "displayId": "MNV S644",
+    "formCCount": 1
   },
   {
     "id": "S646",
@@ -7917,7 +8114,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nhannq@kaizen.edu.vn"
     },
-    "displayId": "MNV S646"
+    "displayId": "MNV S646",
+    "formCCount": 0
   },
   {
     "id": "VH41",
@@ -7957,7 +8155,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "buithuy@kaizen.edu.vn"
     },
-    "displayId": "MNV VH41"
+    "displayId": "MNV VH41",
+    "formCCount": 0
   },
   {
     "id": "S655",
@@ -7997,7 +8196,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "traptt@kaizen.edu.vn"
     },
-    "displayId": "MNV S655"
+    "displayId": "MNV S655",
+    "formCCount": 0
   },
   {
     "id": "S656",
@@ -8037,7 +8237,8 @@
       "CHỨC DANH": "Phó phòng Pháp chế",
       "Mail": "locnnv@esuhai.com"
     },
-    "displayId": "MNV S656"
+    "displayId": "MNV S656",
+    "formCCount": 2
   },
   {
     "id": "T006",
@@ -8077,7 +8278,8 @@
       "CHỨC DANH": "Chuyên viên Kinh doanh đối ngoại",
       "Mail": "huy.phamdang@esutech.vn"
     },
-    "displayId": "MNV T006"
+    "displayId": "MNV T006",
+    "formCCount": 4
   },
   {
     "id": "P003",
@@ -8117,7 +8319,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "thaotnp@proskills.ac.vn"
     },
-    "displayId": "MNV P003"
+    "displayId": "MNV P003",
+    "formCCount": 0
   },
   {
     "id": "S657",
@@ -8157,7 +8360,8 @@
       "CHỨC DANH": "Nhân viên Thư ký",
       "Mail": "lylth@esuhai.com"
     },
-    "displayId": "MNV S657"
+    "displayId": "MNV S657",
+    "formCCount": 0
   },
   {
     "id": "S658",
@@ -8197,7 +8401,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "phuongvlt@kaizen.edu.vn"
     },
-    "displayId": "MNV S658"
+    "displayId": "MNV S658",
+    "formCCount": 1
   },
   {
     "id": "S659",
@@ -8237,7 +8442,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hangntt@kaizen.edu.vn"
     },
-    "displayId": "MNV S659"
+    "displayId": "MNV S659",
+    "formCCount": 1
   },
   {
     "id": "S662",
@@ -8277,7 +8483,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "anhdl@esuhai.com"
     },
-    "displayId": "MNV S662"
+    "displayId": "MNV S662",
+    "formCCount": 0
   },
   {
     "id": "S663",
@@ -8317,7 +8524,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "tadahisa@kaizen.edu.vn"
     },
-    "displayId": "MNV S663"
+    "displayId": "MNV S663",
+    "formCCount": 3
   },
   {
     "id": "E036",
@@ -8357,7 +8565,8 @@
       "CHỨC DANH": "Nhân viên tư vấn du học",
       "Mail": "lan.nguyenthicam@esutech.vn"
     },
-    "displayId": "MNV E036"
+    "displayId": "MNV E036",
+    "formCCount": 4
   },
   {
     "id": "S669",
@@ -8397,7 +8606,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "nhihty@esuhai.com"
     },
-    "displayId": "MNV S669"
+    "displayId": "MNV S669",
+    "formCCount": 3
   },
   {
     "id": "S670",
@@ -8437,7 +8647,8 @@
       "CHỨC DANH": "Trưởng ban C & B",
       "Mail": "phuongvth@esuhai.com"
     },
-    "displayId": "MNV S670"
+    "displayId": "MNV S670",
+    "formCCount": 4
   },
   {
     "id": "S675",
@@ -8477,7 +8688,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "myptk@esuhai.com"
     },
-    "displayId": "MNV S675"
+    "displayId": "MNV S675",
+    "formCCount": 0
   },
   {
     "id": "S676",
@@ -8517,7 +8729,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "thyvgb@esuhai.com"
     },
-    "displayId": "MNV S676"
+    "displayId": "MNV S676",
+    "formCCount": 4
   },
   {
     "id": "A014",
@@ -8557,7 +8770,8 @@
       "CHỨC DANH": "IT support",
       "Mail": "nghiemnh@esuhai.com"
     },
-    "displayId": "MNV A014"
+    "displayId": "MNV A014",
+    "formCCount": 4
   },
   {
     "id": "A015",
@@ -8597,7 +8811,8 @@
       "CHỨC DANH": "Chuyên viên phân tích dữ liệu (Data Analyst)",
       "Mail": "bantnd@esuhai.com"
     },
-    "displayId": "MNV A015"
+    "displayId": "MNV A015",
+    "formCCount": 0
   },
   {
     "id": "S678",
@@ -8637,7 +8852,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngocltm@kaizen.edu.vn"
     },
-    "displayId": "MNV S678"
+    "displayId": "MNV S678",
+    "formCCount": 1
   },
   {
     "id": "S679",
@@ -8677,7 +8893,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "chauln@kaizen.edu.vn"
     },
-    "displayId": "MNV S679"
+    "displayId": "MNV S679",
+    "formCCount": 4
   },
   {
     "id": "S682",
@@ -8717,7 +8934,8 @@
       "CHỨC DANH": "Giám đốc Dự án Phát triển nguồn nhân lực Esuhai tại tỉnh Trà Vinh và một số tỉnh Đồng Bằng Sông Cửu Long",
       "Mail": "ngocdq@esuhai.com"
     },
-    "displayId": "MNV S682"
+    "displayId": "MNV S682",
+    "formCCount": 0
   },
   {
     "id": "S683",
@@ -8757,7 +8975,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngamtb@kaizen.edu.vn"
     },
-    "displayId": "MNV S683"
+    "displayId": "MNV S683",
+    "formCCount": 0
   },
   {
     "id": "S688",
@@ -8797,7 +9016,8 @@
       "CHỨC DANH": "Nhân viên pháp chế",
       "Mail": "nghinp@esuhai.com"
     },
-    "displayId": "MNV S688"
+    "displayId": "MNV S688",
+    "formCCount": 0
   },
   {
     "id": "S690",
@@ -8837,7 +9057,8 @@
       "CHỨC DANH": "Trưởng ban đối ngoại và phát triển Nguồn lực",
       "Mail": "hungnh@esuhai.com"
     },
-    "displayId": "MNV S690"
+    "displayId": "MNV S690",
+    "formCCount": 1
   },
   {
     "id": "S691",
@@ -8877,7 +9098,8 @@
       "CHỨC DANH": "Nhân viên Kế toán",
       "Mail": "phuongptm@esuhai.com"
     },
-    "displayId": "MNV S691"
+    "displayId": "MNV S691",
+    "formCCount": 0
   },
   {
     "id": "S693",
@@ -8917,7 +9139,8 @@
       "CHỨC DANH": "Nhân viên Hành chánh lễ tân",
       "Mail": "nganntt@esuhai.com"
     },
-    "displayId": "MNV S693"
+    "displayId": "MNV S693",
+    "formCCount": 0
   },
   {
     "id": "T011",
@@ -8957,7 +9180,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển dụng",
       "Mail": "nhinhy@esuhai.com"
     },
-    "displayId": "MNV T011"
+    "displayId": "MNV T011",
+    "formCCount": 0
   },
   {
     "id": "T012",
@@ -8997,7 +9221,8 @@
       "CHỨC DANH": "Trưởng nhóm kỹ sư thiết kế",
       "Mail": "chuyen.nguyenvan@esutech.vn"
     },
-    "displayId": "MNV T012"
+    "displayId": "MNV T012",
+    "formCCount": 0
   },
   {
     "id": "S696",
@@ -9037,7 +9262,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "kohinata@kaizen.edu.vn"
     },
-    "displayId": "MNV S696"
+    "displayId": "MNV S696",
+    "formCCount": 0
   },
   {
     "id": "S274",
@@ -9077,7 +9303,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "tungpq@kaizen.edu.vn"
     },
-    "displayId": "MNV S274"
+    "displayId": "MNV S274",
+    "formCCount": 4
   },
   {
     "id": "S702",
@@ -9117,7 +9344,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "hanv@esuhai.com"
     },
-    "displayId": "MNV S702"
+    "displayId": "MNV S702",
+    "formCCount": 4
   },
   {
     "id": "S703",
@@ -9157,7 +9385,8 @@
       "CHỨC DANH": "Nhân viên nhân sự",
       "Mail": "huynhn@esuhai.com"
     },
-    "displayId": "MNV S703"
+    "displayId": "MNV S703",
+    "formCCount": 0
   },
   {
     "id": "S708",
@@ -9197,7 +9426,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "anhhnt@esuhai.com"
     },
-    "displayId": "MNV S708"
+    "displayId": "MNV S708",
+    "formCCount": 2
   },
   {
     "id": "S709",
@@ -9237,7 +9467,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "anhpnt@esuhai.com"
     },
-    "displayId": "MNV S709"
+    "displayId": "MNV S709",
+    "formCCount": 3
   },
   {
     "id": "W008",
@@ -9277,7 +9508,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "lan.dangthi@esutech.vn"
     },
-    "displayId": "MNV W008"
+    "displayId": "MNV W008",
+    "formCCount": 0
   },
   {
     "id": "S712",
@@ -9317,7 +9549,8 @@
       "CHỨC DANH": "Cố vấn đối ngoại Esuhai Đà Nẵng và khu vực miền Trung",
       "Mail": "phuoch@esuhai.com"
     },
-    "displayId": "MNV S712"
+    "displayId": "MNV S712",
+    "formCCount": 0
   },
   {
     "id": "S713",
@@ -9357,7 +9590,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "sondt@kaizen.edu.vn"
     },
-    "displayId": "MNV S713"
+    "displayId": "MNV S713",
+    "formCCount": 0
   },
   {
     "id": "S717",
@@ -9397,7 +9631,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nhivtp@kaizen.edu.vn"
     },
-    "displayId": "MNV S717"
+    "displayId": "MNV S717",
+    "formCCount": 1
   },
   {
     "id": "S719",
@@ -9437,7 +9672,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ (AS)",
       "Mail": "thanhntn@esuhai.com"
     },
-    "displayId": "MNV S719"
+    "displayId": "MNV S719",
+    "formCCount": 0
   },
   {
     "id": "P008",
@@ -9477,7 +9713,8 @@
       "CHỨC DANH": "Giáo viên thể chất",
       "Mail": "nhunt@proskills.ac.vn"
     },
-    "displayId": "MNV P008"
+    "displayId": "MNV P008",
+    "formCCount": 0
   },
   {
     "id": "S724",
@@ -9517,7 +9754,8 @@
       "CHỨC DANH": "Nhân viên Kế toán tổng hợp",
       "Mail": "linhnty@esuhai.com"
     },
-    "displayId": "MNV S724"
+    "displayId": "MNV S724",
+    "formCCount": 3
   },
   {
     "id": "S726",
@@ -9557,7 +9795,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "buunt@esuhai.com"
     },
-    "displayId": "MNV S726"
+    "displayId": "MNV S726",
+    "formCCount": 1
   },
   {
     "id": "S728",
@@ -9597,7 +9836,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "kieudtt@esuhai.com"
     },
-    "displayId": "MNV S728"
+    "displayId": "MNV S728",
+    "formCCount": 3
   },
   {
     "id": "S732",
@@ -9637,7 +9877,8 @@
       "CHỨC DANH": "Biên tập viên",
       "Mail": "thidnl@esuhai.com"
     },
-    "displayId": "MNV S732"
+    "displayId": "MNV S732",
+    "formCCount": 3
   },
   {
     "id": "S734",
@@ -9677,7 +9918,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thangvm@kaizen.edu.vn"
     },
-    "displayId": "MNV S734"
+    "displayId": "MNV S734",
+    "formCCount": 4
   },
   {
     "id": "S735",
@@ -9717,7 +9959,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "quyenld@kaizen.edu.vn"
     },
-    "displayId": "MNV S735"
+    "displayId": "MNV S735",
+    "formCCount": 0
   },
   {
     "id": "T013",
@@ -9757,7 +10000,8 @@
       "CHỨC DANH": "COO Esutech",
       "Mail": "masuda@esuhai.com"
     },
-    "displayId": "MNV T013"
+    "displayId": "MNV T013",
+    "formCCount": 0
   },
   {
     "id": "S740",
@@ -9797,7 +10041,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ (AS)",
       "Mail": "phungtk@esuhai.com"
     },
-    "displayId": "MNV S740"
+    "displayId": "MNV S740",
+    "formCCount": 1
   },
   {
     "id": "W009",
@@ -9837,7 +10082,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "thaontt@esuhai.com"
     },
-    "displayId": "MNV W009"
+    "displayId": "MNV W009",
+    "formCCount": 2
   },
   {
     "id": "P010",
@@ -9877,7 +10123,8 @@
       "CHỨC DANH": "Giáo viên thể chất",
       "Mail": "nguyennt@proskills.ac.vn"
     },
-    "displayId": "MNV P010"
+    "displayId": "MNV P010",
+    "formCCount": 4
   },
   {
     "id": "P011",
@@ -9917,7 +10164,8 @@
       "CHỨC DANH": "Giáo viên thể chất",
       "Mail": "danth@proskills.ac.vn"
     },
-    "displayId": "MNV P011"
+    "displayId": "MNV P011",
+    "formCCount": 2
   },
   {
     "id": "SD01",
@@ -9957,7 +10205,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tạo nguồn (MS)",
       "Mail": "trungnh@esuhai.com"
     },
-    "displayId": "MNV SD01"
+    "displayId": "MNV SD01",
+    "formCCount": 1
   },
   {
     "id": "S744",
@@ -9997,7 +10246,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "phuongntm1@kaizen.edu.vn"
     },
-    "displayId": "MNV S744"
+    "displayId": "MNV S744",
+    "formCCount": 1
   },
   {
     "id": "T014",
@@ -10037,7 +10287,8 @@
       "CHỨC DANH": "Trưởng nhóm kỹ sư thiết kế",
       "Mail": "huyen.tranthi@esutech.vn"
     },
-    "displayId": "MNV T014"
+    "displayId": "MNV T014",
+    "formCCount": 2
   },
   {
     "id": "T016",
@@ -10077,7 +10328,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế",
       "Mail": "loc.tranquoc@esutech.vn"
     },
-    "displayId": "MNV T016"
+    "displayId": "MNV T016",
+    "formCCount": 4
   },
   {
     "id": "S745",
@@ -10117,7 +10369,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "tienvp@kaizen.edu.vn"
     },
-    "displayId": "MNV S745"
+    "displayId": "MNV S745",
+    "formCCount": 0
   },
   {
     "id": "S748",
@@ -10157,7 +10410,8 @@
       "CHỨC DANH": "Nhân viên Pháp chế",
       "Mail": "nhita@esuhai.com"
     },
-    "displayId": "MNV S748"
+    "displayId": "MNV S748",
+    "formCCount": 0
   },
   {
     "id": "S749",
@@ -10197,7 +10451,8 @@
       "CHỨC DANH": "Trưởng phòng Nhân sự",
       "Mail": "vynnl@esuhai.com"
     },
-    "displayId": "MNV S749"
+    "displayId": "MNV S749",
+    "formCCount": 4
   },
   {
     "id": "S750",
@@ -10237,7 +10492,8 @@
       "CHỨC DANH": "Nhân viên hỗ trợ khách hàng",
       "Mail": "thinhtp@esuhai.com"
     },
-    "displayId": "MNV S750"
+    "displayId": "MNV S750",
+    "formCCount": 0
   },
   {
     "id": "SD02",
@@ -10277,7 +10533,8 @@
       "CHỨC DANH": "Trưởng ban Marketing và Truyền thông Esuhai ĐN (MS1) ",
       "Mail": "hantt@esuhai.com"
     },
-    "displayId": "MNV SD02"
+    "displayId": "MNV SD02",
+    "formCCount": 4
   },
   {
     "id": "S753",
@@ -10317,7 +10574,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng",
       "Mail": "hanhntm@esuhai.com"
     },
-    "displayId": "MNV S753"
+    "displayId": "MNV S753",
+    "formCCount": 3
   },
   {
     "id": "W010",
@@ -10357,7 +10615,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "thuntm@esuhai.com"
     },
-    "displayId": "MNV W010"
+    "displayId": "MNV W010",
+    "formCCount": 0
   },
   {
     "id": "W011",
@@ -10397,7 +10656,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "thihm@esuhai.com"
     },
-    "displayId": "MNV W011"
+    "displayId": "MNV W011",
+    "formCCount": 1
   },
   {
     "id": "S756",
@@ -10437,7 +10697,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng",
       "Mail": "phuongnth@esuhai.com"
     },
-    "displayId": "MNV S756"
+    "displayId": "MNV S756",
+    "formCCount": 0
   },
   {
     "id": "S765",
@@ -10477,7 +10738,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "nhungntt@kaizen.edu.vn"
     },
-    "displayId": "MNV S765"
+    "displayId": "MNV S765",
+    "formCCount": 2
   },
   {
     "id": "S766",
@@ -10517,7 +10779,8 @@
       "CHỨC DANH": "Nhân viên Tài xế",
       "Mail": "thongth@esuhai.com"
     },
-    "displayId": "MNV S766"
+    "displayId": "MNV S766",
+    "formCCount": 0
   },
   {
     "id": "S768",
@@ -10557,7 +10820,8 @@
       "CHỨC DANH": "Thành viên Ban R&D, Phát triển dự án Chóp Chép",
       "Mail": "nghiqt@esuhai.com"
     },
-    "displayId": "MNV S768"
+    "displayId": "MNV S768",
+    "formCCount": 4
   },
   {
     "id": "T019",
@@ -10597,7 +10861,8 @@
       "CHỨC DANH": "Nhân viên tư vấn Tuyển dụng",
       "Mail": "ngocntk@esuhai.com"
     },
-    "displayId": "MNV T019"
+    "displayId": "MNV T019",
+    "formCCount": 4
   },
   {
     "id": "S769",
@@ -10637,7 +10902,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngocntb@esuhai.com"
     },
-    "displayId": "MNV S769"
+    "displayId": "MNV S769",
+    "formCCount": 0
   },
   {
     "id": "A017",
@@ -10677,7 +10943,8 @@
       "CHỨC DANH": "Nhân viên Hậu kỳ Video",
       "Mail": "phuocth@esuhai.com"
     },
-    "displayId": "MNV A017"
+    "displayId": "MNV A017",
+    "formCCount": 3
   },
   {
     "id": "S770",
@@ -10717,7 +10984,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch",
       "Mail": "trinhvtm@esuhai.com"
     },
-    "displayId": "MNV S770"
+    "displayId": "MNV S770",
+    "formCCount": 0
   },
   {
     "id": "W012",
@@ -10757,7 +11025,8 @@
       "CHỨC DANH": "Nhân viên kinh doanh",
       "Mail": "hopvt@esuhai.com"
     },
-    "displayId": "MNV W012"
+    "displayId": "MNV W012",
+    "formCCount": 0
   },
   {
     "id": "S774",
@@ -10797,7 +11066,8 @@
       "CHỨC DANH": "Front-end developer ",
       "Mail": "trapc@esuhai.com"
     },
-    "displayId": "MNV S774"
+    "displayId": "MNV S774",
+    "formCCount": 0
   },
   {
     "id": "S775",
@@ -10837,7 +11107,8 @@
       "CHỨC DANH": "Nhân viên Thư ký (truyền thông)",
       "Mail": "dungntt@esuhai.com"
     },
-    "displayId": "MNV S775"
+    "displayId": "MNV S775",
+    "formCCount": 3
   },
   {
     "id": "T020",
@@ -10877,7 +11148,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyển dụng",
       "Mail": "tien.lethanh@esutech.vn"
     },
-    "displayId": "MNV T020"
+    "displayId": "MNV T020",
+    "formCCount": 4
   },
   {
     "id": "T021",
@@ -10917,7 +11189,8 @@
       "CHỨC DANH": "Phó giám đốc vận hành - Esutech",
       "Mail": "hieu.nguyentrung@esutech.vn"
     },
-    "displayId": "MNV T021"
+    "displayId": "MNV T021",
+    "formCCount": 3
   },
   {
     "id": "S776",
@@ -10957,7 +11230,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thongnm@kaizen.edu.vn"
     },
-    "displayId": "MNV S776"
+    "displayId": "MNV S776",
+    "formCCount": 3
   },
   {
     "id": "S777",
@@ -10997,7 +11271,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hanhpn@kaizen.edu.vn"
     },
-    "displayId": "MNV S777"
+    "displayId": "MNV S777",
+    "formCCount": 4
   },
   {
     "id": "S779",
@@ -11037,7 +11312,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn tạo nguồn (MS)",
       "Mail": "tienvtc@esuhai.com"
     },
-    "displayId": "MNV S779"
+    "displayId": "MNV S779",
+    "formCCount": 2
   },
   {
     "id": "A019",
@@ -11077,7 +11353,8 @@
       "CHỨC DANH": "Nhân viên Phân tích dữ liệu - Data Analyst",
       "Mail": "nhihy@esuhai.com"
     },
-    "displayId": "MNV A019"
+    "displayId": "MNV A019",
+    "formCCount": 4
   },
   {
     "id": "S782",
@@ -11117,7 +11394,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn tạo nguồn (MS)",
       "Mail": "thanhlt@esuhai.com"
     },
-    "displayId": "MNV S782"
+    "displayId": "MNV S782",
+    "formCCount": 2
   },
   {
     "id": "T022",
@@ -11157,7 +11435,8 @@
       "CHỨC DANH": "Nhân viên Tổng vụ Esutech",
       "Mail": "linh.vitranphuong@esutech.vn"
     },
-    "displayId": "MNV T022"
+    "displayId": "MNV T022",
+    "formCCount": 1
   },
   {
     "id": "T024",
@@ -11197,7 +11476,8 @@
       "CHỨC DANH": "Trưởng ban Marketing",
       "Mail": "hai.phamhuu@esutech.vn"
     },
-    "displayId": "MNV T024"
+    "displayId": "MNV T024",
+    "formCCount": 0
   },
   {
     "id": "S800",
@@ -11237,7 +11517,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "yamaoka@esuhai.com"
     },
-    "displayId": "MNV S800"
+    "displayId": "MNV S800",
+    "formCCount": 0
   },
   {
     "id": "T025",
@@ -11277,7 +11558,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế",
       "Mail": "loc.levan@esutech.vn"
     },
-    "displayId": "MNV T025"
+    "displayId": "MNV T025",
+    "formCCount": 3
   },
   {
     "id": "T026",
@@ -11317,7 +11599,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế",
       "Mail": "nguyen.nguyenthanh@esutech.vn"
     },
-    "displayId": "MNV T026"
+    "displayId": "MNV T026",
+    "formCCount": 2
   },
   {
     "id": "S790",
@@ -11357,7 +11640,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nhintt@kaizen.edu.vn"
     },
-    "displayId": "MNV S790"
+    "displayId": "MNV S790",
+    "formCCount": 0
   },
   {
     "id": "S791",
@@ -11397,7 +11681,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "ryu@kaizen.edu.vn"
     },
-    "displayId": "MNV S791"
+    "displayId": "MNV S791",
+    "formCCount": 0
   },
   {
     "id": "S792",
@@ -11437,7 +11722,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn tạo nguồn (MS)",
       "Mail": "nhungtth@esuhai.com"
     },
-    "displayId": "MNV S792"
+    "displayId": "MNV S792",
+    "formCCount": 0
   },
   {
     "id": "S797",
@@ -11477,7 +11763,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "phuongnn@esuhai.com"
     },
-    "displayId": "MNV S797"
+    "displayId": "MNV S797",
+    "formCCount": 0
   },
   {
     "id": "T028",
@@ -11517,7 +11804,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế",
       "Mail": "kim.tranthanh@esutech.vn"
     },
-    "displayId": "MNV T028"
+    "displayId": "MNV T028",
+    "formCCount": 0
   },
   {
     "id": "S798",
@@ -11557,7 +11845,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "phuongbt@kaizen.edu.vn"
     },
-    "displayId": "MNV S798"
+    "displayId": "MNV S798",
+    "formCCount": 2
   },
   {
     "id": "S799",
@@ -11597,7 +11886,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "xuandd@esuhai.com"
     },
-    "displayId": "MNV S799"
+    "displayId": "MNV S799",
+    "formCCount": 0
   },
   {
     "id": "S801",
@@ -11637,7 +11927,8 @@
       "CHỨC DANH": "Giáo viên - Kaigo",
       "Mail": "suongltt@kaizen.edu.vn"
     },
-    "displayId": "MNV S801"
+    "displayId": "MNV S801",
+    "formCCount": 4
   },
   {
     "id": "P018",
@@ -11677,7 +11968,8 @@
       "CHỨC DANH": "Chuyên viên chăm sóc học viên",
       "Mail": "thuyptx@proskills.ac.vn"
     },
-    "displayId": "MNV P018"
+    "displayId": "MNV P018",
+    "formCCount": 4
   },
   {
     "id": "A023",
@@ -11717,7 +12009,8 @@
       "CHỨC DANH": "SENIOR.NET DEVELOPER (CV lập trình .Net)",
       "Mail": "duyvt@esuhai.com"
     },
-    "displayId": "MNV A023"
+    "displayId": "MNV A023",
+    "formCCount": 3
   },
   {
     "id": "T030",
@@ -11757,7 +12050,8 @@
       "CHỨC DANH": "Nhân viên Marketing",
       "Mail": "dung.nguyenthuy@esutech.vn"
     },
-    "displayId": "MNV T030"
+    "displayId": "MNV T030",
+    "formCCount": 0
   },
   {
     "id": "S804",
@@ -11797,7 +12091,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyển sinh (MS)",
       "Mail": "nhungdtt@esuhai.com"
     },
-    "displayId": "MNV S804"
+    "displayId": "MNV S804",
+    "formCCount": 4
   },
   {
     "id": "S805",
@@ -11837,7 +12132,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ (AS)",
       "Mail": "chinhlnh@esuhai.com"
     },
-    "displayId": "MNV S805"
+    "displayId": "MNV S805",
+    "formCCount": 0
   },
   {
     "id": "S802",
@@ -11877,7 +12173,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyển sinh (MS)",
       "Mail": "truchpb@esuhai.com"
     },
-    "displayId": "MNV S802"
+    "displayId": "MNV S802",
+    "formCCount": 0
   },
   {
     "id": "T029",
@@ -11917,7 +12214,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế Catia ",
       "Mail": "bao.tran@esutech.vn"
     },
-    "displayId": "MNV T029"
+    "displayId": "MNV T029",
+    "formCCount": 2
   },
   {
     "id": "A024",
@@ -11957,7 +12255,8 @@
       "CHỨC DANH": "Chuyên viên UI/UX designer",
       "Mail": "trungtq@esuhai.com"
     },
-    "displayId": "MNV A024"
+    "displayId": "MNV A024",
+    "formCCount": 4
   },
   {
     "id": "S808",
@@ -11997,7 +12296,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch ",
       "Mail": "trinhnqm@esuhai.com"
     },
-    "displayId": "MNV S808"
+    "displayId": "MNV S808",
+    "formCCount": 0
   },
   {
     "id": "S810",
@@ -12037,7 +12337,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "ngadt@kaizen.edu.vn"
     },
-    "displayId": "MNV S810"
+    "displayId": "MNV S810",
+    "formCCount": 1
   },
   {
     "id": "S811",
@@ -12077,7 +12378,8 @@
       "CHỨC DANH": "Nhân viên An Ninh",
       "Mail": "hieuhp@esuhai.com"
     },
-    "displayId": "MNV S811"
+    "displayId": "MNV S811",
+    "formCCount": 1
   },
   {
     "id": "S812",
@@ -12117,7 +12419,8 @@
       "CHỨC DANH": "Chuyên viên giám sát dự án xây dựng",
       "Mail": "thinhld@esuhai.com"
     },
-    "displayId": "MNV S812"
+    "displayId": "MNV S812",
+    "formCCount": 0
   },
   {
     "id": "S813",
@@ -12157,7 +12460,8 @@
       "CHỨC DANH": "Nhân viên An Ninh",
       "Mail": "hailc@esuhai.com"
     },
-    "displayId": "MNV S813"
+    "displayId": "MNV S813",
+    "formCCount": 2
   },
   {
     "id": "A027",
@@ -12197,7 +12501,8 @@
       "CHỨC DANH": "IT support",
       "Mail": "longnh@esuhai.com"
     },
-    "displayId": "MNV A027"
+    "displayId": "MNV A027",
+    "formCCount": 0
   },
   {
     "id": "A028",
@@ -12237,7 +12542,8 @@
       "CHỨC DANH": "Nhân viên Tester",
       "Mail": "anhblm@esuhai.com"
     },
-    "displayId": "MNV A028"
+    "displayId": "MNV A028",
+    "formCCount": 1
   },
   {
     "id": "A030",
@@ -12277,7 +12583,8 @@
       "CHỨC DANH": "Biên tập viên",
       "Mail": "hoantk@esuhai.com"
     },
-    "displayId": "MNV A030"
+    "displayId": "MNV A030",
+    "formCCount": 4
   },
   {
     "id": "S815",
@@ -12317,7 +12624,8 @@
       "CHỨC DANH": "Giáo viên tiếng Nhật - Gate Awards",
       "Mail": "duongnt@esuhai.com"
     },
-    "displayId": "MNV S815"
+    "displayId": "MNV S815",
+    "formCCount": 0
   },
   {
     "id": "S816",
@@ -12357,7 +12665,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "thuongnnt@kaizen.edu.vn"
     },
-    "displayId": "MNV S816"
+    "displayId": "MNV S816",
+    "formCCount": 0
   },
   {
     "id": "A031",
@@ -12397,7 +12706,8 @@
       "CHỨC DANH": "Chuyên viên UI/UX designer",
       "Mail": "tuantq@esuhai.com"
     },
-    "displayId": "MNV A031"
+    "displayId": "MNV A031",
+    "formCCount": 1
   },
   {
     "id": "S820",
@@ -12437,7 +12747,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "chiphu@kaizen.edu.vn"
     },
-    "displayId": "MNV S820"
+    "displayId": "MNV S820",
+    "formCCount": 2
   },
   {
     "id": "T032",
@@ -12477,7 +12788,8 @@
       "CHỨC DANH": "Nhân viên MS - Tư vấn tạo nguồn kỹ sư",
       "Mail": "anh.mactuan@esutech.vn"
     },
-    "displayId": "MNV T032"
+    "displayId": "MNV T032",
+    "formCCount": 1
   },
   {
     "id": "S818",
@@ -12517,7 +12829,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "yennh@kaizen.edu.vn"
     },
-    "displayId": "MNV S818"
+    "displayId": "MNV S818",
+    "formCCount": 0
   },
   {
     "id": "S819",
@@ -12557,7 +12870,8 @@
       "CHỨC DANH": "Nhân viên Pháp chế",
       "Mail": "xuantt@esuhai.com"
     },
-    "displayId": "MNV S819"
+    "displayId": "MNV S819",
+    "formCCount": 2
   },
   {
     "id": "S821",
@@ -12597,7 +12911,8 @@
       "CHỨC DANH": "Giáo viên kỹ năng",
       "Mail": "quynhntn@proskills.ac.vn"
     },
-    "displayId": "MNV S821"
+    "displayId": "MNV S821",
+    "formCCount": 0
   },
   {
     "id": "S822",
@@ -12637,7 +12952,8 @@
       "CHỨC DANH": "Trưởng ban Quản trị Tài chính (Khối đào tạo)",
       "Mail": "lelm@kaizen.edu.vn"
     },
-    "displayId": "MNV S822"
+    "displayId": "MNV S822",
+    "formCCount": 0
   },
   {
     "id": "S823",
@@ -12677,7 +12993,8 @@
       "CHỨC DANH": "Chuyên viên Truyền thông",
       "Mail": "shiho@esuhai.com"
     },
-    "displayId": "MNV S823"
+    "displayId": "MNV S823",
+    "formCCount": 2
   },
   {
     "id": "C052",
@@ -12717,7 +13034,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "huongct@esuhai.com"
     },
-    "displayId": "MNV C052"
+    "displayId": "MNV C052",
+    "formCCount": 0
   },
   {
     "id": "S827",
@@ -12757,7 +13075,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tạo nguồn (MS)",
       "Mail": "truclth@esuhai.com"
     },
-    "displayId": "MNV S827"
+    "displayId": "MNV S827",
+    "formCCount": 0
   },
   {
     "id": "S828",
@@ -12797,7 +13116,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyển sinh (MS)",
       "Mail": "linhnpn@esuhai.com"
     },
-    "displayId": "MNV S828"
+    "displayId": "MNV S828",
+    "formCCount": 2
   },
   {
     "id": "S829",
@@ -12837,7 +13157,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyển sinh (MS)",
       "Mail": "thunhm@esuhai.com"
     },
-    "displayId": "MNV S829"
+    "displayId": "MNV S829",
+    "formCCount": 1
   },
   {
     "id": "S833",
@@ -12877,7 +13198,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "nakao@kaizen.edu.vn"
     },
-    "displayId": "MNV S833"
+    "displayId": "MNV S833",
+    "formCCount": 0
   },
   {
     "id": "S834",
@@ -12917,7 +13239,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "egami@kaizen.edu.vn"
     },
-    "displayId": "MNV S834"
+    "displayId": "MNV S834",
+    "formCCount": 0
   },
   {
     "id": "S835",
@@ -12957,7 +13280,8 @@
       "CHỨC DANH": "Chuyên viên Quản trị Tài chính",
       "Mail": "halt@esuhai.com"
     },
-    "displayId": "MNV S835"
+    "displayId": "MNV S835",
+    "formCCount": 0
   },
   {
     "id": "S836",
@@ -12997,7 +13321,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tuyến sinh (MS)",
       "Mail": "phuonghm@esuhai.com"
     },
-    "displayId": "MNV S836"
+    "displayId": "MNV S836",
+    "formCCount": 0
   },
   {
     "id": "S839",
@@ -13037,7 +13362,8 @@
       "CHỨC DANH": "Nhân viên Tuyển dụng ",
       "Mail": "tranhtb@esuhai.com"
     },
-    "displayId": "MNV S839"
+    "displayId": "MNV S839",
+    "formCCount": 2
   },
   {
     "id": "S840",
@@ -13077,7 +13403,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuonglt@kaizen.edu.vn"
     },
-    "displayId": "MNV S840"
+    "displayId": "MNV S840",
+    "formCCount": 0
   },
   {
     "id": "S841",
@@ -13117,7 +13444,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "hieutlt@kaizen.edu.vn"
     },
-    "displayId": "MNV S841"
+    "displayId": "MNV S841",
+    "formCCount": 2
   },
   {
     "id": "C053",
@@ -13157,7 +13485,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "lienht@esuhai.com"
     },
-    "displayId": "MNV C053"
+    "displayId": "MNV C053",
+    "formCCount": 1
   },
   {
     "id": "S842",
@@ -13197,7 +13526,8 @@
       "CHỨC DANH": "Nhân viên An Ninh",
       "Mail": "sonlt@esuhai.com"
     },
-    "displayId": "MNV S842"
+    "displayId": "MNV S842",
+    "formCCount": 3
   },
   {
     "id": "S843",
@@ -13237,7 +13567,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "kageyama@kaizen.edu.vn"
     },
-    "displayId": "MNV S843"
+    "displayId": "MNV S843",
+    "formCCount": 4
   },
   {
     "id": "S000844",
@@ -13277,7 +13608,8 @@
       "CHỨC DANH": "Phó giám đốc vận hành - Esutech",
       "Mail": "imamachi@esutech.vn"
     },
-    "displayId": "MNV S000844"
+    "displayId": "MNV S000844",
+    "formCCount": 3
   },
   {
     "id": "S000847",
@@ -13317,7 +13649,8 @@
       "CHỨC DANH": "Nhân viên An Ninh",
       "Mail": "phuclv@esuhai.com"
     },
-    "displayId": "MNV S000847"
+    "displayId": "MNV S000847",
+    "formCCount": 0
   },
   {
     "id": "S000848",
@@ -13357,7 +13690,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "tamlh@kaizen.edu.vn"
     },
-    "displayId": "MNV S000848"
+    "displayId": "MNV S000848",
+    "formCCount": 3
   },
   {
     "id": "S000849",
@@ -13397,7 +13731,8 @@
       "CHỨC DANH": "Nhân viên lập trình PHP",
       "Mail": "phidq@esuhai.com"
     },
-    "displayId": "MNV S000849"
+    "displayId": "MNV S000849",
+    "formCCount": 0
   },
   {
     "id": "S000850",
@@ -13437,7 +13772,8 @@
       "CHỨC DANH": "Chuyên viên Media",
       "Mail": "sangnlb@esuhai.com"
     },
-    "displayId": "MNV S000850"
+    "displayId": "MNV S000850",
+    "formCCount": 0
   },
   {
     "id": "S000851",
@@ -13477,7 +13813,8 @@
       "CHỨC DANH": "Thành viên IDS",
       "Mail": "hoant@esuhai.com"
     },
-    "displayId": "MNV S000851"
+    "displayId": "MNV S000851",
+    "formCCount": 0
   },
   {
     "id": "S000853",
@@ -13517,7 +13854,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "arisa@kaizen.edu.vn"
     },
-    "displayId": "MNV S000853"
+    "displayId": "MNV S000853",
+    "formCCount": 0
   },
   {
     "id": "S000854",
@@ -13557,7 +13895,8 @@
       "CHỨC DANH": "Trợ lý Tổng Giám đốc",
       "Mail": "tientv@esuhai.com"
     },
-    "displayId": "MNV S000854"
+    "displayId": "MNV S000854",
+    "formCCount": 3
   },
   {
     "id": "S000855",
@@ -13597,7 +13936,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ phái cử",
       "Mail": "thanhntd@esuhai.com"
     },
-    "displayId": "MNV S000855"
+    "displayId": "MNV S000855",
+    "formCCount": 0
   },
   {
     "id": "C054",
@@ -13637,7 +13977,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "thutta@esuhai.com"
     },
-    "displayId": "MNV C054"
+    "displayId": "MNV C054",
+    "formCCount": 4
   },
   {
     "id": "S000857",
@@ -13677,7 +14018,8 @@
       "CHỨC DANH": "Nhân viên hồ sơ",
       "Mail": "linh.nguyenthituyet@esutech.vn"
     },
-    "displayId": "MNV S000857"
+    "displayId": "MNV S000857",
+    "formCCount": 4
   },
   {
     "id": "S000859",
@@ -13717,7 +14059,8 @@
       "CHỨC DANH": "Giáo viên kỹ năng",
       "Mail": "uyenlt@proskills.ac.vn"
     },
-    "displayId": "MNV S000859"
+    "displayId": "MNV S000859",
+    "formCCount": 2
   },
   {
     "id": "C055",
@@ -13757,7 +14100,8 @@
       "CHỨC DANH": "Nhân viên khai thác khách hàng (NB)",
       "Mail": "hoinv@esuhai.com"
     },
-    "displayId": "MNV C055"
+    "displayId": "MNV C055",
+    "formCCount": 3
   },
   {
     "id": "S000862",
@@ -13797,7 +14141,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thopq@kaizen.edu.vn"
     },
-    "displayId": "MNV S000862"
+    "displayId": "MNV S000862",
+    "formCCount": 4
   },
   {
     "id": "S000863",
@@ -13837,7 +14182,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch Hồ sơ",
       "Mail": "linhhtm@esuhai.com"
     },
-    "displayId": "MNV S000863"
+    "displayId": "MNV S000863",
+    "formCCount": 3
   },
   {
     "id": "S000864",
@@ -13877,7 +14223,8 @@
       "CHỨC DANH": "Nhân viên Marketing",
       "Mail": "vynnt@esuhai.com"
     },
-    "displayId": "MNV S000864"
+    "displayId": "MNV S000864",
+    "formCCount": 1
   },
   {
     "id": "S000865",
@@ -13917,7 +14264,8 @@
       "CHỨC DANH": "Kỹ sư thiết kế",
       "Mail": "cuong.dinhvan@esutech.vn"
     },
-    "displayId": "MNV S000865"
+    "displayId": "MNV S000865",
+    "formCCount": 1
   },
   {
     "id": "S000866",
@@ -13957,7 +14305,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch hỗ trợ khách hàng",
       "Mail": "locpt@esuhai.com"
     },
-    "displayId": "MNV S000866"
+    "displayId": "MNV S000866",
+    "formCCount": 0
   },
   {
     "id": "S000867",
@@ -13997,7 +14346,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tạo nguồn (MS)",
       "Mail": "latcs@esuhai.com"
     },
-    "displayId": "MNV S000867"
+    "displayId": "MNV S000867",
+    "formCCount": 3
   },
   {
     "id": "S000868",
@@ -14037,7 +14387,8 @@
       "CHỨC DANH": "Nhân viên Matching Kỹ sư",
       "Mail": "thao.nguyenthithanh@esutech.vn"
     },
-    "displayId": "MNV S000868"
+    "displayId": "MNV S000868",
+    "formCCount": 3
   },
   {
     "id": "S000869",
@@ -14077,7 +14428,8 @@
       "CHỨC DANH": "Nhân viên Hành chánh lễ tân",
       "Mail": "ngannpt@esuhai.com"
     },
-    "displayId": "MNV S000869"
+    "displayId": "MNV S000869",
+    "formCCount": 0
   },
   {
     "id": "S000870",
@@ -14117,7 +14469,8 @@
       "CHỨC DANH": "Nhân viên Hồ sơ",
       "Mail": "quynhpnn@esuhai.com"
     },
-    "displayId": "MNV S000870"
+    "displayId": "MNV S000870",
+    "formCCount": 0
   },
   {
     "id": "S000871",
@@ -14157,7 +14510,8 @@
       "CHỨC DANH": "Giáo viên thể chất - Quản sinh",
       "Mail": "hieuqt@proskills.ac.vn"
     },
-    "displayId": "MNV S000871"
+    "displayId": "MNV S000871",
+    "formCCount": 2
   },
   {
     "id": "S000872",
@@ -14197,7 +14551,8 @@
       "CHỨC DANH": "Nhân viên Tạp vụ",
       "Mail": "lanlc@esuhai.com"
     },
-    "displayId": "MNV S000872"
+    "displayId": "MNV S000872",
+    "formCCount": 0
   },
   {
     "id": "S000875",
@@ -14237,7 +14592,8 @@
       "CHỨC DANH": "Nhân viên Tư vấn Tạo nguồn (MS)",
       "Mail": "huongtnk@esuhai.com"
     },
-    "displayId": "MNV S000875"
+    "displayId": "MNV S000875",
+    "formCCount": 2
   },
   {
     "id": "S000876",
@@ -14277,7 +14633,8 @@
       "CHỨC DANH": "Nhân viên Hành chánh lễ tân",
       "Mail": "oanhdt@esuhai.com"
     },
-    "displayId": "MNV S000876"
+    "displayId": "MNV S000876",
+    "formCCount": 2
   },
   {
     "id": "S000877",
@@ -14317,7 +14674,8 @@
       "CHỨC DANH": "Nhân viên An Ninh",
       "Mail": "chiennd@esuhai.com"
     },
-    "displayId": "MNV S000877"
+    "displayId": "MNV S000877",
+    "formCCount": 4
   },
   {
     "id": "S000878",
@@ -14357,7 +14715,8 @@
       "CHỨC DANH": "Nhân viên Thiết kế - Graphic",
       "Mail": "dieunv@esuhai.com"
     },
-    "displayId": "MNV S000878"
+    "displayId": "MNV S000878",
+    "formCCount": 1
   },
   {
     "id": "S000879",
@@ -14397,7 +14756,8 @@
       "CHỨC DANH": "Chuyên viên khai thác khách hàng (VN)",
       "Mail": "sugiyama@esuhai.com"
     },
-    "displayId": "MNV S000879"
+    "displayId": "MNV S000879",
+    "formCCount": 0
   },
   {
     "id": "S000880",
@@ -14437,7 +14797,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch",
       "Mail": "thiennh@esuhai.com"
     },
-    "displayId": "MNV S000880"
+    "displayId": "MNV S000880",
+    "formCCount": 0
   },
   {
     "id": "S000881",
@@ -14477,7 +14838,8 @@
       "CHỨC DANH": "Chuyên viên kế toán",
       "Mail": "ngocnth@esuhai.com"
     },
-    "displayId": "MNV S000881"
+    "displayId": "MNV S000881",
+    "formCCount": 0
   },
   {
     "id": "S000882",
@@ -14517,7 +14879,8 @@
       "CHỨC DANH": "Nhân viên Phân tích dữ liệu - Data Analyst",
       "Mail": "nghiatq@esuhai.com"
     },
-    "displayId": "MNV S000882"
+    "displayId": "MNV S000882",
+    "formCCount": 0
   },
   {
     "id": "S000883",
@@ -14557,7 +14920,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tuyển sinh",
       "Mail": "vandtc@esuhai.com"
     },
-    "displayId": "MNV S000883"
+    "displayId": "MNV S000883",
+    "formCCount": 2
   },
   {
     "id": "S000885",
@@ -14597,7 +14961,8 @@
       "CHỨC DANH": "Giáo viên người Nhật",
       "Mail": "tsujinaka@kaizen.edu.vn"
     },
-    "displayId": "MNV S000885"
+    "displayId": "MNV S000885",
+    "formCCount": 2
   },
   {
     "id": "S000887",
@@ -14637,7 +15002,8 @@
       "CHỨC DANH": "Nhân viên MS - Tư vấn tạo nguồn kỹ sư",
       "Mail": "nhu.vothiquynh@esutech.vn"
     },
-    "displayId": "MNV S000887"
+    "displayId": "MNV S000887",
+    "formCCount": 0
   },
   {
     "id": "S000888",
@@ -14677,7 +15043,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "kimnt@kaizen.edu.vn"
     },
-    "displayId": "MNV S000888"
+    "displayId": "MNV S000888",
+    "formCCount": 3
   },
   {
     "id": "S000889",
@@ -14717,7 +15084,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "thuyttt@kaizen.edu.vn"
     },
-    "displayId": "MNV S000889"
+    "displayId": "MNV S000889",
+    "formCCount": 0
   },
   {
     "id": "S000890",
@@ -14757,7 +15125,8 @@
       "CHỨC DANH": "Chuyên viên C&B",
       "Mail": "liennt@esuhai.com"
     },
-    "displayId": "MNV S000890"
+    "displayId": "MNV S000890",
+    "formCCount": 0
   },
   {
     "id": "S000891",
@@ -14797,7 +15166,8 @@
       "CHỨC DANH": "Nhân viên phân tích dữ liệu kinh doanh (BA)",
       "Mail": "nghiatm@esuhai.com"
     },
-    "displayId": "MNV S000891"
+    "displayId": "MNV S000891",
+    "formCCount": 0
   },
   {
     "id": "S000892",
@@ -14837,7 +15207,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tạo nguồn (MS)",
       "Mail": "nhitty@esuhai.com"
     },
-    "displayId": "MNV S000892"
+    "displayId": "MNV S000892",
+    "formCCount": 0
   },
   {
     "id": "S000893",
@@ -14877,7 +15248,8 @@
       "CHỨC DANH": "Nhân viên tài xế",
       "Mail": "khanhlt@esuhai.com"
     },
-    "displayId": "MNV S000893"
+    "displayId": "MNV S000893",
+    "formCCount": 4
   },
   {
     "id": "S000894",
@@ -14917,7 +15289,8 @@
       "CHỨC DANH": "Nhân viên Hành chánh lễ tân",
       "Mail": "chintm@esuhai.com"
     },
-    "displayId": "MNV S000894"
+    "displayId": "MNV S000894",
+    "formCCount": 4
   },
   {
     "id": "S000895",
@@ -14957,7 +15330,8 @@
       "CHỨC DANH": "Phó phòng quản trị Kaizen",
       "Mail": "ngocttn@kaizen.edu.vn"
     },
-    "displayId": "MNV S000895"
+    "displayId": "MNV S000895",
+    "formCCount": 0
   },
   {
     "id": "S000896",
@@ -14997,7 +15371,8 @@
       "CHỨC DANH": "Giám đốc vận hành JPC",
       "Mail": "vannt@jpc.edu.vn"
     },
-    "displayId": "MNV S000896"
+    "displayId": "MNV S000896",
+    "formCCount": 3
   },
   {
     "id": "S000899",
@@ -15037,7 +15412,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tạo nguồn (MS)",
       "Mail": "diemdtn@esuhai.com"
     },
-    "displayId": "MNV S000899"
+    "displayId": "MNV S000899",
+    "formCCount": 0
   },
   {
     "id": "S000900",
@@ -15077,7 +15453,8 @@
       "CHỨC DANH": "Nhân viên tư vấn tạo nguồn (MS)",
       "Mail": "thaontp@esuhai.com"
     },
-    "displayId": "MNV S000900"
+    "displayId": "MNV S000900",
+    "formCCount": 0
   },
   {
     "id": "S000901",
@@ -15117,7 +15494,8 @@
       "CHỨC DANH": "Nhân viên MS - Tư vấn tạo nguồn kỹ sư",
       "Mail": "hoa.buithimy@esutech.vn"
     },
-    "displayId": "MNV S000901"
+    "displayId": "MNV S000901",
+    "formCCount": 0
   },
   {
     "id": "S000903",
@@ -15157,7 +15535,8 @@
       "CHỨC DANH": "Nhân viên Lập trình PHP",
       "Mail": "vietnq@esuhai.com"
     },
-    "displayId": "MNV S000903"
+    "displayId": "MNV S000903",
+    "formCCount": 2
   },
   {
     "id": "S000905",
@@ -15197,7 +15576,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "huongltq@kaizen.edu.vn"
     },
-    "displayId": "MNV S000905"
+    "displayId": "MNV S000905",
+    "formCCount": 4
   },
   {
     "id": "S000907",
@@ -15237,7 +15617,8 @@
       "CHỨC DANH": "Nhân viên Thư ký",
       "Mail": "anhnpm@jpc.edu.vn"
     },
-    "displayId": "MNV S000907"
+    "displayId": "MNV S000907",
+    "formCCount": 4
   },
   {
     "id": "S000908",
@@ -15277,7 +15658,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "nguyentnt@kaizen.edu.vn"
     },
-    "displayId": "MNV S000908"
+    "displayId": "MNV S000908",
+    "formCCount": 0
   },
   {
     "id": "S000910",
@@ -15317,7 +15699,8 @@
       "CHỨC DANH": "Giáo viên kỹ năng",
       "Mail": "hungtt@proskills.ac.vn"
     },
-    "displayId": "MNV S000910"
+    "displayId": "MNV S000910",
+    "formCCount": 2
   },
   {
     "id": "S000911",
@@ -15357,7 +15740,8 @@
       "CHỨC DANH": "Nhân viên Biên phiên dịch",
       "Mail": "thuht@esuhai.com"
     },
-    "displayId": "MNV S000911"
+    "displayId": "MNV S000911",
+    "formCCount": 1
   },
   {
     "id": "S000912",
@@ -15397,7 +15781,8 @@
       "CHỨC DANH": "Nhân viên hành chánh giáo vụ",
       "Mail": "minhtq@kaizen.edu.vn"
     },
-    "displayId": "MNV S000912"
+    "displayId": "MNV S000912",
+    "formCCount": 3
   },
   {
     "id": "S000913",
@@ -15437,7 +15822,8 @@
       "CHỨC DANH": "CEO Esucare và Dự án chăm sóc dưỡng lão",
       "Mail": "trungdq@esuhai.com"
     },
-    "displayId": "MNV S000913"
+    "displayId": "MNV S000913",
+    "formCCount": 0
   },
   {
     "id": "S000915",
@@ -15477,7 +15863,8 @@
       "CHỨC DANH": "chuyên viên Digital Marketing",
       "Mail": "tanthd@esuhai.com"
     },
-    "displayId": "MNV S000915"
+    "displayId": "MNV S000915",
+    "formCCount": 0
   },
   {
     "id": "S000916",
@@ -15517,7 +15904,8 @@
       "CHỨC DANH": "Giáo viên",
       "Mail": "huyentt@kaizen.edu.vn"
     },
-    "displayId": "MNV S000916"
+    "displayId": "MNV S000916",
+    "formCCount": 0
   },
   {
     "id": "S000917",
@@ -15557,7 +15945,8 @@
       "CHỨC DANH": "NV Thiết kế - GRAPHIC",
       "Mail": "thai.lequoc@esutech.vn"
     },
-    "displayId": "MNV S000917"
+    "displayId": "MNV S000917",
+    "formCCount": 3
   },
   {
     "id": "S000918",
@@ -15597,7 +15986,8 @@
       "CHỨC DANH": "NV Tư vấn tuyển dụng ",
       "Mail": "nhungnph@esuhai.com"
     },
-    "displayId": "MNV S000918"
+    "displayId": "MNV S000918",
+    "formCCount": 0
   },
   {
     "id": "S000919",
@@ -15637,7 +16027,8 @@
       "CHỨC DANH": "NV Tạp vụ",
       "Mail": "hoangttk@jpc.edu.vn"
     },
-    "displayId": "MNV S000919"
+    "displayId": "MNV S000919",
+    "formCCount": 3
   },
   {
     "id": "S000920",
@@ -15677,7 +16068,8 @@
       "CHỨC DANH": "GĐ CHƯƠNG TRÌNH GATE AWARDS",
       "Mail": "vietpha@esuhai.com"
     },
-    "displayId": "MNV S000920"
+    "displayId": "MNV S000920",
+    "formCCount": 0
   },
   {
     "id": "S000921",
@@ -15717,7 +16109,8 @@
       "CHỨC DANH": "NV An Ninh",
       "Mail": "thuanpn@jpc.edu.vn"
     },
-    "displayId": "MNV S000921"
+    "displayId": "MNV S000921",
+    "formCCount": 4
   },
   {
     "id": "S000922",
@@ -15757,7 +16150,8 @@
       "CHỨC DANH": "NV Matching Kỹ sư",
       "Mail": "hue.nguyenthihong@esutech.vn"
     },
-    "displayId": "MNV S000922"
+    "displayId": "MNV S000922",
+    "formCCount": 4
   },
   {
     "id": "S000923",
@@ -15797,7 +16191,8 @@
       "CHỨC DANH": "Nhân viên Quay dựng Video",
       "Mail": "hungpq@esuhai.com"
     },
-    "displayId": "MNV S000923"
+    "displayId": "MNV S000923",
+    "formCCount": 0
   },
   {
     "id": "S000924",
@@ -15837,6 +16232,7 @@
       "CHỨC DANH": "Trợ lý BOD",
       "Mail": "viethm@esuhai.com"
     },
-    "displayId": "MNV S000924"
+    "displayId": "MNV S000924",
+    "formCCount": 0
   }
 ]
