@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Nhân Viên - Hệ Thống Đánh Giá ABC</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-left">
+                <img src="assets/logo-esuhai.png" alt="Esuhai Group" class="logo">
+                <h1>Hệ Thống Đánh Giá Nhân Sự ABC 2025</h1>
+            </div>
+            <div class="header-right">
+                <div class="user-info">
+                    <span class="user-name">HR Admin</span>
+                    <img src="assets/avatar-default.png" alt="User" class="user-avatar">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Search and Filters -->
+            <section class="search-section">
+                <div class="search-bar">
+                    <input type="text" 
+                           id="searchInput" 
+                           placeholder="Tìm kiếm theo tên, mã NV, email..." 
+                           class="search-input">
+                    <button class="search-btn" onclick="searchEmployees()">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16z" stroke="currentColor" stroke-width="2"/>
+                            <path d="M19 19l-4.35-4.35" stroke="currentColor" stroke-width="2"/>
+                        </svg>
+                    </button>
+                </div>
+
+                <div class="filters">
+                    <select id="filterDepartment" onchange="applyFilters()" class="filter-select">
+                        <option value="">Tất cả phòng ban</option>
+                        <option value="BOD">Ban Giám Đốc</option>
+                        <option value="Marketing">Marketing</option>
+                        <option value="Sales">Sales</option>
+                        <option value="HR">Nhân Sự</option>
+                        <option value="IT">Công Nghệ</option>
+                        <option value="Finance">Tài Chính</option>
+                        <option value="Operations">Vận Hành</option>
+                    </select>
+
+                    <select id="filterPosition" onchange="applyFilters()" class="filter-select">
+                        <option value="">Tất cả vị trí</option>
+                        <option value="director">Giám đốc</option>
+                        <option value="manager">Trưởng phòng</option>
+                        <option value="team-lead">Team Leader</option>
+                        <option value="specialist">Chuyên viên</option>
+                        <option value="staff">Nhân viên</option>
+                    </select>
+
+                    <select id="filterStatus" onchange="applyFilters()" class="filter-select">
+                        <option value="">Trạng thái đánh giá</option>
+                        <option value="completed">Đã hoàn thành</option>
+                        <option value="in-progress">Đang thực hiện</option>
+                        <option value="not-started">Chưa bắt đầu</option>
+                    </select>
+
+                    <button class="btn btn-secondary" onclick="resetFilters()">
+                        Xóa bộ lọc
+                    </button>
+                </div>
+            </section>
+
+            <!-- Statistics Cards -->
+            <section class="stats-section">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Tổng Nhân Viên</h3>
+                        <p class="stat-number">420</p>
+                        <p class="stat-label">Người</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Đã Hoàn Thành</h3>
+                        <p class="stat-number" id="completedCount">0</p>
+                        <p class="stat-label">Form A+B+C</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Đang Thực Hiện</h3>
+                        <p class="stat-number" id="inProgressCount">0</p>
+                        <p class="stat-label">Người</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Tiến Độ Chung</h3>
+                        <p class="stat-number" id="overallProgress">0%</p>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressBar"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Employee Grid -->
+            <section class="employees-section">
+                <div class="section-header">
+                    <h2>Danh Sách Nhân Viên</h2>
+                    <div class="view-options">
+                        <button class="view-btn active" onclick="setView('grid')">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                                <path d="M1 1h6v6H1zM9 1h6v6H9zM1 9h6v6H1zM9 9h6v6H9z"/>
+                            </svg>
+                        </button>
+                        <button class="view-btn" onclick="setView('list')">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                                <path d="M1 3h14v2H1zM1 7h14v2H1zM1 11h14v2H1z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="employeeGrid" class="employee-grid">
+                    <!-- Employee cards will be dynamically loaded here -->
+                    <div class="loading-spinner">
+                        <div class="spinner"></div>
+                        <p>Đang tải dữ liệu...</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Employee Modal -->
+    <div id="employeeModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <div id="modalContent">
+                <!-- Employee details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="dashboard.js"></script>
+</body>
+</html>

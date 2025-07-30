@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Dashboard ABC Analysis - Esuhai Group</title>
+    
+    <!-- Chart.js for visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Bootstrap for quick styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom styles -->
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --success-color: #10b981;
+            --warning-color: #f59e0b;
+            --danger-color: #ef4444;
+            --info-color: #06b6d4;
+            --bg-light: #f8fafc;
+            --text-dark: #1e293b;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+        }
+
+        .navbar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 1rem 0;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+
+        .stats-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border-left: 4px solid var(--primary-color);
+            transition: transform 0.2s;
+        }
+
+        .stats-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .stats-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0;
+            color: var(--primary-color);
+        }
+
+        .stats-label {
+            color: #64748b;
+            font-size: 0.875rem;
+            margin: 0;
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .chart-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+
+        .employee-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: all 0.2s;
+            border-left: 4px solid #e2e8f0;
+        }
+
+        .employee-card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+            transform: translateY(-1px);
+        }
+
+        .employee-card.superstar {
+            border-left-color: #FFD700;
+        }
+
+        .employee-card.goldenPotential {
+            border-left-color: #FFA500;
+        }
+
+        .employee-card.solidPillar {
+            border-left-color: #4169E1;
+        }
+
+        .employee-card.roughDiamond {
+            border-left-color: #9370DB;
+        }
+
+        .employee-card.performer {
+            border-left-color: #32CD32;
+        }
+
+        .employee-card.developing {
+            border-left-color: #FFA07A;
+        }
+
+        .employee-card.risk {
+            border-left-color: #DC143C;
+        }
+
+        .category-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: white;
+            text-align: center;
+        }
+
+        .loading-spinner {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f4f6;
+            border-top: 4px solid var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .alert {
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+        .heatmap-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .heatmap-table th,
+        .heatmap-table td {
+            padding: 0.5rem;
+            text-align: center;
+            border: 1px solid #e2e8f0;
+        }
+
+        .heatmap-table th {
+            background-color: #f8fafc;
+            font-weight: 600;
+        }
+
+        .employee-detail-modal .modal-dialog {
+            max-width: 800px;
+        }
+
+        .score-breakdown {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .score-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem;
+            background-color: #f8fafc;
+            border-radius: 6px;
+        }
+
+        .score-item.total {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: 600;
+        }
+
+        .btn-export {
+            margin-left: 0.5rem;
+        }
+
+        .timeline-section {
+            margin-bottom: 2rem;
+        }
+
+        .timeline-section h4 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .employee-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        #errorContainer {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1050;
+        }
+
+        .error-message {
+            background-color: var(--danger-color);
+            color: white;
+            padding: 1rem;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            min-width: 300px;
+        }
+
+        .error-message button {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin-left: 1rem;
+        }
+
+        #loadingIndicator {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+
+        #loadingIndicator .spinner {
+            width: 60px;
+            height: 60px;
+            border-width: 6px;
+        }
+
+        .chart-canvas {
+            max-height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Indicator -->
+    <div id="loadingIndicator">
+        <div class="text-center text-white">
+            <div class="spinner"></div>
+            <p class="mt-3">Đang tải dữ liệu...</p>
+        </div>
+    </div>
+
+    <!-- Error Container -->
+    <div id="errorContainer"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-dark">
+        <div class="container">
+            <span class="navbar-brand mb-0 h1">
+                📊 Dashboard ABC Analysis - Esuhai Group 2025
+            </span>
+            <div class="d-flex">
+                <button id="refreshBtn" class="btn btn-outline-light me-2">
+                    🔄 Làm mới
+                </button>
+                <button id="exportExcel" class="btn btn-success btn-export">
+                    📊 Excel
+                </button>
+                <button id="exportPdf" class="btn btn-danger btn-export">
+                    📄 PDF
+                </button>
+                <button id="exportReports" class="btn btn-info btn-export">
+                    📋 Báo cáo
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mt-4">
+        <!-- Alerts -->
+        <div id="alertContainer"></div>
+
+        <!-- Summary Statistics -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <div class="stats-number" id="totalEmployees">420</div>
+                    <div class="stats-label">Tổng nhân viên</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <div class="stats-number" id="avgScore">0.00</div>
+                    <div class="stats-label">Điểm trung bình</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <div class="stats-number" id="topPerformers">0</div>
+                    <div class="stats-label">Nhân viên xuất sắc</div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="stats-card">
+                    <div class="stats-number" id="riskEmployees">0</div>
+                    <div class="stats-label">Nhân viên rủi ro</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="chart-container">
+            <div class="row">
+                <div class="col-md-3">
+                    <label for="departmentFilter" class="form-label">Phòng ban</label>
+                    <select id="departmentFilter" class="form-select">
+                        <option value="all">Tất cả phòng ban</option>
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label for="categoryFilter" class="form-label">Phân loại</label>
+                    <select id="categoryFilter" class="form-select">
+                        <option value="all">Tất cả phân loại</option>
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label for="scoreRange" class="form-label">Điểm tối thiểu: <span id="scoreRangeValue">0 - 10</span></label>
+                    <input type="range" id="scoreRange" class="form-range" min="0" max="10" step="0.5" value="0">
+                </div>
+                <div class="col-md-3">
+                    <label for="employeeSearch" class="form-label">Tìm kiếm</label>
+                    <input type="text" id="employeeSearch" class="form-control" placeholder="Tên, phòng ban...">
+                </div>
+            </div>
+            <div class="mt-2">
+                <small id="filteredSummary" class="text-muted"></small>
+            </div>
+        </div>
+
+        <!-- Charts Section -->
+        <div class="row">
+            <!-- Talent Distribution Chart -->
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3 class="chart-title">Phân bố nhân tài</h3>
+                    <canvas id="talentDistributionChart" class="chart-canvas"></canvas>
+                </div>
+            </div>
+
+            <!-- Department Score Chart -->
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3 class="chart-title">Điểm trung bình theo phòng ban</h3>
+                    <canvas id="departmentScoreChart" class="chart-canvas"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- 9-Box Matrix -->
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3 class="chart-title">Ma trận 9-Box (Hiệu suất vs Tiềm năng)</h3>
+                    <canvas id="9boxMatrix" class="chart-canvas"></canvas>
+                </div>
+            </div>
+
+            <!-- Top Performers Radar -->
+            <div class="col-md-6">
+                <div class="chart-container">
+                    <h3 class="chart-title">Top 5 nhân viên xuất sắc</h3>
+                    <canvas id="topPerformersRadar" class="chart-canvas"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Talent Heatmap -->
+        <div class="chart-container">
+            <h3 class="chart-title">Bản đồ nhiệt phân bố nhân tài</h3>
+            <div id="talentHeatmap"></div>
+        </div>
+
+        <!-- Development Timeline -->
+        <div class="chart-container">
+            <div id="developmentTimeline"></div>
+        </div>
+
+        <!-- Employee List -->
+        <div class="chart-container">
+            <h3 class="chart-title">Danh sách nhân viên</h3>
+            <div id="employeeList"></div>
+        </div>
+    </div>
+
+    <!-- Employee Detail Modal -->
+    <div class="modal fade" id="employeeDetailModal" tabindex="-1">
+        <div class="modal-dialog modal-lg employee-detail-modal">
+            <div class="modal-content" id="employeeModalContent">
+                <!-- Employee details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Dashboard Script -->
+    <script src="dashboard_abc_analysis.js"></script>
+
+    <script>
+        // Override modal functions to work with Bootstrap
+        window.showEmployeeDetail = function(employeeId) {
+            const employee = dashboard.analyzer.employees.find(emp => emp.id === employeeId);
+            if (!employee) return;
+            
+            const modalContent = document.getElementById('employeeModalContent');
+            modalContent.innerHTML = dashboard.generateEmployeeDetailHTML(employee);
+            
+            const modal = new bootstrap.Modal(document.getElementById('employeeDetailModal'));
+            modal.show();
+            
+            // Create radar chart after modal is shown
+            setTimeout(() => {
+                dashboard.createIndividualRadarChart(employee);
+            }, 200);
+        };
+
+        window.closeModal = function() {
+            const modal = bootstrap.Modal.getInstance(document.getElementById('employeeDetailModal'));
+            if (modal) {
+                modal.hide();
+            }
+        };
+
+        // Add some demo functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Demo page loaded. Initializing dashboard...');
+            
+            // Add some demo alerts after initialization
+            setTimeout(() => {
+                if (window.dashboard && dashboard.analyzer && dashboard.analyzer.employees.length > 0) {
+                    console.log('Dashboard loaded successfully!');
+                    
+                    // Show a welcome message
+                    const alertContainer = document.getElementById('alertContainer');
+                    alertContainer.innerHTML = `
+                        <div class="alert alert-success alert-dismissible fade show" role="alert">
+                            <strong>🎉 Demo khởi tạo thành công!</strong> 
+                            Đã tải ${dashboard.analyzer.employees.length} nhân viên với dữ liệu mô phỏng.
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    `;
+                }
+            }, 2000);
+        });
+
+        // Demo helper functions
+        window.demoFeatures = {
+            showRandomEmployee: function() {
+                if (window.dashboard && dashboard.analyzer.employees.length > 0) {
+                    const randomIndex = Math.floor(Math.random() * dashboard.analyzer.employees.length);
+                    const randomEmployee = dashboard.analyzer.employees[randomIndex];
+                    showEmployeeDetail(randomEmployee.id);
+                }
+            },
+            
+            filterBySuperstar: function() {
+                const categoryFilter = document.getElementById('categoryFilter');
+                categoryFilter.value = 'superstar';
+                categoryFilter.dispatchEvent(new Event('change'));
+            },
+            
+            filterByRisk: function() {
+                const categoryFilter = document.getElementById('categoryFilter');
+                categoryFilter.value = 'risk';
+                categoryFilter.dispatchEvent(new Event('change'));
+            },
+            
+            showTopDepartment: function() {
+                if (window.dashboard && dashboard.analyzer) {
+                    const stats = dashboard.analyzer.getDepartmentStats();
+                    if (stats.length > 0) {
+                        const topDept = stats[0];
+                        const deptFilter = document.getElementById('departmentFilter');
+                        deptFilter.value = topDept.department;
+                        deptFilter.dispatchEvent(new Event('change'));
+                        
+                        // Show info
+                        const alertContainer = document.getElementById('alertContainer');
+                        alertContainer.innerHTML = `
+                            <div class="alert alert-info alert-dismissible fade show" role="alert">
+                                <strong>🏆 Phòng ban xuất sắc nhất:</strong> 
+                                ${topDept.department} với điểm trung bình ${topDept.avgScore.toFixed(2)}
+                                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                            </div>
+                        `;
+                    }
+                }
+            }
+        };
+
+        console.log('Demo page ready! Bạn có thể sử dụng các lệnh sau trong console:');
+        console.log('- demoFeatures.showRandomEmployee() : Xem chi tiết nhân viên ngẫu nhiên');
+        console.log('- demoFeatures.filterBySuperstar() : Lọc nhân viên siêu sao');
+        console.log('- demoFeatures.filterByRisk() : Lọc nhân viên rủi ro');
+        console.log('- demoFeatures.showTopDepartment() : Hiển thị phòng ban xuất sắc nhất');
+    </script>
+</body>
+</html>

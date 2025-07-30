@@ -1,0 +1,191 @@
+[
+  {
+    "id": "DEPT1",
+    "code": "BOD",
+    "name": "BAN TỔNG GIÁM ĐỐC",
+    "fullName": "BAN TỔNG GIÁM ĐỐC",
+    "type": "business",
+    "headCount": 9,
+    "isActive": true
+  },
+  {
+    "id": "DEPT2",
+    "code": "KAIZEN",
+    "name": "KAIZEN",
+    "fullName": "KAIZEN",
+    "type": "business",
+    "headCount": 110,
+    "isActive": true
+  },
+  {
+    "id": "DEPT3",
+    "code": "IDS",
+    "name": "IDS",
+    "fullName": "IDS",
+    "type": "business",
+    "headCount": 24,
+    "isActive": true
+  },
+  {
+    "id": "DEPT4",
+    "code": "FINANCE",
+    "name": "TC-KT",
+    "fullName": "TC-KT",
+    "type": "business",
+    "headCount": 8,
+    "isActive": true
+  },
+  {
+    "id": "DEPT5",
+    "code": "ADMIN",
+    "name": "TỔNG HỢP",
+    "fullName": "TỔNG HỢP",
+    "type": "business",
+    "headCount": 31,
+    "isActive": true
+  },
+  {
+    "id": "DEPT6",
+    "code": "MSA",
+    "name": "MSA",
+    "fullName": "MSA",
+    "type": "business",
+    "headCount": 41,
+    "isActive": true
+  },
+  {
+    "id": "DEPT7",
+    "code": "KOKA",
+    "name": "KOKATEAM",
+    "fullName": "KOKATEAM",
+    "type": "business",
+    "headCount": 28,
+    "isActive": true
+  },
+  {
+    "id": "DEPT8",
+    "code": "MEDIA",
+    "name": "TRUYỀN THÔNG",
+    "fullName": "TRUYỀN THÔNG",
+    "type": "business",
+    "headCount": 15,
+    "isActive": true
+  },
+  {
+    "id": "DEPT9",
+    "code": "SECRETARY",
+    "name": "BAN THƯ KÝ",
+    "fullName": "BAN THƯ KÝ",
+    "type": "business",
+    "headCount": 5,
+    "isActive": true
+  },
+  {
+    "id": "DEPT10",
+    "code": "PROSKILLS",
+    "name": "PRO - SKILLS",
+    "fullName": "PRO - SKILLS",
+    "type": "business",
+    "headCount": 15,
+    "isActive": true
+  },
+  {
+    "id": "DEPT11",
+    "code": "DN_BRANCH",
+    "name": "CN ĐÀ NẴNG",
+    "fullName": "CN ĐÀ NẴNG",
+    "type": "business",
+    "headCount": 21,
+    "isActive": true
+  },
+  {
+    "id": "DEPT12",
+    "code": "HR",
+    "name": "NHÂN SỰ",
+    "fullName": "NHÂN SỰ",
+    "type": "business",
+    "headCount": 9,
+    "isActive": true
+  },
+  {
+    "id": "DEPT13",
+    "code": "LEGAL",
+    "name": "PHÁP CHẾ",
+    "fullName": "PHÁP CHẾ",
+    "type": "business",
+    "headCount": 7,
+    "isActive": true
+  },
+  {
+    "id": "DEPT14",
+    "code": "ESUTECH",
+    "name": "ESUTECH",
+    "fullName": "ESUTECH",
+    "type": "business",
+    "headCount": 33,
+    "isActive": true
+  },
+  {
+    "id": "DEPT15",
+    "code": "ESUWORKS",
+    "name": "ESUWORKS",
+    "fullName": "ESUWORKS",
+    "type": "business",
+    "headCount": 9,
+    "isActive": true
+  },
+  {
+    "id": "DEPT16",
+    "code": "GATE",
+    "name": "GATE AWARDS",
+    "fullName": "GATE AWARDS",
+    "type": "business",
+    "headCount": 8,
+    "isActive": true
+  },
+  {
+    "id": "DEPT17",
+    "code": "EXTERNAL",
+    "name": "BAN TẠO NGUỒN BẰNG KÊNH ĐỐI NGOẠI",
+    "fullName": "BAN TẠO NGUỒN BẰNG KÊNH ĐỐI NGOẠI",
+    "type": "business",
+    "headCount": 5,
+    "isActive": true
+  },
+  {
+    "id": "DEPT18",
+    "code": "IT",
+    "name": "ICT",
+    "fullName": "ICT",
+    "type": "business",
+    "headCount": 13,
+    "isActive": true
+  },
+  {
+    "id": "DEPT19",
+    "code": "ESUCARE",
+    "name": "ESUCARE",
+    "fullName": "ESUCARE",
+    "type": "business",
+    "headCount": 2,
+    "isActive": true
+  },
+  {
+    "id": "DEPT20",
+    "code": "ASSISTANT",
+    "name": "BAN TRỢ LÝ",
+    "fullName": "BAN TRỢ LÝ",
+    "type": "business",
+    "headCount": 1,
+    "isActive": true
+  },
+  {
+    "id": "DEPT21",
+    "code": "JPC",
+    "name": "JPC",
+    "fullName": "JPC",
+    "type": "business",
+    "headCount": 2,
+    "isActive": true
+  }
+]

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Đánh giá Năng lực Nhân sự - Form C</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            line-height: 1.5;
+        }
+        
+        .container {
+            min-height: 100vh;
+        }
+        
+        @media (max-width: 768px) {
+            .employee-grid {
+                grid-template-columns: 1fr !important;
+                padding: 0 10px !important;
+            }
+            
+            .employee-card {
+                margin: 8px 0 !important;
+                max-width: none !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="app" class="container"></div>
+
+    <script type="module">
+        import { Dashboard } from './components/Dashboard.js';
+        
+        // Sample employee data
+        const sampleEmployees = [
+            {
+                empId: 'S051',
+                name: 'Trần Hoàng Kha',
+                email: 'hoangkha@esuhai.com',
+                department: 'BAN TRỢ LÝ',
+                role: 'Trợ lý Tổng Giám đốc'
+            },
+            {
+                empId: 'S052',
+                name: 'Nguyễn Văn An',
+                email: 'vanan@esuhai.com',
+                department: 'PHÒNG NHÂN SỰ',
+                role: 'Chuyên viên Nhân sự'
+            },
+            {
+                empId: 'S053',
+                name: 'Lê Thị Bình',
+                email: 'thibinh@esuhai.com',
+                department: 'PHÒNG KẾ TOÁN',
+                role: 'Kế toán trưởng'
+            }
+        ];
+
+        // Initialize dashboard
+        const dashboard = new Dashboard(sampleEmployees);
+        dashboard.mount('app');
+        
+        console.log('Dashboard loaded successfully');
+    </script>
+</body>
+</html>

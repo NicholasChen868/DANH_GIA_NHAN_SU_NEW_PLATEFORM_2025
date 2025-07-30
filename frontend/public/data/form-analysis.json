@@ -1,0 +1,184 @@
+{
+  "analysis": {
+    "formA": {
+      "completed": 380,
+      "pending": 62
+    },
+    "formB": {
+      "completed": 346,
+      "pending": 96
+    },
+    "formC": {
+      "completed": 311,
+      "pending": 131
+    },
+    "combined": {
+      "allComplete": 233,
+      "twoComplete": 146,
+      "oneComplete": 46,
+      "noneComplete": 17
+    }
+  },
+  "samples": {
+    "allComplete": {
+      "id": "ESU001",
+      "name": "LÊ LONG SƠN",
+      "department": "Ban Tổng Giám Đốc",
+      "buName": "ESW",
+      "buFullName": "EsuWorks Platform",
+      "position": "Tổng Giám đốc",
+      "level": "Executive",
+      "email": "leson@esuhai.com",
+      "phone": "0989286398",
+      "hireDate": "2024-04-26",
+      "managerId": null,
+      "avatar": "/avatars/ESU001.jpg",
+      "status": "Active",
+      "formStatus": {
+        "formA": true,
+        "formB": true,
+        "formC": true
+      },
+      "evaluationStatus": {
+        "formA": "Completed",
+        "formB": "Completed",
+        "formC": "Completed"
+      },
+      "completedForms": 3,
+      "overallScore": 0,
+      "talentGroup": "TBD",
+      "canBeEvaluated": true,
+      "lastUpdated": "2025-07-30T06:32:59.437Z"
+    },
+    "twoComplete": {
+      "id": "ESU003",
+      "name": "Trần Hữu Quân",
+      "department": "ALESU",
+      "buName": "ALE",
+      "buFullName": "ALESU Services",
+      "position": "Thực tập sinh",
+      "level": "Staff",
+      "email": "quan.tran@esuhai.com",
+      "phone": "0935523712",
+      "hireDate": "2020-02-14",
+      "managerId": "ESU001",
+      "avatar": "/avatars/ESU003.jpg",
+      "status": "Active",
+      "formStatus": {
+        "formA": true,
+        "formB": true,
+        "formC": false
+      },
+      "evaluationStatus": {
+        "formA": "Completed",
+        "formB": "Completed",
+        "formC": "Pending"
+      },
+      "completedForms": 2,
+      "overallScore": 0,
+      "talentGroup": "TBD",
+      "canBeEvaluated": true,
+      "lastUpdated": "2025-07-30T06:32:59.437Z"
+    },
+    "oneComplete": {
+      "id": "ESU053",
+      "name": "Lý Văn Thành",
+      "department": "ProSkills",
+      "buName": "PRO",
+      "buFullName": "ProSkills Division",
+      "position": "Chuyên viên cao cấp",
+      "level": "Senior",
+      "email": "thanh.ly@esuhai.com",
+      "phone": "0918142777",
+      "hireDate": "2023-08-25",
+      "managerId": "ESU026",
+      "avatar": "/avatars/ESU053.jpg",
+      "status": "Active",
+      "formStatus": {
+        "formA": true,
+        "formB": false,
+        "formC": false
+      },
+      "evaluationStatus": {
+        "formA": "Completed",
+        "formB": "Pending",
+        "formC": "Pending"
+      },
+      "completedForms": 1,
+      "overallScore": 0,
+      "talentGroup": "TBD",
+      "canBeEvaluated": true,
+      "lastUpdated": "2025-07-30T06:32:59.437Z"
+    },
+    "noneComplete": {
+      "id": "ESU006",
+      "name": "Trần Kim Quân",
+      "department": "Nhân Sự",
+      "buName": "HR",
+      "buFullName": "Human Resources",
+      "position": "Chuyên viên",
+      "level": "Staff",
+      "email": "quan.tran@esuhai.com",
+      "phone": "0935466995",
+      "hireDate": "2024-10-29",
+      "managerId": "ESU005",
+      "avatar": "/avatars/ESU006.jpg",
+      "status": "Active",
+      "formStatus": {
+        "formA": false,
+        "formB": false,
+        "formC": false
+      },
+      "evaluationStatus": {
+        "formA": "Pending",
+        "formB": "Pending",
+        "formC": "Pending"
+      },
+      "completedForms": 0,
+      "overallScore": 0,
+      "talentGroup": "TBD",
+      "canBeEvaluated": true,
+      "lastUpdated": "2025-07-30T06:32:59.437Z"
+    }
+  },
+  "testScenarios": [
+    {
+      "name": "All Forms Completed",
+      "employee": "LÊ LONG SƠN",
+      "expected": {
+        "formA": "green checkmark",
+        "formB": "green checkmark",
+        "formC": "green checkmark",
+        "progress": "100% green bar",
+        "text": "3/3 forms completed"
+      }
+    },
+    {
+      "name": "Two Forms Completed",
+      "employee": "Trần Hữu Quân",
+      "expected": {
+        "progress": "66% blue bar",
+        "text": "2/3 forms completed",
+        "mixed": "mix of green checkmarks and orange warnings"
+      }
+    },
+    {
+      "name": "One Form Completed",
+      "employee": "Lý Văn Thành",
+      "expected": {
+        "progress": "33% orange bar",
+        "text": "1/3 forms completed",
+        "mixed": "mostly orange warnings, one green checkmark"
+      }
+    },
+    {
+      "name": "No Forms Completed",
+      "employee": "Trần Kim Quân",
+      "expected": {
+        "progress": "0% red bar",
+        "text": "0/3 forms completed",
+        "all": "all orange warning indicators"
+      }
+    }
+  ]
+}

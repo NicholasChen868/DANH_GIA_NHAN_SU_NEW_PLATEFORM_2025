@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "generated_at": "2025-07-30T10:14:27.334526",
+    "total_groups": 20,
+    "sections": {
+      "basic_info": 13,
+      "core_skills": 20
+    }
+  },
+  "basic_questions": [
+    {
+      "section": "1_basic",
+      "question_id": "B1_01",
+      "question_type": "short_text",
+      "question": "Họ và tên",
+      "required": true,
+      "description": "Nhập họ tên đầy đủ của bạn"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_02",
+      "question_type": "short_text",
+      "question": "Mã nhân viên",
+      "required": true,
+      "description": "Mã số nhân viên của bạn tại Esuhai"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_03",
+      "question_type": "multiple_choice",
+      "question": "Giới tính",
+      "required": true,
+      "options": [
+        "Nam",
+        "Nữ",
+        "Khác"
+      ]
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_04",
+      "question_type": "date",
+      "question": "Ngày sinh",
+      "required": true,
+      "description": "Định dạng: DD/MM/YYYY"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_05",
+      "question_type": "short_text",
+      "question": "Quê quán",
+      "required": false,
+      "description": "Tỉnh/thành phố quê quán"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_06",
+      "question_type": "multiple_choice",
+      "question": "Trình độ học vấn cao nhất",
+      "required": true,
+      "options": [
+        "Trung học",
+        "Trung cấp/Cao đẳng",
+        "Đại học",
+        "Thạc sĩ",
+        "Tiến sĩ",
+        "Khác"
+      ]
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_07",
+      "question_type": "short_text",
+      "question": "Chuyên ngành đã học",
+      "required": true,
+      "description": "Ví dụ: Kinh tế đối ngoại, Công nghệ thông tin..."
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_08",
+      "question_type": "multiple_choice",
+      "question": "Vị trí hiện tại tại Esuhai",
+      "required": true,
+      "options": [
+        "BOD - Quản lý cao cấp (BOD, TGĐ)",
+        "TBU - Trưởng BU",
+        "TP - Trưởng phòng",
+        "TL - Team Leader/Supervisor",
+        "MSA - Marketing, Sales, Admission",
+        "IDS - Matching & Export Services",
+        "TC - Tài chính - Kế toán",
+        "NS - Nhân sự",
+        "IT - Công nghệ thông tin",
+        "HC - Hành chính - Tổng vụ",
+        "PC - Pháp chế",
+        "KZ - Kaizen Yoshida School",
+        "PS - ProSkills",
+        "EC - EsuCare",
+        "ET - EsuTech",
+        "KT - Koka-Team (Việt Nam)",
+        "EW - EsuWorks",
+        "AL - ALESU",
+        "JPC - JPC - Truyền thông & Vận hành",
+        "GA - GateAwards - Tư vấn Du học"
+      ]
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_09",
+      "question_type": "date",
+      "question": "Ngày bắt đầu làm việc tại Esuhai",
+      "required": true,
+      "description": "Định dạng: DD/MM/YYYY"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_10",
+      "question_type": "linear_scale",
+      "question": "Tiếng Anh - Khả năng giao tiếp tổng thể",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "1 = Không biết, 10 = Thành thạo như người bản xứ"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_11",
+      "question_type": "linear_scale",
+      "question": "Tiếng Nhật - Khả năng giao tiếp tổng thể",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "1 = Không biết, 10 = Thành thạo như người bản xứ"
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_12",
+      "question_type": "multiple_choice",
+      "question": "Chứng chỉ ngoại ngữ cao nhất",
+      "required": false,
+      "options": [
+        "Không có",
+        "TOEIC",
+        "IELTS",
+        "TOEFL",
+        "JLPT",
+        "NAT-TEST",
+        "Khác"
+      ]
+    },
+    {
+      "section": "1_basic",
+      "question_id": "B1_13",
+      "question_type": "short_text",
+      "question": "Điểm số chứng chỉ (nếu có)",
+      "required": false,
+      "description": "Ví dụ: TOEIC 750, IELTS 6.5, JLPT N3..."
+    }
+  ],
+  "core_questions": [
+    {
+      "section": "2_core",
+      "question_id": "B2_01a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Microsoft Office (Word, Excel, PowerPoint)",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Mức độ thành thạo sử dụng bộ MS Office (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_01b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Microsoft Office (Word, Excel, PowerPoint)'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_02a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Giao tiếp và Thuyết trình",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng trình bày ý kiến, thuyết phục người khác (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_02b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Giao tiếp và Thuyết trình'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_03a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Làm việc nhóm",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng phối hợp, hỗ trợ đồng nghiệp hiệu quả (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_03b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Làm việc nhóm'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_04a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Quản lý thời gian",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng ưu tiên công việc, đáp ứng deadline (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_04b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Quản lý thời gian'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_05a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Giải quyết vấn đề",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Tư duy phân tích, tìm giải pháp cho tình huống khó (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_05b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Giải quyết vấn đề'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_06a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Học hỏi và Thích ứng",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng tiếp thu kiến thức mới, thích ứng thay đổi (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_06b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Học hỏi và Thích ứng'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_07a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Chăm sóc khách hàng",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Kỹ năng tư vấn, hỗ trợ, tạo sự hài lòng cho khách (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_07b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Chăm sóc khách hàng'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_08a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Tư duy sáng tạo",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng đưa ra ý tưởng mới, cách làm khác biệt (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_08b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Tư duy sáng tạo'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_09a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Xử lý áp lực",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Khả năng làm việc hiệu quả trong môi trường căng thẳng (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_09b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Xử lý áp lực'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_10a",
+      "question_type": "linear_scale",
+      "question": "Kỹ năng: Trách nhiệm và Cam kết",
+      "required": true,
+      "scale_min": 1,
+      "scale_max": 10,
+      "description": "Mức độ hoàn thành công việc đúng hạn, chất lượng (1 = Rất yếu, 10 = Xuất sắc)"
+    },
+    {
+      "section": "2_core",
+      "question_id": "B2_10b",
+      "question_type": "paragraph",
+      "question": "Ví dụ minh chứng cho kỹ năng 'Trách nhiệm và Cam kết'",
+      "required": true,
+      "description": "Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)"
+    }
+  ]
+}

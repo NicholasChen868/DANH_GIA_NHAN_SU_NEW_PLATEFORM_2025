@@ -1,0 +1,65 @@
+{
+  "name": "esuhai-abc-model",
+  "version": "2.0.0",
+  "description": "Hệ thống đánh giá và sắp xếp nhân sự ABC - Esuhai Group",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "build": "webpack --mode production",
+    "deploy": "node scripts/deploy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "dotenv": "^16.0.0",
+    "googleapis": "^118.0.0",
+    "mysql2": "^3.3.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "nodemailer": "^6.9.0",
+    "cors": "^2.8.5",
+    "helmet": "^6.1.0",
+    "morgan": "^1.10.0",
+    "express-rate-limit": "^6.7.0",
+    "winston": "^3.8.0",
+    "joi": "^17.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "jest": "^29.5.0",
+    "supertest": "^6.3.0",
+    "webpack": "^5.82.0",
+    "babel-loader": "^9.1.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.21.0"
+  },
+  "keywords": [
+    "esuhai",
+    "abc-model", 
+    "hr-evaluation",
+    "employee-assessment",
+    "360-degree-feedback",
+    "performance-management"
+  ],
+  "author": "Esuhai Group",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esuhai/abc-model.git"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "config": {
+    "formA": {
+      "url": "https://forms.gle/Y6fYUHbRcMP2jfHH7",
+      "prefillUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfhk-cfvPrDlpRONfmdDo6L6w1N5UhdgAZecmYLmZNDcXw9HQ/viewform"
+    },
+    "formB": {
+      "url": "https://forms.gle/iMUPkrUWnxpdsJHu5", 
+      "prefillUrl": "https://docs.google.com/forms/d/e/1FAIpQLSepXF4C3-dUrmoeBrW4e8v2re4DxsAyiboqc1yI-2VOvjVSiw/viewform"
+    }
+  }
+}

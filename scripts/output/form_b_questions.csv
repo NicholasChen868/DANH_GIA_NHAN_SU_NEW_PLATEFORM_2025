@@ -1,0 +1,34 @@
+﻿Section,Question_ID,Question_Type,Question_Text,Required,Options,Scale_Min,Scale_Max,Description
+1_basic,B1_01,short_text,Họ và tên,Yes,,,,Nhập họ tên đầy đủ của bạn
+1_basic,B1_02,short_text,Mã nhân viên,Yes,,,,Mã số nhân viên của bạn tại Esuhai
+1_basic,B1_03,multiple_choice,Giới tính,Yes,Nam|Nữ|Khác,,,
+1_basic,B1_04,date,Ngày sinh,Yes,,,,Định dạng: DD/MM/YYYY
+1_basic,B1_05,short_text,Quê quán,No,,,,Tỉnh/thành phố quê quán
+1_basic,B1_06,multiple_choice,Trình độ học vấn cao nhất,Yes,Trung học|Trung cấp/Cao đẳng|Đại học|Thạc sĩ|Tiến sĩ|Khác,,,
+1_basic,B1_07,short_text,Chuyên ngành đã học,Yes,,,,"Ví dụ: Kinh tế đối ngoại, Công nghệ thông tin..."
+1_basic,B1_08,multiple_choice,Vị trí hiện tại tại Esuhai,Yes,"BOD - Quản lý cao cấp (BOD, TGĐ)|TBU - Trưởng BU|TP - Trưởng phòng|TL - Team Leader/Supervisor|MSA - Marketing, Sales, Admission|IDS - Matching & Export Services|TC - Tài chính - Kế toán|NS - Nhân sự|IT - Công nghệ thông tin|HC - Hành chính - Tổng vụ|PC - Pháp chế|KZ - Kaizen Yoshida School|PS - ProSkills|EC - EsuCare|ET - EsuTech|KT - Koka-Team (Việt Nam)|EW - EsuWorks|AL - ALESU|JPC - JPC - Truyền thông & Vận hành|GA - GateAwards - Tư vấn Du học",,,
+1_basic,B1_09,date,Ngày bắt đầu làm việc tại Esuhai,Yes,,,,Định dạng: DD/MM/YYYY
+1_basic,B1_10,linear_scale,Tiếng Anh - Khả năng giao tiếp tổng thể,Yes,,1,10,"1 = Không biết, 10 = Thành thạo như người bản xứ"
+1_basic,B1_11,linear_scale,Tiếng Nhật - Khả năng giao tiếp tổng thể,Yes,,1,10,"1 = Không biết, 10 = Thành thạo như người bản xứ"
+1_basic,B1_12,multiple_choice,Chứng chỉ ngoại ngữ cao nhất,No,Không có|TOEIC|IELTS|TOEFL|JLPT|NAT-TEST|Khác,,,
+1_basic,B1_13,short_text,Điểm số chứng chỉ (nếu có),No,,,,"Ví dụ: TOEIC 750, IELTS 6.5, JLPT N3..."
+2_core,B2_01a,linear_scale,"Kỹ năng: Microsoft Office (Word, Excel, PowerPoint)",Yes,,1,10,"Mức độ thành thạo sử dụng bộ MS Office (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_01b,paragraph,"Ví dụ minh chứng cho kỹ năng 'Microsoft Office (Word, Excel, PowerPoint)'",Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_02a,linear_scale,Kỹ năng: Giao tiếp và Thuyết trình,Yes,,1,10,"Khả năng trình bày ý kiến, thuyết phục người khác (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_02b,paragraph,Ví dụ minh chứng cho kỹ năng 'Giao tiếp và Thuyết trình',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_03a,linear_scale,Kỹ năng: Làm việc nhóm,Yes,,1,10,"Khả năng phối hợp, hỗ trợ đồng nghiệp hiệu quả (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_03b,paragraph,Ví dụ minh chứng cho kỹ năng 'Làm việc nhóm',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_04a,linear_scale,Kỹ năng: Quản lý thời gian,Yes,,1,10,"Khả năng ưu tiên công việc, đáp ứng deadline (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_04b,paragraph,Ví dụ minh chứng cho kỹ năng 'Quản lý thời gian',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_05a,linear_scale,Kỹ năng: Giải quyết vấn đề,Yes,,1,10,"Tư duy phân tích, tìm giải pháp cho tình huống khó (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_05b,paragraph,Ví dụ minh chứng cho kỹ năng 'Giải quyết vấn đề',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_06a,linear_scale,Kỹ năng: Học hỏi và Thích ứng,Yes,,1,10,"Khả năng tiếp thu kiến thức mới, thích ứng thay đổi (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_06b,paragraph,Ví dụ minh chứng cho kỹ năng 'Học hỏi và Thích ứng',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_07a,linear_scale,Kỹ năng: Chăm sóc khách hàng,Yes,,1,10,"Kỹ năng tư vấn, hỗ trợ, tạo sự hài lòng cho khách (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_07b,paragraph,Ví dụ minh chứng cho kỹ năng 'Chăm sóc khách hàng',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_08a,linear_scale,Kỹ năng: Tư duy sáng tạo,Yes,,1,10,"Khả năng đưa ra ý tưởng mới, cách làm khác biệt (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_08b,paragraph,Ví dụ minh chứng cho kỹ năng 'Tư duy sáng tạo',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_09a,linear_scale,Kỹ năng: Xử lý áp lực,Yes,,1,10,"Khả năng làm việc hiệu quả trong môi trường căng thẳng (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_09b,paragraph,Ví dụ minh chứng cho kỹ năng 'Xử lý áp lực',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)
+2_core,B2_10a,linear_scale,Kỹ năng: Trách nhiệm và Cam kết,Yes,,1,10,"Mức độ hoàn thành công việc đúng hạn, chất lượng (1 = Rất yếu, 10 = Xuất sắc)"
+2_core,B2_10b,paragraph,Ví dụ minh chứng cho kỹ năng 'Trách nhiệm và Cam kết',Yes,,,,Nêu 1 ví dụ cụ thể trong công việc thể hiện kỹ năng này (50-100 từ)

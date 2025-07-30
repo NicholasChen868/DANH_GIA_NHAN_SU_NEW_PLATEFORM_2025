@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir)",
+      "Bash(ls:*)",
+      "Bash(npx create-react-app:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm start)",
+      "Bash(taskkill:*)",
+      "Bash(true)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npx kill-port:*)",
+      "Bash(npm run:*)",
+      "Bash(grep:*)",
+      "Bash(surge)"
+    ],
+    "deny": []
+  }
+}

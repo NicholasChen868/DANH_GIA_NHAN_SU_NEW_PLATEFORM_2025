@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run setup:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(cat:*)",
+      "Bash(curl:*)",
+      "Bash(vercel:*)"
+    ],
+    "deny": []
+  }
+}

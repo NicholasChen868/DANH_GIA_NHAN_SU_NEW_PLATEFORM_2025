@@ -1,0 +1,39 @@
+{
+  "total": 396,
+  "active": 396,
+  "byDepartment": {
+    "BAN TỔNG GIÁM ĐỐC": 9,
+    "KAIZEN": 110,
+    "IDS": 24,
+    "TC-KT": 8,
+    "TỔNG HỢP": 31,
+    "MSA": 41,
+    "KOKATEAM": 28,
+    "TRUYỀN THÔNG": 15,
+    "BAN THƯ KÝ": 5,
+    "PRO - SKILLS": 15,
+    "CN ĐÀ NẴNG": 21,
+    "NHÂN SỰ": 9,
+    "PHÁP CHẾ": 7,
+    "ESUTECH": 33,
+    "ESUWORKS": 9,
+    "GATE AWARDS": 8,
+    "BAN TẠO NGUỒN BẰNG KÊNH ĐỐI NGOẠI": 5,
+    "ICT": 13,
+    "ESUCARE": 2,
+    "BAN TRỢ LÝ": 1,
+    "JPC": 2
+  },
+  "formCompletion": {
+    "formA": 284,
+    "formB": 229,
+    "formC": 211
+  },
+  "completionRates": {
+    "formA": "71.7",
+    "formB": "57.8",
+    "formC": "53.3"
+  },
+  "lastUpdated": "2025-07-30T08:21:36.193Z",
+  "dataSource": "dim_users.xlsx"
+}

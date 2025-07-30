@@ -1,0 +1,120 @@
+{
+  "searchTests": [
+    {
+      "query": "LÊ LONG SƠN",
+      "expected": 1,
+      "description": "CEO name search"
+    },
+    {
+      "query": "Trưởng",
+      "expected": 82,
+      "description": "Manager search"
+    },
+    {
+      "query": "IT",
+      "expected": 29,
+      "description": "IT keyword search"
+    },
+    {
+      "query": "@esuhai.com",
+      "expected": 442,
+      "description": "Email domain search"
+    }
+  ],
+  "filterTests": {
+    "departments": [
+      {
+        "name": "Ban Tổng Giám Đốc",
+        "expected": 27
+      },
+      {
+        "name": "EsuCare",
+        "expected": 27
+      },
+      {
+        "name": "ALESU",
+        "expected": 25
+      },
+      {
+        "name": "EsuWorks",
+        "expected": 28
+      },
+      {
+        "name": "JPC",
+        "expected": 34
+      }
+    ],
+    "businessUnits": [
+      {
+        "name": "ESW",
+        "expected": 29
+      },
+      {
+        "name": "ESC",
+        "expected": 27
+      },
+      {
+        "name": "ALE",
+        "expected": 25
+      },
+      {
+        "name": "JPC",
+        "expected": 34
+      },
+      {
+        "name": "HR",
+        "expected": 16
+      }
+    ],
+    "levels": [
+      {
+        "name": "Executive",
+        "expected": 15
+      },
+      {
+        "name": "Staff",
+        "expected": 245
+      },
+      {
+        "name": "Senior",
+        "expected": 100
+      },
+      {
+        "name": "Management",
+        "expected": 82
+      }
+    ],
+    "formStatus": [
+      {
+        "name": "completed",
+        "expected": 233
+      },
+      {
+        "name": "partial",
+        "expected": 192
+      },
+      {
+        "name": "incomplete",
+        "expected": 17
+      }
+    ]
+  },
+  "combinedTests": [
+    {
+      "description": "IT Managers",
+      "filters": {
+        "department": "Công Nghệ Thông Tin",
+        "searchQuery": "Trưởng"
+      },
+      "expected": 13
+    },
+    {
+      "description": "Senior Completed",
+      "filters": {
+        "level": "Senior",
+        "formStatus": "completed"
+      },
+      "expected": 43
+    }
+  ]
+}
