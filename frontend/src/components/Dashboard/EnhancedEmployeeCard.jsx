@@ -99,21 +99,20 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
         </div>
       </div>
 
-      {/* FORM STATUS SECTION */}
+      {/* PERSONAL FORMS SECTION (A & B) */}
       <div className="space-y-4 py-4 border-t border-gray-100">
         <div className="flex justify-between items-center mb-4">
-          <h4 className="text-sm font-semibold text-gray-700">Trạng thái Forms</h4>
+          <h4 className="text-sm font-semibold text-gray-700">Forms Cá Nhân</h4>
           <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
-            employee.completedForms === 3 ? 'bg-green-100 text-green-700 ring-green-200' :
-            employee.completedForms === 0 ? 'bg-red-100 text-red-700 ring-red-200' :
-            employee.completedForms <= 1 ? 'bg-red-100 text-red-700 ring-red-200' : 
+            (employee.formStatus.formA && employee.formStatus.formB) ? 'bg-green-100 text-green-700 ring-green-200' :
+            (!employee.formStatus.formA && !employee.formStatus.formB) ? 'bg-red-100 text-red-700 ring-red-200' :
             'bg-orange-100 text-orange-700 ring-orange-200'
           }`}>
-            {employee.completedForms}/3 hoàn thành
+            {(employee.formStatus.formA ? 1 : 0) + (employee.formStatus.formB ? 1 : 0)}/2 hoàn thành
           </span>
         </div>
         
-        {/* Clean horizontal form indicators */}
+        {/* Form A & B indicators */}
         <div className="space-y-3 py-2">
           <div className="flex items-center space-x-3">
             <div className={`w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold ${
@@ -160,53 +159,54 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
               </div>
             )}
           </div>
-          
+        </div>
+      </div>
+
+      {/* PEER EVALUATION SECTION (Form C) */}
+      <div className="space-y-4 py-4 border-t border-gray-100">
+        <div className="flex justify-between items-center mb-4">
+          <h4 className="text-sm font-semibold text-gray-700">Đánh Giá 360°</h4>
+          <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
+            employee.formStatus.formC ? 'bg-green-100 text-green-700 ring-green-200' :
+            'bg-orange-100 text-orange-700 ring-orange-200'
+          }`}>
+            {employee.formStatus.formC ? 'Hoàn thành' : 'Chờ bình chọn'}
+          </span>
+        </div>
+        
+        {/* Form C indicator */}
+        <div className="py-2">
           <div className="flex items-center space-x-3">
             <div className={`w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold ${
-              employee.formStatus.formC ? 'bg-green-500 text-white' : 'bg-red-500 text-white'
+              employee.formStatus.formC ? 'bg-green-500 text-white' : 'bg-blue-500 text-white'
             }`}>
-              {employee.formStatus.formC ? '✓' : '✗'}
+              {employee.formStatus.formC ? '✓' : '👥'}
             </div>
             {employee.formStatus.formC ? (
-              <span className="text-sm text-gray-700 font-medium">Form C - Đã hoàn thành</span>
+              <span className="text-sm text-gray-700 font-medium">Form C - Đã hoàn thành bình chọn</span>
             ) : (
               <div className="flex items-center flex-1">
-                <span className="text-sm text-gray-700 font-medium mr-3">Form C - Chưa hoàn thành</span>
+                <span className="text-sm text-gray-700 font-medium mr-3">Form C - Chưa bình chọn</span>
                 <button
                   onClick={() => handleGenerateForm('C', employee)}
                   disabled={isGenerating}
-                  className="bg-red-500 hover:bg-red-600 text-white text-xs font-bold px-3 py-1 rounded transition-colors duration-200 disabled:opacity-50"
-                  title="Hoàn thành Form C - Đánh giá 360°"
+                  className="bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded transition-colors duration-200 disabled:opacity-50"
+                  title="Bình chọn Form C - Đánh giá 360°"
                 >
-                  {isGenerating ? 'Đang tạo...' : 'NỘP NGAY'}
+                  {isGenerating ? 'Đang tạo...' : 'BÌNH CHỌN NGAY'}
                 </button>
               </div>
             )}
           </div>
         </div>
-        
       </div>
 
-      {/* ACTION BUTTON */}
+      {/* Deadline Info */}
       <div className="pt-4 border-t border-gray-100">
-        <button
-          onClick={handleEvaluate}
-          disabled={isGenerating || !employee.canBeEvaluated}
-          className={`w-full font-medium py-3 px-4 rounded-lg transition-colors duration-200 ${
-            isGenerating || !employee.canBeEvaluated 
-              ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
-              : 'bg-blue-600 hover:bg-blue-700 text-white'
-          }`}
-        >
-          {isGenerating ? (
-            <>
-              <div className="inline-block w-4 h-4 border-2 border-gray-400 border-t-transparent rounded-full animate-spin mr-2" />
-              Đang tạo...
-            </>
-          ) : (
-            '📋 Đánh giá đồng nghiệp'
-          )}
-        </button>
+        <div className="flex justify-between items-center">
+          <span className="text-sm font-medium text-gray-600">Hạn nộp:</span>
+          <span className="text-sm font-bold text-red-600">4/8/2025</span>
+        </div>
       </div>
     </div>
   );
@@ -280,21 +280,20 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
         </div>
       </div>
 
-      {/* FORM STATUS SECTION */}
+      {/* PERSONAL FORMS SECTION (A & B) */}
       <div className="space-y-4 py-4 border-t border-gray-100">
         <div className="flex justify-between items-center mb-4">
-          <h4 className="text-sm font-semibold text-gray-700">Trạng thái Forms</h4>
+          <h4 className="text-sm font-semibold text-gray-700">Forms Cá Nhân</h4>
           <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
-            employee.completedForms === 3 ? 'bg-green-100 text-green-700 ring-green-200' :
-            employee.completedForms === 0 ? 'bg-red-100 text-red-700 ring-red-200' :
-            employee.completedForms <= 1 ? 'bg-red-100 text-red-700 ring-red-200' : 
+            (employee.formStatus.formA && employee.formStatus.formB) ? 'bg-green-100 text-green-700 ring-green-200' :
+            (!employee.formStatus.formA && !employee.formStatus.formB) ? 'bg-red-100 text-red-700 ring-red-200' :
             'bg-orange-100 text-orange-700 ring-orange-200'
           }`}>
-            {employee.completedForms}/3 hoàn thành
+            {(employee.formStatus.formA ? 1 : 0) + (employee.formStatus.formB ? 1 : 0)}/2 hoàn thành
           </span>
         </div>
         
-        {/* Clean horizontal form indicators */}
+        {/* Form A & B indicators */}
         <div className="space-y-3 py-2">
           <div className="flex items-center space-x-3">
             <div className={`w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold ${
@@ -341,31 +340,46 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
               </div>
             )}
           </div>
-          
+        </div>
+      </div>
+
+      {/* PEER EVALUATION SECTION (Form C) */}
+      <div className="space-y-4 py-4 border-t border-gray-100">
+        <div className="flex justify-between items-center mb-4">
+          <h4 className="text-sm font-semibold text-gray-700">Đánh Giá 360°</h4>
+          <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
+            employee.formStatus.formC ? 'bg-green-100 text-green-700 ring-green-200' :
+            'bg-orange-100 text-orange-700 ring-orange-200'
+          }`}>
+            {employee.formStatus.formC ? 'Hoàn thành' : 'Chờ bình chọn'}
+          </span>
+        </div>
+        
+        {/* Form C indicator */}
+        <div className="py-2">
           <div className="flex items-center space-x-3">
             <div className={`w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold ${
-              employee.formStatus.formC ? 'bg-green-500 text-white' : 'bg-red-500 text-white'
+              employee.formStatus.formC ? 'bg-green-500 text-white' : 'bg-blue-500 text-white'
             }`}>
-              {employee.formStatus.formC ? '✓' : '✗'}
+              {employee.formStatus.formC ? '✓' : '👥'}
             </div>
             {employee.formStatus.formC ? (
-              <span className="text-sm text-gray-700 font-medium">Form C - Đã hoàn thành</span>
+              <span className="text-sm text-gray-700 font-medium">Form C - Đã hoàn thành bình chọn</span>
             ) : (
               <div className="flex items-center flex-1">
-                <span className="text-sm text-gray-700 font-medium mr-3">Form C - Chưa hoàn thành</span>
+                <span className="text-sm text-gray-700 font-medium mr-3">Form C - Chưa bình chọn</span>
                 <button
                   onClick={() => handleGenerateForm('C', employee)}
                   disabled={isGenerating}
-                  className="bg-red-500 hover:bg-red-600 text-white text-xs font-bold px-3 py-1 rounded transition-colors duration-200 disabled:opacity-50"
-                  title="Hoàn thành Form C - Đánh giá 360°"
+                  className="bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded transition-colors duration-200 disabled:opacity-50"
+                  title="Bình chọn Form C - Đánh giá 360°"
                 >
-                  {isGenerating ? 'Đang tạo...' : 'NỘP NGAY'}
+                  {isGenerating ? 'Đang tạo...' : 'BÌNH CHỌN NGAY'}
                 </button>
               </div>
             )}
           </div>
         </div>
-        
       </div>
 
       {/* Deadline Info */}
