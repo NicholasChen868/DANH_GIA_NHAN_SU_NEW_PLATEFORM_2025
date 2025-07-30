@@ -31,7 +31,6 @@ const EnhancedEmployeeDashboard = ({ currentUser }) => {
     formStatus: 'all', 
     status: 'all'
   });
-  const [cardVariant, setCardVariant] = useState('default'); // 'default' or 'compact'
   const [viewMode, setViewMode] = useState('grid'); // 'grid' or 'list'
   
   // Load data on component mount
@@ -334,14 +333,6 @@ const EnhancedEmployeeDashboard = ({ currentUser }) => {
                 {viewMode === 'grid' ? <List /> : <Grid3X3 />}
               </button>
               
-              <button
-                onClick={() => setCardVariant(cardVariant === 'default' ? 'compact' : 'default')}
-                className="card-variant-btn"
-                title={cardVariant === 'default' ? 'Chuyển sang chế độ compact' : 'Chuyển sang chế độ chi tiết'}
-              >
-                <Settings />
-                {cardVariant === 'default' ? 'Compact' : 'Chi tiết'}
-              </button>
             </div>
           </div>
         </div>
@@ -431,13 +422,12 @@ const EnhancedEmployeeDashboard = ({ currentUser }) => {
       </div>
 
       {/* Employee Grid */}
-      <div className={`employee-grid ${viewMode} ${cardVariant}`}>
+      <div className={`employee-grid ${viewMode}`}>
         {filteredEmployees.map(employee => (
           <EnhancedEmployeeCard
             key={employee.id}
             employee={employee}
             onGenerateFormC={() => handleGenerateFormC(employee)}
-            variant={cardVariant}
           />
         ))}
       </div>
