@@ -9,7 +9,9 @@
       "Bash(grep:*)",
       "Bash(cat:*)",
       "Bash(curl:*)",
-      "Bash(vercel:*)"
+      "Bash(vercel:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }

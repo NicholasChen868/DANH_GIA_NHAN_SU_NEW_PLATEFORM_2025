@@ -22,10 +22,18 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
         // TODO: Implement Form B generation logic
         window.open('/forms/skills-assessment', '_blank');
       } else if (formType === 'C') {
-        // Form C - Đánh giá 360° (Peer Evaluation)
+        // Form C - Đánh giá 360° (Peer Evaluation) with prefilled data
         console.log('Generating Form C for:', employee.name);
-        // TODO: Implement Form C generation logic
-        window.open('/forms/peer-evaluation', '_blank');
+        
+        // Import and use FormCService for prefilled form
+        const { default: FormCService } = await import('../../services/formCService');
+        const result = await FormCService.openFormC(employee, null);
+        
+        if (result.success) {
+          console.log('✅ Form C opened successfully for:', employee.name);
+        } else {
+          console.warn('⚠️ Form C popup blocked, fallback triggered');
+        }
       }
     } catch (error) {
       console.error(`Error generating Form ${formType}:`, error);
@@ -85,7 +93,7 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
           <button
             onClick={() => handleGenerateForm('C', employee)}
             disabled={isGenerating}
-            className="absolute top-3 right-3 bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-lg transition-all duration-200 disabled:opacity-50 shadow-lg border border-blue-600 transform hover:-translate-y-0.5 active:translate-y-0.5"
+            className="absolute top-2 right-2 bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-lg transition-all duration-200 disabled:opacity-50 shadow-lg border border-blue-600 transform hover:-translate-y-0.5 active:translate-y-0.5"
             title="Đánh giá 360° - Đánh giá đồng nghiệp"
           >
             {isGenerating ? 'Đang tạo...' : 'VOTE NGAY!'}
@@ -248,7 +256,7 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
           <button
             onClick={() => handleGenerateForm('C', employee)}
             disabled={isGenerating}
-            className="absolute top-3 right-3 bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-lg transition-all duration-200 disabled:opacity-50 shadow-lg border border-blue-600 transform hover:-translate-y-0.5 active:translate-y-0.5"
+            className="absolute top-2 right-2 bg-blue-500 hover:bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-lg transition-all duration-200 disabled:opacity-50 shadow-lg border border-blue-600 transform hover:-translate-y-0.5 active:translate-y-0.5"
             title="Đánh giá 360° - Đánh giá đồng nghiệp"
           >
             {isGenerating ? 'Đang tạo...' : 'VOTE NGAY!'}
@@ -308,7 +316,7 @@ const EnhancedEmployeeCard = ({ employee, variant = 'default' }) => {
         {/* PERSONAL FORMS SECTION (A & B) */}
         <div className="space-y-4 py-4 border-t border-gray-100">
           <div className="flex justify-between items-center mb-4">
-            <h4 className="text-sm font-semibold text-gray-700">Forms Hồi ức cấp 3</h4>
+            <h4 className="text-sm font-semibold text-gray-700">Forms Cá nhân:</h4>
             <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
               (employee.formStatus.formA && employee.formStatus.formB) ? 'bg-green-100 text-green-700 ring-green-200' :
               (!employee.formStatus.formA && !employee.formStatus.formB) ? 'bg-red-100 text-red-700 ring-red-200' :
