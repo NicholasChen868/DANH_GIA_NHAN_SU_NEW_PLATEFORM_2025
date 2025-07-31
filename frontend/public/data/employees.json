@@ -38,7 +38,8 @@
       "Mail": "leson@esuhai.com"
     },
     "displayId": "MNV S001",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "V001",
@@ -79,7 +80,8 @@
       "Mail": "ngocgiang@esuhai.com"
     },
     "displayId": "MNV V001",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "C001",
@@ -120,7 +122,8 @@
       "Mail": "shimizu@esuhai.com"
     },
     "displayId": "MNV C001",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "S004",
@@ -161,7 +164,8 @@
       "Mail": "thinhien@kaizen.edu.vn"
     },
     "displayId": "MNV S004",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 1
   },
   {
     "id": "S005",
@@ -202,7 +206,8 @@
       "Mail": "trucly@esuhai.com"
     },
     "displayId": "MNV S005",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 8
   },
   {
     "id": "S009",
@@ -243,7 +248,8 @@
       "Mail": "thinhai@kaizen.edu.vn"
     },
     "displayId": "MNV S009",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 6
   },
   {
     "id": "S083",
@@ -284,7 +290,8 @@
       "Mail": "satomura@esuhai.com"
     },
     "displayId": "MNV S083",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S015",
@@ -325,7 +332,8 @@
       "Mail": "ngochan@kaizen.edu.vn"
     },
     "displayId": "MNV S015",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S016",
@@ -366,7 +374,8 @@
       "Mail": "trucchi@kaizen.edu.vn"
     },
     "displayId": "MNV S016",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S018",
@@ -407,7 +416,8 @@
       "Mail": "longtrieu@esuhai.com"
     },
     "displayId": "MNV S018",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "S019",
@@ -448,7 +458,8 @@
       "Mail": "hohan@kaizen.edu.vn"
     },
     "displayId": "MNV S019",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "V010",
@@ -489,7 +500,8 @@
       "Mail": "sontung@esuhai.com"
     },
     "displayId": "MNV V010",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S021",
@@ -530,7 +542,8 @@
       "Mail": "thienthu@kaizen.edu.vn"
     },
     "displayId": "MNV S021",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "S095",
@@ -571,7 +584,8 @@
       "Mail": "letuan@esuhai.com"
     },
     "displayId": "MNV S095",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S026",
@@ -612,7 +626,8 @@
       "Mail": "duytran@esuhai.com"
     },
     "displayId": "MNV S026",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S027",
@@ -653,7 +668,8 @@
       "Mail": "thientin@esuhai.com"
     },
     "displayId": "MNV S027",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 3
   },
   {
     "id": "S029",
@@ -694,7 +710,8 @@
       "Mail": "hoangkha@esuhai.com"
     },
     "displayId": "MNV S029",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S052",
@@ -735,7 +752,8 @@
       "Mail": "hisano@esuhai.com"
     },
     "displayId": "MNV S052",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 2
   },
   {
     "id": "C043",
@@ -776,7 +794,8 @@
       "Mail": "bichthuy@esuhai.com"
     },
     "displayId": "MNV C043",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "S031",
@@ -817,7 +836,8 @@
       "Mail": "thuyha@esuhai.com"
     },
     "displayId": "MNV S031",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "V029",
@@ -858,7 +878,8 @@
       "Mail": "utsumi@esuhai.com"
     },
     "displayId": "MNV V029",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 4
   },
   {
     "id": "S032",
@@ -899,7 +920,8 @@
       "Mail": "hongan@kaizen.edu.vn"
     },
     "displayId": "MNV S032",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "S033",
@@ -940,7 +962,8 @@
       "Mail": "thihuong@esuhai.com"
     },
     "displayId": "MNV S033",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "S038",
@@ -981,7 +1004,8 @@
       "Mail": "duykhuong@esuhai.com"
     },
     "displayId": "MNV S038",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S041",
@@ -1022,7 +1046,8 @@
       "Mail": "phuongthao@esuhai.com"
     },
     "displayId": "MNV S041",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S050",
@@ -1063,7 +1088,8 @@
       "Mail": "xuanlanh@esuhai.com"
     },
     "displayId": "MNV S050",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S059",
@@ -1104,7 +1130,8 @@
       "Mail": "thiday@kaizen.edu.vn"
     },
     "displayId": "MNV S059",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S180",
@@ -1145,7 +1172,8 @@
       "Mail": "ngocchau@esuhai.com"
     },
     "displayId": "MNV S180",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S066",
@@ -1186,7 +1214,8 @@
       "Mail": "thithuy@esuhai.com"
     },
     "displayId": "MNV S066",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S068",
@@ -1227,7 +1256,8 @@
       "Mail": "minhtan@esuhai.com"
     },
     "displayId": "MNV S068",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S173",
@@ -1268,7 +1298,8 @@
       "Mail": "kawai@esuhai.com"
     },
     "displayId": "MNV S173",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "W001",
@@ -1309,7 +1340,8 @@
       "Mail": "thitam@esuhai.com"
     },
     "displayId": "MNV W001",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S073",
@@ -1350,7 +1382,8 @@
       "Mail": "minhhieu@esuhai.com"
     },
     "displayId": "MNV S073",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 8
   },
   {
     "id": "S085",
@@ -1391,7 +1424,8 @@
       "Mail": "huyenanh@kaizen.edu.vn"
     },
     "displayId": "MNV S085",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S087",
@@ -1432,7 +1466,8 @@
       "Mail": "vannhi@esuhai.com"
     },
     "displayId": "MNV S087",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "S089",
@@ -1473,7 +1508,8 @@
       "Mail": "nguyenhang@kaizen.edu.vn"
     },
     "displayId": "MNV S089",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 6
   },
   {
     "id": "S092",
@@ -1514,7 +1550,8 @@
       "Mail": "dangkhoa@proskills.ac.vn"
     },
     "displayId": "MNV S092",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S100",
@@ -1555,7 +1592,8 @@
       "Mail": "minhduy@esuhai.com"
     },
     "displayId": "MNV S100",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S106",
@@ -1596,7 +1634,8 @@
       "Mail": "hongduc@kaizen.edu.vn"
     },
     "displayId": "MNV S106",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S109",
@@ -1637,7 +1676,8 @@
       "Mail": "khanhlinh@kaizen.edu.vn"
     },
     "displayId": "MNV S109",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "E025",
@@ -1678,7 +1718,8 @@
       "Mail": "quocduy@esuhai.com"
     },
     "displayId": "MNV E025",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "C019",
@@ -1719,7 +1760,8 @@
       "Mail": "maichi@esuhai.com"
     },
     "displayId": "MNV C019",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 8
   },
   {
     "id": "S117",
@@ -1760,7 +1802,8 @@
       "Mail": "thuhuong@kaizen.edu.vn"
     },
     "displayId": "MNV S117",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "E012",
@@ -1801,7 +1844,8 @@
       "Mail": "dauyen@esuhai.com"
     },
     "displayId": "MNV E012",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S140",
@@ -1842,7 +1886,8 @@
       "Mail": "thithao@esuhai.com"
     },
     "displayId": "MNV S140",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S146",
@@ -1883,7 +1928,8 @@
       "Mail": "thanhvc@kaizen.edu.vn"
     },
     "displayId": "MNV S146",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S142",
@@ -1924,7 +1970,8 @@
       "Mail": "phamduc@kaizen.edu.vn"
     },
     "displayId": "MNV S142",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S144",
@@ -1965,7 +2012,8 @@
       "Mail": "nhungoc@esuhai.com"
     },
     "displayId": "MNV S144",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S154",
@@ -2006,7 +2054,8 @@
       "Mail": "trungquan@kaizen.edu.vn"
     },
     "displayId": "MNV S154",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 8
   },
   {
     "id": "S157",
@@ -2047,7 +2096,8 @@
       "Mail": "hoangson@kaizen.edu.vn"
     },
     "displayId": "MNV S157",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S167",
@@ -2088,7 +2138,8 @@
       "Mail": "matsunomoto@kaizen.edu.vn"
     },
     "displayId": "MNV S167",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "S166",
@@ -2129,7 +2180,8 @@
       "Mail": "thuydiem@kaizen.edu.vn"
     },
     "displayId": "MNV S166",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S381",
@@ -2170,7 +2222,8 @@
       "Mail": "minhthien@esuhai.com"
     },
     "displayId": "MNV S381",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S164",
@@ -2211,7 +2264,8 @@
       "Mail": "thanhha@esuhai.com"
     },
     "displayId": "MNV S164",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "C026",
@@ -2252,7 +2306,8 @@
       "Mail": "kubota@esuhai.com"
     },
     "displayId": "MNV C026",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S176",
@@ -2293,7 +2348,8 @@
       "Mail": "longngan@proskills.ac.vn"
     },
     "displayId": "MNV S176",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 6
   },
   {
     "id": "C029",
@@ -2334,7 +2390,8 @@
       "Mail": "thutrang@esuhai.com"
     },
     "displayId": "MNV C029",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S510",
@@ -2375,7 +2432,8 @@
       "Mail": "thikien@esuhai.com"
     },
     "displayId": "MNV S510",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S511",
@@ -2416,7 +2474,8 @@
       "Mail": "ngochuong@esuhai.com"
     },
     "displayId": "MNV S511",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "VH03",
@@ -2457,7 +2516,8 @@
       "Mail": "myhanh@kaizen.edu.vn"
     },
     "displayId": "MNV VH03",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S210",
@@ -2498,7 +2558,8 @@
       "Mail": "truonggiang@kaizen.edu.vn"
     },
     "displayId": "MNV S210",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S513",
@@ -2539,7 +2600,8 @@
       "Mail": "daotrang@kaizen.edu.vn"
     },
     "displayId": "MNV S513",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S342",
@@ -2580,7 +2642,8 @@
       "Mail": "vansang@esuhai.com"
     },
     "displayId": "MNV S342",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S214",
@@ -2621,7 +2684,8 @@
       "Mail": "thixuan@esuhai.com"
     },
     "displayId": "MNV S214",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S215",
@@ -2662,7 +2726,8 @@
       "Mail": "thitrang@proskills.ac.vn"
     },
     "displayId": "MNV S215",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S217",
@@ -2703,7 +2768,8 @@
       "Mail": "ngochoa@kaizen.edu.vn"
     },
     "displayId": "MNV S217",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "VH12",
@@ -2744,7 +2810,8 @@
       "Mail": "thisang@esuhai.com"
     },
     "displayId": "MNV VH12",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S514",
@@ -2785,7 +2852,8 @@
       "Mail": "ngoc.anh@kaizen.edu.vn"
     },
     "displayId": "MNV S514",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "VH21",
@@ -2826,7 +2894,8 @@
       "Mail": "quachlinh@kaizen.edu.vn"
     },
     "displayId": "MNV VH21",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S226",
@@ -2867,7 +2936,8 @@
       "Mail": "thuhien@kaizen.edu.vn"
     },
     "displayId": "MNV S226",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "V044",
@@ -2908,7 +2978,8 @@
       "Mail": "beloan@kaizen.edu.vn"
     },
     "displayId": "MNV V044",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "C030",
@@ -2949,7 +3020,8 @@
       "Mail": "ikeda@esuhai.com"
     },
     "displayId": "MNV C030",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 3
   },
   {
     "id": "C031",
@@ -2990,7 +3062,8 @@
       "Mail": "nguyenngoc@esuhai.com"
     },
     "displayId": "MNV C031",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 8
   },
   {
     "id": "S515",
@@ -3031,7 +3104,8 @@
       "Mail": "lequyen@kaizen.edu.vn"
     },
     "displayId": "MNV S515",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 5
   },
   {
     "id": "VH26",
@@ -3072,7 +3146,8 @@
       "Mail": "nguyenthuy@kaizen.edu.vn"
     },
     "displayId": "MNV VH26",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S240",
@@ -3113,7 +3188,8 @@
       "Mail": "thaomy@kaizen.edu.vn"
     },
     "displayId": "MNV S240",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S243",
@@ -3154,7 +3230,8 @@
       "Mail": "nguyennhu@kaizen.edu.vn"
     },
     "displayId": "MNV S243",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "VH13",
@@ -3195,7 +3272,8 @@
       "Mail": "ngochoang@esuhai.com"
     },
     "displayId": "MNV VH13",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S257",
@@ -3236,7 +3314,8 @@
       "Mail": "quocbao@esuhai.com"
     },
     "displayId": "MNV S257",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S261",
@@ -3277,7 +3356,8 @@
       "Mail": "thanhphuong@esuhai.com"
     },
     "displayId": "MNV S261",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "VH14",
@@ -3318,7 +3398,8 @@
       "Mail": "nthiphuong@esuhai.com"
     },
     "displayId": "MNV VH14",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 4
   },
   {
     "id": "S273",
@@ -3359,7 +3440,8 @@
       "Mail": "quoctuan@esuhai.com"
     },
     "displayId": "MNV S273",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S275",
@@ -3400,7 +3482,8 @@
       "Mail": "quynhanh@proskills.ac.vn"
     },
     "displayId": "MNV S275",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S278",
@@ -3441,7 +3524,8 @@
       "Mail": "tranthi@proskills.ac.vn"
     },
     "displayId": "MNV S278",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 3
   },
   {
     "id": "S285",
@@ -3482,7 +3566,8 @@
       "Mail": "thanhyen@kaizen.edu.vn"
     },
     "displayId": "MNV S285",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S284",
@@ -3523,7 +3608,8 @@
       "Mail": "lampt@esuhai.com"
     },
     "displayId": "MNV S284",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "E002",
@@ -3564,7 +3650,8 @@
       "Mail": "tuongtrang@esuhai.com"
     },
     "displayId": "MNV E002",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "VH17",
@@ -3605,7 +3692,8 @@
       "Mail": "phamnhung@esuhai.com"
     },
     "displayId": "MNV VH17",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 7
   },
   {
     "id": "S287",
@@ -3646,7 +3734,8 @@
       "Mail": "thanhuyen@proskills.ac.vn"
     },
     "displayId": "MNV S287",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "S289",
@@ -3687,7 +3776,8 @@
       "Mail": "hathi@kaizen.edu.vn"
     },
     "displayId": "MNV S289",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S294",
@@ -3728,7 +3818,8 @@
       "Mail": "dieutuyet@esuhai.com"
     },
     "displayId": "MNV S294",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S298",
@@ -3769,7 +3860,8 @@
       "Mail": "huethanh@esuhai.com"
     },
     "displayId": "MNV S298",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "S362",
@@ -3810,7 +3902,8 @@
       "Mail": "thanhhieu@esuhai.com"
     },
     "displayId": "MNV S362",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "VH30",
@@ -3851,7 +3944,8 @@
       "Mail": "vuongtrang@kaizen.edu.vn"
     },
     "displayId": "MNV VH30",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "VH39",
@@ -3892,7 +3986,8 @@
       "Mail": "thihoai@kaizen.edu.vn"
     },
     "displayId": "MNV VH39",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S308",
@@ -3933,7 +4028,8 @@
       "Mail": "huyennga@esuhai.com"
     },
     "displayId": "MNV S308",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S310",
@@ -3974,7 +4070,8 @@
       "Mail": "chidai@kaizen.edu.vn"
     },
     "displayId": "MNV S310",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "S309",
@@ -4015,7 +4112,8 @@
       "Mail": "vannhin@esuhai.com"
     },
     "displayId": "MNV S309",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S313",
@@ -4056,7 +4154,8 @@
       "Mail": "trannhi@esuhai.com"
     },
     "displayId": "MNV S313",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S314",
@@ -4097,7 +4196,8 @@
       "Mail": "lethao@esuhai.com"
     },
     "displayId": "MNV S314",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S316",
@@ -4138,7 +4238,8 @@
       "Mail": "minhnhat@kaizen.edu.vn"
     },
     "displayId": "MNV S316",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S324",
@@ -4179,7 +4280,8 @@
       "Mail": "thu.duonganh@esutech.vn"
     },
     "displayId": "MNV S324",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 6
   },
   {
     "id": "S329",
@@ -4220,7 +4322,8 @@
       "Mail": "vannguyen@kaizen.edu.vn"
     },
     "displayId": "MNV S329",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S086",
@@ -4261,7 +4364,8 @@
       "Mail": "anhthu@kaizen.edu.vn"
     },
     "displayId": "MNV S086",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S334",
@@ -4302,7 +4406,8 @@
       "Mail": "htkngoc@esuhai.com"
     },
     "displayId": "MNV S334",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S338",
@@ -4343,7 +4448,8 @@
       "Mail": "thison@kaizen.edu.vn"
     },
     "displayId": "MNV S338",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S339",
@@ -4384,7 +4490,8 @@
       "Mail": "bachlien@kaizen.edu.vn"
     },
     "displayId": "MNV S339",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S345",
@@ -4425,7 +4532,8 @@
       "Mail": "thihoa@kaizen.edu.vn"
     },
     "displayId": "MNV S345",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S348",
@@ -4466,7 +4574,8 @@
       "Mail": "quoctien@esuhai.com"
     },
     "displayId": "MNV S348",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "E007",
@@ -4507,7 +4616,8 @@
       "Mail": "nthanhthuy@kaizen.edu.vn"
     },
     "displayId": "MNV E007",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S351",
@@ -4548,7 +4658,8 @@
       "Mail": "leloc@kaizen.edu.vn"
     },
     "displayId": "MNV S351",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "VH27",
@@ -4589,7 +4700,8 @@
       "Mail": "thuhang@esuhai.com"
     },
     "displayId": "MNV VH27",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S354",
@@ -4630,7 +4742,8 @@
       "Mail": "phuongtram@esuhai.com"
     },
     "displayId": "MNV S354",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S357",
@@ -4671,7 +4784,8 @@
       "Mail": "hatrang@esuhai.com"
     },
     "displayId": "MNV S357",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "E026",
@@ -4712,7 +4826,8 @@
       "Mail": "thuytruc@esuhai.com"
     },
     "displayId": "MNV E026",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S360",
@@ -4753,7 +4868,8 @@
       "Mail": "vanut@esuhai.com"
     },
     "displayId": "MNV S360",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S363",
@@ -4794,7 +4910,8 @@
       "Mail": "lexuan@kaizen.edu.vn"
     },
     "displayId": "MNV S363",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S367",
@@ -4835,7 +4952,8 @@
       "Mail": "hongngoc@esuhai.com"
     },
     "displayId": "MNV S367",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S372",
@@ -4876,7 +4994,8 @@
       "Mail": "leanh@kaizen.edu.vn"
     },
     "displayId": "MNV S372",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S378",
@@ -4917,7 +5036,8 @@
       "Mail": "hanny@kaizen.edu.vn"
     },
     "displayId": "MNV S378",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "C039",
@@ -4958,7 +5078,8 @@
       "Mail": "xuandat@esuhai.com"
     },
     "displayId": "MNV C039",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S512",
@@ -4999,7 +5120,8 @@
       "Mail": "ngoctuyet@esuhai.com"
     },
     "displayId": "MNV S512",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "VH31",
@@ -5040,7 +5162,8 @@
       "Mail": "doanngoc@esuhai.com"
     },
     "displayId": "MNV VH31",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S387",
@@ -5081,7 +5204,8 @@
       "Mail": "trongdai@kaizen.edu.vn"
     },
     "displayId": "MNV S387",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "S394",
@@ -5122,7 +5246,8 @@
       "Mail": "mongtuyen@kaizen.edu.vn"
     },
     "displayId": "MNV S394",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "S396",
@@ -5163,7 +5288,8 @@
       "Mail": "huynhphuong@esuhai.com"
     },
     "displayId": "MNV S396",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "E021",
@@ -5204,7 +5330,8 @@
       "Mail": "tranthao@kaizen.edu.vn"
     },
     "displayId": "MNV E021",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 6
   },
   {
     "id": "VH33",
@@ -5245,7 +5372,8 @@
       "Mail": "vantuan@esuhai.com"
     },
     "displayId": "MNV VH33",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "E022",
@@ -5286,7 +5414,8 @@
       "Mail": "phuonggiang@kaizen.edu.vn"
     },
     "displayId": "MNV E022",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "VH34",
@@ -5327,7 +5456,8 @@
       "Mail": "thanhbi@kaizen.edu.vn"
     },
     "displayId": "MNV VH34",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S349",
@@ -5368,7 +5498,8 @@
       "Mail": "ngocvang@kaizen.edu.vn"
     },
     "displayId": "MNV S349",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "E005",
@@ -5409,7 +5540,8 @@
       "Mail": "vymy@esuhai.com"
     },
     "displayId": "MNV E005",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S419",
@@ -5450,7 +5582,8 @@
       "Mail": "tranvan@esuhai.com"
     },
     "displayId": "MNV S419",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S422",
@@ -5491,7 +5624,8 @@
       "Mail": "thengan@esuhai.com"
     },
     "displayId": "MNV S422",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "VH37",
@@ -5532,7 +5666,8 @@
       "Mail": "minhhien@kaizen.edu.vn"
     },
     "displayId": "MNV VH37",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 3
   },
   {
     "id": "S433",
@@ -5573,7 +5708,8 @@
       "Mail": "ngocloan@kaizen.edu.vn"
     },
     "displayId": "MNV S433",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "S438",
@@ -5614,7 +5750,8 @@
       "Mail": "minhsang@kaizen.edu.vn"
     },
     "displayId": "MNV S438",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S435",
@@ -5655,7 +5792,8 @@
       "Mail": "thichau@kaizen.edu.vn"
     },
     "displayId": "MNV S435",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 5
   },
   {
     "id": "S440",
@@ -5696,7 +5834,8 @@
       "Mail": "voyen@esuhai.com"
     },
     "displayId": "MNV S440",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S448",
@@ -5737,7 +5876,8 @@
       "Mail": "lamquy@kaizen.edu.vn"
     },
     "displayId": "MNV S448",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 3
   },
   {
     "id": "E009",
@@ -5778,7 +5918,8 @@
       "Mail": "kimanh@kaizen.edu.vn"
     },
     "displayId": "MNV E009",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S459",
@@ -5819,7 +5960,8 @@
       "Mail": "thoi.vanhoang@esutech.vn"
     },
     "displayId": "MNV S459",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S461",
@@ -5860,7 +6002,8 @@
       "Mail": "thanhtrung@esuhai.com"
     },
     "displayId": "MNV S461",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "C045",
@@ -5901,7 +6044,8 @@
       "Mail": "iwabuchi@esuhai.com"
     },
     "displayId": "MNV C045",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S460",
@@ -5942,7 +6086,8 @@
       "Mail": "oshiro@kaizen.edu.vn"
     },
     "displayId": "MNV S460",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S472",
@@ -5983,7 +6128,8 @@
       "Mail": "nhutrang@esuhai.com"
     },
     "displayId": "MNV S472",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S467",
@@ -6024,7 +6170,8 @@
       "Mail": "vunhu@kaizen.edu.vn"
     },
     "displayId": "MNV S467",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S469",
@@ -6065,7 +6212,8 @@
       "Mail": "honggai@kaizen.edu.vn"
     },
     "displayId": "MNV S469",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "S476",
@@ -6106,7 +6254,8 @@
       "Mail": "hongha@esuhai.com"
     },
     "displayId": "MNV S476",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S478",
@@ -6147,7 +6296,8 @@
       "Mail": "hoangthi@kaizen.edu.vn"
     },
     "displayId": "MNV S478",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S479",
@@ -6188,7 +6338,8 @@
       "Mail": "duyen.trinhlemy@esutech.vn"
     },
     "displayId": "MNV S479",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 6
   },
   {
     "id": "S477",
@@ -6229,7 +6380,8 @@
       "Mail": "hongthe@kaizen.edu.vn"
     },
     "displayId": "MNV S477",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 3
   },
   {
     "id": "S488",
@@ -6270,7 +6422,8 @@
       "Mail": "congdong@kaizen.edu.vn"
     },
     "displayId": "MNV S488",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S573",
@@ -6311,7 +6464,8 @@
       "Mail": "nhikhang@esuhai.com"
     },
     "displayId": "MNV S573",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S494",
@@ -6352,7 +6506,8 @@
       "Mail": "anhdao@esuhai.com"
     },
     "displayId": "MNV S494",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S496",
@@ -6393,7 +6548,8 @@
       "Mail": "quoccuong@esuhai.com"
     },
     "displayId": "MNV S496",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S506",
@@ -6434,7 +6590,8 @@
       "Mail": "nakagawa@esuhai.com"
     },
     "displayId": "MNV S506",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "S551",
@@ -6475,7 +6632,8 @@
       "Mail": "thienhao@esuhai.com"
     },
     "displayId": "MNV S551",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S519",
@@ -6516,7 +6674,8 @@
       "Mail": "kimdieu@kaizen.edu.vn"
     },
     "displayId": "MNV S519",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 3
   },
   {
     "id": "E030",
@@ -6557,7 +6716,8 @@
       "Mail": "viettrinh@esuhai.com"
     },
     "displayId": "MNV E030",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S522",
@@ -6598,7 +6758,8 @@
       "Mail": "ntyennhi@esuhai.com"
     },
     "displayId": "MNV S522",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S525",
@@ -6639,7 +6800,8 @@
       "Mail": "trantien@esuhai.com"
     },
     "displayId": "MNV S525",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S528",
@@ -6680,7 +6842,8 @@
       "Mail": "ntthuylinh@kaizen.edu.vn"
     },
     "displayId": "MNV S528",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 5
   },
   {
     "id": "S535",
@@ -6721,7 +6884,8 @@
       "Mail": "trankieu@kaizen.edu.vn"
     },
     "displayId": "MNV S535",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "VH40",
@@ -6762,7 +6926,8 @@
       "Mail": "nhanhieu@esuhai.com"
     },
     "displayId": "MNV VH40",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S538",
@@ -6803,7 +6968,8 @@
       "Mail": "dothao@kaizen.edu.vn"
     },
     "displayId": "MNV S538",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 6
   },
   {
     "id": "S544",
@@ -6844,7 +7010,8 @@
       "Mail": "thngoc@kaizen.edu.vn"
     },
     "displayId": "MNV S544",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "S548",
@@ -6885,7 +7052,8 @@
       "Mail": "anhtuyet@kaizen.edu.vn"
     },
     "displayId": "MNV S548",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "S550",
@@ -6926,7 +7094,8 @@
       "Mail": "tranlinh@esuhai.com"
     },
     "displayId": "MNV S550",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S555",
@@ -6967,7 +7136,8 @@
       "Mail": "thuyhien@esuhai.com"
     },
     "displayId": "MNV S555",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S556",
@@ -7008,7 +7178,8 @@
       "Mail": "nguyenlen@kaizen.edu.vn"
     },
     "displayId": "MNV S556",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S559",
@@ -7049,7 +7220,8 @@
       "Mail": "minhthuan@esuhai.com"
     },
     "displayId": "MNV S559",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S561",
@@ -7090,7 +7262,8 @@
       "Mail": "kifune@kaizen.edu.vn"
     },
     "displayId": "MNV S561",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 4
   },
   {
     "id": "S566",
@@ -7131,7 +7304,8 @@
       "Mail": "namphuong@esuhai.com"
     },
     "displayId": "MNV S566",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "C047",
@@ -7172,7 +7346,8 @@
       "Mail": "kawahara@esuhai.com"
     },
     "displayId": "MNV C047",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S574",
@@ -7213,7 +7388,8 @@
       "Mail": "huutho@esuhai.com"
     },
     "displayId": "MNV S574",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "S586",
@@ -7254,7 +7430,8 @@
       "Mail": "quoctoan@esuhai.com"
     },
     "displayId": "MNV S586",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "C048",
@@ -7295,7 +7472,8 @@
       "Mail": "furutani@esuhai.com"
     },
     "displayId": "MNV C048",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 3
   },
   {
     "id": "SC01",
@@ -7336,7 +7514,8 @@
       "Mail": "nguyennhut@esuhai.com"
     },
     "displayId": "MNV SC01",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S602",
@@ -7377,7 +7556,8 @@
       "Mail": "duyphuong@esuhai.com"
     },
     "displayId": "MNV S602",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S612",
@@ -7418,7 +7598,8 @@
       "Mail": "ngocvtk@esuhai.com"
     },
     "displayId": "MNV S612",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 4
   },
   {
     "id": "S618",
@@ -7459,7 +7640,8 @@
       "Mail": "vinhnq@esuhai.com"
     },
     "displayId": "MNV S618",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S619",
@@ -7500,7 +7682,8 @@
       "Mail": "linhvtm@esuhai.com"
     },
     "displayId": "MNV S619",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 4
   },
   {
     "id": "S621",
@@ -7541,7 +7724,8 @@
       "Mail": "hoadt@kaizen.edu.vn"
     },
     "displayId": "MNV S621",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S624",
@@ -7582,7 +7766,8 @@
       "Mail": "khanhnd@esuhai.com"
     },
     "displayId": "MNV S624",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S625",
@@ -7623,7 +7808,8 @@
       "Mail": "linhvd@esuhai.com"
     },
     "displayId": "MNV S625",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S223",
@@ -7664,7 +7850,8 @@
       "Mail": "thuytrinh@kaizen.edu.vn"
     },
     "displayId": "MNV S223",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "C049",
@@ -7705,7 +7892,8 @@
       "Mail": "takaoka@esuhai.com"
     },
     "displayId": "MNV C049",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "A002",
@@ -7746,7 +7934,8 @@
       "Mail": "taitt@esuhai.com"
     },
     "displayId": "MNV A002",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "S632",
@@ -7787,7 +7976,8 @@
       "Mail": "oanhnvt@esuhai.com"
     },
     "displayId": "MNV S632",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S055",
@@ -7828,7 +8018,8 @@
       "Mail": "tuyenntm@kaizen.edu.vn"
     },
     "displayId": "MNV S055",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 3
   },
   {
     "id": "C051",
@@ -7869,7 +8060,8 @@
       "Mail": "hoangnhan@esuhai.com"
     },
     "displayId": "MNV C051",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "S636",
@@ -7910,7 +8102,8 @@
       "Mail": "nguyenntt@esuhai.com"
     },
     "displayId": "MNV S636",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S637",
@@ -7951,7 +8144,8 @@
       "Mail": "nhuynty@esuhai.com"
     },
     "displayId": "MNV S637",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "T004",
@@ -7992,7 +8186,8 @@
       "Mail": "linhtd@esutech.edu.vn"
     },
     "displayId": "MNV T004",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S643",
@@ -8033,7 +8228,8 @@
       "Mail": "hoshiyama@esuhai.com"
     },
     "displayId": "MNV S643",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S644",
@@ -8074,7 +8270,8 @@
       "Mail": "phuongnt@esuhai.com"
     },
     "displayId": "MNV S644",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "S646",
@@ -8115,7 +8312,8 @@
       "Mail": "nhannq@kaizen.edu.vn"
     },
     "displayId": "MNV S646",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "VH41",
@@ -8156,7 +8354,8 @@
       "Mail": "buithuy@kaizen.edu.vn"
     },
     "displayId": "MNV VH41",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S655",
@@ -8197,7 +8396,8 @@
       "Mail": "traptt@kaizen.edu.vn"
     },
     "displayId": "MNV S655",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S656",
@@ -8238,7 +8438,8 @@
       "Mail": "locnnv@esuhai.com"
     },
     "displayId": "MNV S656",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "T006",
@@ -8279,7 +8480,8 @@
       "Mail": "huy.phamdang@esutech.vn"
     },
     "displayId": "MNV T006",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "P003",
@@ -8320,7 +8522,8 @@
       "Mail": "thaotnp@proskills.ac.vn"
     },
     "displayId": "MNV P003",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S657",
@@ -8361,7 +8564,8 @@
       "Mail": "lylth@esuhai.com"
     },
     "displayId": "MNV S657",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S658",
@@ -8402,7 +8606,8 @@
       "Mail": "phuongvlt@kaizen.edu.vn"
     },
     "displayId": "MNV S658",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 8
   },
   {
     "id": "S659",
@@ -8443,7 +8648,8 @@
       "Mail": "hangntt@kaizen.edu.vn"
     },
     "displayId": "MNV S659",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "S662",
@@ -8484,7 +8690,8 @@
       "Mail": "anhdl@esuhai.com"
     },
     "displayId": "MNV S662",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S663",
@@ -8525,7 +8732,8 @@
       "Mail": "tadahisa@kaizen.edu.vn"
     },
     "displayId": "MNV S663",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "E036",
@@ -8566,7 +8774,8 @@
       "Mail": "lan.nguyenthicam@esutech.vn"
     },
     "displayId": "MNV E036",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S669",
@@ -8607,7 +8816,8 @@
       "Mail": "nhihty@esuhai.com"
     },
     "displayId": "MNV S669",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S670",
@@ -8648,7 +8858,8 @@
       "Mail": "phuongvth@esuhai.com"
     },
     "displayId": "MNV S670",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 2
   },
   {
     "id": "S675",
@@ -8689,7 +8900,8 @@
       "Mail": "myptk@esuhai.com"
     },
     "displayId": "MNV S675",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S676",
@@ -8730,7 +8942,8 @@
       "Mail": "thyvgb@esuhai.com"
     },
     "displayId": "MNV S676",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 3
   },
   {
     "id": "A014",
@@ -8771,7 +8984,8 @@
       "Mail": "nghiemnh@esuhai.com"
     },
     "displayId": "MNV A014",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "A015",
@@ -8812,7 +9026,8 @@
       "Mail": "bantnd@esuhai.com"
     },
     "displayId": "MNV A015",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S678",
@@ -8853,7 +9068,8 @@
       "Mail": "ngocltm@kaizen.edu.vn"
     },
     "displayId": "MNV S678",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S679",
@@ -8894,7 +9110,8 @@
       "Mail": "chauln@kaizen.edu.vn"
     },
     "displayId": "MNV S679",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "S682",
@@ -8935,7 +9152,8 @@
       "Mail": "ngocdq@esuhai.com"
     },
     "displayId": "MNV S682",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S683",
@@ -8976,7 +9194,8 @@
       "Mail": "ngamtb@kaizen.edu.vn"
     },
     "displayId": "MNV S683",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S688",
@@ -9017,7 +9236,8 @@
       "Mail": "nghinp@esuhai.com"
     },
     "displayId": "MNV S688",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S690",
@@ -9058,7 +9278,8 @@
       "Mail": "hungnh@esuhai.com"
     },
     "displayId": "MNV S690",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "S691",
@@ -9099,7 +9320,8 @@
       "Mail": "phuongptm@esuhai.com"
     },
     "displayId": "MNV S691",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S693",
@@ -9140,7 +9362,8 @@
       "Mail": "nganntt@esuhai.com"
     },
     "displayId": "MNV S693",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "T011",
@@ -9181,7 +9404,8 @@
       "Mail": "nhinhy@esuhai.com"
     },
     "displayId": "MNV T011",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "T012",
@@ -9222,7 +9446,8 @@
       "Mail": "chuyen.nguyenvan@esutech.vn"
     },
     "displayId": "MNV T012",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S696",
@@ -9263,7 +9488,8 @@
       "Mail": "kohinata@kaizen.edu.vn"
     },
     "displayId": "MNV S696",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S274",
@@ -9304,7 +9530,8 @@
       "Mail": "tungpq@kaizen.edu.vn"
     },
     "displayId": "MNV S274",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S702",
@@ -9345,7 +9572,8 @@
       "Mail": "hanv@esuhai.com"
     },
     "displayId": "MNV S702",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S703",
@@ -9386,7 +9614,8 @@
       "Mail": "huynhn@esuhai.com"
     },
     "displayId": "MNV S703",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S708",
@@ -9427,7 +9656,8 @@
       "Mail": "anhhnt@esuhai.com"
     },
     "displayId": "MNV S708",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 4
   },
   {
     "id": "S709",
@@ -9468,7 +9698,8 @@
       "Mail": "anhpnt@esuhai.com"
     },
     "displayId": "MNV S709",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "W008",
@@ -9509,7 +9740,8 @@
       "Mail": "lan.dangthi@esutech.vn"
     },
     "displayId": "MNV W008",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S712",
@@ -9550,7 +9782,8 @@
       "Mail": "phuoch@esuhai.com"
     },
     "displayId": "MNV S712",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S713",
@@ -9591,7 +9824,8 @@
       "Mail": "sondt@kaizen.edu.vn"
     },
     "displayId": "MNV S713",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S717",
@@ -9632,7 +9866,8 @@
       "Mail": "nhivtp@kaizen.edu.vn"
     },
     "displayId": "MNV S717",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "S719",
@@ -9673,7 +9908,8 @@
       "Mail": "thanhntn@esuhai.com"
     },
     "displayId": "MNV S719",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "P008",
@@ -9714,7 +9950,8 @@
       "Mail": "nhunt@proskills.ac.vn"
     },
     "displayId": "MNV P008",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S724",
@@ -9755,7 +9992,8 @@
       "Mail": "linhnty@esuhai.com"
     },
     "displayId": "MNV S724",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "S726",
@@ -9796,7 +10034,8 @@
       "Mail": "buunt@esuhai.com"
     },
     "displayId": "MNV S726",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 8
   },
   {
     "id": "S728",
@@ -9837,7 +10076,8 @@
       "Mail": "kieudtt@esuhai.com"
     },
     "displayId": "MNV S728",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S732",
@@ -9878,7 +10118,8 @@
       "Mail": "thidnl@esuhai.com"
     },
     "displayId": "MNV S732",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S734",
@@ -9919,7 +10160,8 @@
       "Mail": "thangvm@kaizen.edu.vn"
     },
     "displayId": "MNV S734",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 6
   },
   {
     "id": "S735",
@@ -9960,7 +10202,8 @@
       "Mail": "quyenld@kaizen.edu.vn"
     },
     "displayId": "MNV S735",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "T013",
@@ -10001,7 +10244,8 @@
       "Mail": "masuda@esuhai.com"
     },
     "displayId": "MNV T013",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S740",
@@ -10042,7 +10286,8 @@
       "Mail": "phungtk@esuhai.com"
     },
     "displayId": "MNV S740",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "W009",
@@ -10083,7 +10328,8 @@
       "Mail": "thaontt@esuhai.com"
     },
     "displayId": "MNV W009",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "P010",
@@ -10124,7 +10370,8 @@
       "Mail": "nguyennt@proskills.ac.vn"
     },
     "displayId": "MNV P010",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "P011",
@@ -10165,7 +10412,8 @@
       "Mail": "danth@proskills.ac.vn"
     },
     "displayId": "MNV P011",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "SD01",
@@ -10206,7 +10454,8 @@
       "Mail": "trungnh@esuhai.com"
     },
     "displayId": "MNV SD01",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S744",
@@ -10247,7 +10496,8 @@
       "Mail": "phuongntm1@kaizen.edu.vn"
     },
     "displayId": "MNV S744",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "T014",
@@ -10288,7 +10538,8 @@
       "Mail": "huyen.tranthi@esutech.vn"
     },
     "displayId": "MNV T014",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "T016",
@@ -10329,7 +10580,8 @@
       "Mail": "loc.tranquoc@esutech.vn"
     },
     "displayId": "MNV T016",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "S745",
@@ -10370,7 +10622,8 @@
       "Mail": "tienvp@kaizen.edu.vn"
     },
     "displayId": "MNV S745",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S748",
@@ -10411,7 +10664,8 @@
       "Mail": "nhita@esuhai.com"
     },
     "displayId": "MNV S748",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S749",
@@ -10452,7 +10706,8 @@
       "Mail": "vynnl@esuhai.com"
     },
     "displayId": "MNV S749",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 7
   },
   {
     "id": "S750",
@@ -10493,7 +10748,8 @@
       "Mail": "thinhtp@esuhai.com"
     },
     "displayId": "MNV S750",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "SD02",
@@ -10534,7 +10790,8 @@
       "Mail": "hantt@esuhai.com"
     },
     "displayId": "MNV SD02",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S753",
@@ -10575,7 +10832,8 @@
       "Mail": "hanhntm@esuhai.com"
     },
     "displayId": "MNV S753",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "W010",
@@ -10616,7 +10874,8 @@
       "Mail": "thuntm@esuhai.com"
     },
     "displayId": "MNV W010",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "W011",
@@ -10657,7 +10916,8 @@
       "Mail": "thihm@esuhai.com"
     },
     "displayId": "MNV W011",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S756",
@@ -10698,7 +10958,8 @@
       "Mail": "phuongnth@esuhai.com"
     },
     "displayId": "MNV S756",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S765",
@@ -10739,7 +11000,8 @@
       "Mail": "nhungntt@kaizen.edu.vn"
     },
     "displayId": "MNV S765",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S766",
@@ -10780,7 +11042,8 @@
       "Mail": "thongth@esuhai.com"
     },
     "displayId": "MNV S766",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S768",
@@ -10821,7 +11084,8 @@
       "Mail": "nghiqt@esuhai.com"
     },
     "displayId": "MNV S768",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "T019",
@@ -10862,7 +11126,8 @@
       "Mail": "ngocntk@esuhai.com"
     },
     "displayId": "MNV T019",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 1
   },
   {
     "id": "S769",
@@ -10903,7 +11168,8 @@
       "Mail": "ngocntb@esuhai.com"
     },
     "displayId": "MNV S769",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "A017",
@@ -10944,7 +11210,8 @@
       "Mail": "phuocth@esuhai.com"
     },
     "displayId": "MNV A017",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 7
   },
   {
     "id": "S770",
@@ -10985,7 +11252,8 @@
       "Mail": "trinhvtm@esuhai.com"
     },
     "displayId": "MNV S770",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "W012",
@@ -11026,7 +11294,8 @@
       "Mail": "hopvt@esuhai.com"
     },
     "displayId": "MNV W012",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S774",
@@ -11067,7 +11336,8 @@
       "Mail": "trapc@esuhai.com"
     },
     "displayId": "MNV S774",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S775",
@@ -11108,7 +11378,8 @@
       "Mail": "dungntt@esuhai.com"
     },
     "displayId": "MNV S775",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "T020",
@@ -11149,7 +11420,8 @@
       "Mail": "tien.lethanh@esutech.vn"
     },
     "displayId": "MNV T020",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "T021",
@@ -11190,7 +11462,8 @@
       "Mail": "hieu.nguyentrung@esutech.vn"
     },
     "displayId": "MNV T021",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S776",
@@ -11231,7 +11504,8 @@
       "Mail": "thongnm@kaizen.edu.vn"
     },
     "displayId": "MNV S776",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S777",
@@ -11272,7 +11546,8 @@
       "Mail": "hanhpn@kaizen.edu.vn"
     },
     "displayId": "MNV S777",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S779",
@@ -11313,7 +11588,8 @@
       "Mail": "tienvtc@esuhai.com"
     },
     "displayId": "MNV S779",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 1
   },
   {
     "id": "A019",
@@ -11354,7 +11630,8 @@
       "Mail": "nhihy@esuhai.com"
     },
     "displayId": "MNV A019",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "S782",
@@ -11395,7 +11672,8 @@
       "Mail": "thanhlt@esuhai.com"
     },
     "displayId": "MNV S782",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "T022",
@@ -11436,7 +11714,8 @@
       "Mail": "linh.vitranphuong@esutech.vn"
     },
     "displayId": "MNV T022",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 6
   },
   {
     "id": "T024",
@@ -11477,7 +11756,8 @@
       "Mail": "hai.phamhuu@esutech.vn"
     },
     "displayId": "MNV T024",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S800",
@@ -11518,7 +11798,8 @@
       "Mail": "yamaoka@esuhai.com"
     },
     "displayId": "MNV S800",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "T025",
@@ -11559,7 +11840,8 @@
       "Mail": "loc.levan@esutech.vn"
     },
     "displayId": "MNV T025",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 3
   },
   {
     "id": "T026",
@@ -11600,7 +11882,8 @@
       "Mail": "nguyen.nguyenthanh@esutech.vn"
     },
     "displayId": "MNV T026",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 7
   },
   {
     "id": "S790",
@@ -11641,7 +11924,8 @@
       "Mail": "nhintt@kaizen.edu.vn"
     },
     "displayId": "MNV S790",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S791",
@@ -11682,7 +11966,8 @@
       "Mail": "ryu@kaizen.edu.vn"
     },
     "displayId": "MNV S791",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S792",
@@ -11723,7 +12008,8 @@
       "Mail": "nhungtth@esuhai.com"
     },
     "displayId": "MNV S792",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S797",
@@ -11764,7 +12050,8 @@
       "Mail": "phuongnn@esuhai.com"
     },
     "displayId": "MNV S797",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "T028",
@@ -11805,7 +12092,8 @@
       "Mail": "kim.tranthanh@esutech.vn"
     },
     "displayId": "MNV T028",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S798",
@@ -11846,7 +12134,8 @@
       "Mail": "phuongbt@kaizen.edu.vn"
     },
     "displayId": "MNV S798",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "S799",
@@ -11887,7 +12176,8 @@
       "Mail": "xuandd@esuhai.com"
     },
     "displayId": "MNV S799",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S801",
@@ -11928,7 +12218,8 @@
       "Mail": "suongltt@kaizen.edu.vn"
     },
     "displayId": "MNV S801",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "P018",
@@ -11969,7 +12260,8 @@
       "Mail": "thuyptx@proskills.ac.vn"
     },
     "displayId": "MNV P018",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "A023",
@@ -12010,7 +12302,8 @@
       "Mail": "duyvt@esuhai.com"
     },
     "displayId": "MNV A023",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "T030",
@@ -12051,7 +12344,8 @@
       "Mail": "dung.nguyenthuy@esutech.vn"
     },
     "displayId": "MNV T030",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S804",
@@ -12092,7 +12386,8 @@
       "Mail": "nhungdtt@esuhai.com"
     },
     "displayId": "MNV S804",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S805",
@@ -12133,7 +12428,8 @@
       "Mail": "chinhlnh@esuhai.com"
     },
     "displayId": "MNV S805",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S802",
@@ -12174,7 +12470,8 @@
       "Mail": "truchpb@esuhai.com"
     },
     "displayId": "MNV S802",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "T029",
@@ -12215,7 +12512,8 @@
       "Mail": "bao.tran@esutech.vn"
     },
     "displayId": "MNV T029",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 2
   },
   {
     "id": "A024",
@@ -12256,7 +12554,8 @@
       "Mail": "trungtq@esuhai.com"
     },
     "displayId": "MNV A024",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S808",
@@ -12297,7 +12596,8 @@
       "Mail": "trinhnqm@esuhai.com"
     },
     "displayId": "MNV S808",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S810",
@@ -12338,7 +12638,8 @@
       "Mail": "ngadt@kaizen.edu.vn"
     },
     "displayId": "MNV S810",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 2
   },
   {
     "id": "S811",
@@ -12379,7 +12680,8 @@
       "Mail": "hieuhp@esuhai.com"
     },
     "displayId": "MNV S811",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "S812",
@@ -12420,7 +12722,8 @@
       "Mail": "thinhld@esuhai.com"
     },
     "displayId": "MNV S812",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S813",
@@ -12461,7 +12764,8 @@
       "Mail": "hailc@esuhai.com"
     },
     "displayId": "MNV S813",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "A027",
@@ -12502,7 +12806,8 @@
       "Mail": "longnh@esuhai.com"
     },
     "displayId": "MNV A027",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "A028",
@@ -12543,7 +12848,8 @@
       "Mail": "anhblm@esuhai.com"
     },
     "displayId": "MNV A028",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "A030",
@@ -12584,7 +12890,8 @@
       "Mail": "hoantk@esuhai.com"
     },
     "displayId": "MNV A030",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S815",
@@ -12625,7 +12932,8 @@
       "Mail": "duongnt@esuhai.com"
     },
     "displayId": "MNV S815",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S816",
@@ -12666,7 +12974,8 @@
       "Mail": "thuongnnt@kaizen.edu.vn"
     },
     "displayId": "MNV S816",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "A031",
@@ -12707,7 +13016,8 @@
       "Mail": "tuantq@esuhai.com"
     },
     "displayId": "MNV A031",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "S820",
@@ -12748,7 +13058,8 @@
       "Mail": "chiphu@kaizen.edu.vn"
     },
     "displayId": "MNV S820",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 4
   },
   {
     "id": "T032",
@@ -12789,7 +13100,8 @@
       "Mail": "anh.mactuan@esutech.vn"
     },
     "displayId": "MNV T032",
-    "formCCount": 1
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S818",
@@ -12830,7 +13142,8 @@
       "Mail": "yennh@kaizen.edu.vn"
     },
     "displayId": "MNV S818",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S819",
@@ -12871,7 +13184,8 @@
       "Mail": "xuantt@esuhai.com"
     },
     "displayId": "MNV S819",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "S821",
@@ -12912,7 +13226,8 @@
       "Mail": "quynhntn@proskills.ac.vn"
     },
     "displayId": "MNV S821",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S822",
@@ -12953,7 +13268,8 @@
       "Mail": "lelm@kaizen.edu.vn"
     },
     "displayId": "MNV S822",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 5
   },
   {
     "id": "S823",
@@ -12994,7 +13310,8 @@
       "Mail": "shiho@esuhai.com"
     },
     "displayId": "MNV S823",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 1
   },
   {
     "id": "C052",
@@ -13035,7 +13352,8 @@
       "Mail": "huongct@esuhai.com"
     },
     "displayId": "MNV C052",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S827",
@@ -13076,7 +13394,8 @@
       "Mail": "truclth@esuhai.com"
     },
     "displayId": "MNV S827",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S828",
@@ -13117,7 +13436,8 @@
       "Mail": "linhnpn@esuhai.com"
     },
     "displayId": "MNV S828",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 6
   },
   {
     "id": "S829",
@@ -13158,7 +13478,8 @@
       "Mail": "thunhm@esuhai.com"
     },
     "displayId": "MNV S829",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "S833",
@@ -13199,7 +13520,8 @@
       "Mail": "nakao@kaizen.edu.vn"
     },
     "displayId": "MNV S833",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S834",
@@ -13240,7 +13562,8 @@
       "Mail": "egami@kaizen.edu.vn"
     },
     "displayId": "MNV S834",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S835",
@@ -13281,7 +13604,8 @@
       "Mail": "halt@esuhai.com"
     },
     "displayId": "MNV S835",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S836",
@@ -13322,7 +13646,8 @@
       "Mail": "phuonghm@esuhai.com"
     },
     "displayId": "MNV S836",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S839",
@@ -13363,7 +13688,8 @@
       "Mail": "tranhtb@esuhai.com"
     },
     "displayId": "MNV S839",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 6
   },
   {
     "id": "S840",
@@ -13404,7 +13730,8 @@
       "Mail": "thuonglt@kaizen.edu.vn"
     },
     "displayId": "MNV S840",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S841",
@@ -13445,7 +13772,8 @@
       "Mail": "hieutlt@kaizen.edu.vn"
     },
     "displayId": "MNV S841",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "C053",
@@ -13486,7 +13814,8 @@
       "Mail": "lienht@esuhai.com"
     },
     "displayId": "MNV C053",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S842",
@@ -13527,7 +13856,8 @@
       "Mail": "sonlt@esuhai.com"
     },
     "displayId": "MNV S842",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S843",
@@ -13568,7 +13898,8 @@
       "Mail": "kageyama@kaizen.edu.vn"
     },
     "displayId": "MNV S843",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S000844",
@@ -13609,7 +13940,8 @@
       "Mail": "imamachi@esutech.vn"
     },
     "displayId": "MNV S000844",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 8
   },
   {
     "id": "S000847",
@@ -13650,7 +13982,8 @@
       "Mail": "phuclv@esuhai.com"
     },
     "displayId": "MNV S000847",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S000848",
@@ -13691,7 +14024,8 @@
       "Mail": "tamlh@kaizen.edu.vn"
     },
     "displayId": "MNV S000848",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 3
   },
   {
     "id": "S000849",
@@ -13732,7 +14066,8 @@
       "Mail": "phidq@esuhai.com"
     },
     "displayId": "MNV S000849",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S000850",
@@ -13773,7 +14108,8 @@
       "Mail": "sangnlb@esuhai.com"
     },
     "displayId": "MNV S000850",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000851",
@@ -13814,7 +14150,8 @@
       "Mail": "hoant@esuhai.com"
     },
     "displayId": "MNV S000851",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S000853",
@@ -13855,7 +14192,8 @@
       "Mail": "arisa@kaizen.edu.vn"
     },
     "displayId": "MNV S000853",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S000854",
@@ -13896,7 +14234,8 @@
       "Mail": "tientv@esuhai.com"
     },
     "displayId": "MNV S000854",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S000855",
@@ -13937,7 +14276,8 @@
       "Mail": "thanhntd@esuhai.com"
     },
     "displayId": "MNV S000855",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "C054",
@@ -13978,7 +14318,8 @@
       "Mail": "thutta@esuhai.com"
     },
     "displayId": "MNV C054",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S000857",
@@ -14019,7 +14360,8 @@
       "Mail": "linh.nguyenthituyet@esutech.vn"
     },
     "displayId": "MNV S000857",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S000859",
@@ -14060,7 +14402,8 @@
       "Mail": "uyenlt@proskills.ac.vn"
     },
     "displayId": "MNV S000859",
-    "formCCount": 2
+    "formCCount": 4,
+    "receivedVotes": 1
   },
   {
     "id": "C055",
@@ -14101,7 +14444,8 @@
       "Mail": "hoinv@esuhai.com"
     },
     "displayId": "MNV C055",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 5
   },
   {
     "id": "S000862",
@@ -14142,7 +14486,8 @@
       "Mail": "thopq@kaizen.edu.vn"
     },
     "displayId": "MNV S000862",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 5
   },
   {
     "id": "S000863",
@@ -14183,7 +14528,8 @@
       "Mail": "linhhtm@esuhai.com"
     },
     "displayId": "MNV S000863",
-    "formCCount": 3
+    "formCCount": 1,
+    "receivedVotes": 5
   },
   {
     "id": "S000864",
@@ -14224,7 +14570,8 @@
       "Mail": "vynnt@esuhai.com"
     },
     "displayId": "MNV S000864",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 3
   },
   {
     "id": "S000865",
@@ -14265,7 +14612,8 @@
       "Mail": "cuong.dinhvan@esutech.vn"
     },
     "displayId": "MNV S000865",
-    "formCCount": 1
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S000866",
@@ -14306,7 +14654,8 @@
       "Mail": "locpt@esuhai.com"
     },
     "displayId": "MNV S000866",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S000867",
@@ -14347,7 +14696,8 @@
       "Mail": "latcs@esuhai.com"
     },
     "displayId": "MNV S000867",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "S000868",
@@ -14388,7 +14738,8 @@
       "Mail": "thao.nguyenthithanh@esutech.vn"
     },
     "displayId": "MNV S000868",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S000869",
@@ -14429,7 +14780,8 @@
       "Mail": "ngannpt@esuhai.com"
     },
     "displayId": "MNV S000869",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S000870",
@@ -14470,7 +14822,8 @@
       "Mail": "quynhpnn@esuhai.com"
     },
     "displayId": "MNV S000870",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S000871",
@@ -14511,7 +14864,8 @@
       "Mail": "hieuqt@proskills.ac.vn"
     },
     "displayId": "MNV S000871",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 1
   },
   {
     "id": "S000872",
@@ -14552,7 +14906,8 @@
       "Mail": "lanlc@esuhai.com"
     },
     "displayId": "MNV S000872",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000875",
@@ -14593,7 +14948,8 @@
       "Mail": "huongtnk@esuhai.com"
     },
     "displayId": "MNV S000875",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 2
   },
   {
     "id": "S000876",
@@ -14634,7 +14990,8 @@
       "Mail": "oanhdt@esuhai.com"
     },
     "displayId": "MNV S000876",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 8
   },
   {
     "id": "S000877",
@@ -14675,7 +15032,8 @@
       "Mail": "chiennd@esuhai.com"
     },
     "displayId": "MNV S000877",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 8
   },
   {
     "id": "S000878",
@@ -14716,7 +15074,8 @@
       "Mail": "dieunv@esuhai.com"
     },
     "displayId": "MNV S000878",
-    "formCCount": 1
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S000879",
@@ -14757,7 +15116,8 @@
       "Mail": "sugiyama@esuhai.com"
     },
     "displayId": "MNV S000879",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S000880",
@@ -14798,7 +15158,8 @@
       "Mail": "thiennh@esuhai.com"
     },
     "displayId": "MNV S000880",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 7
   },
   {
     "id": "S000881",
@@ -14839,7 +15200,8 @@
       "Mail": "ngocnth@esuhai.com"
     },
     "displayId": "MNV S000881",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000882",
@@ -14880,7 +15242,8 @@
       "Mail": "nghiatq@esuhai.com"
     },
     "displayId": "MNV S000882",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S000883",
@@ -14921,7 +15284,8 @@
       "Mail": "vandtc@esuhai.com"
     },
     "displayId": "MNV S000883",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "S000885",
@@ -14962,7 +15326,8 @@
       "Mail": "tsujinaka@kaizen.edu.vn"
     },
     "displayId": "MNV S000885",
-    "formCCount": 2
+    "formCCount": 3,
+    "receivedVotes": 8
   },
   {
     "id": "S000887",
@@ -15003,7 +15368,8 @@
       "Mail": "nhu.vothiquynh@esutech.vn"
     },
     "displayId": "MNV S000887",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S000888",
@@ -15044,7 +15410,8 @@
       "Mail": "kimnt@kaizen.edu.vn"
     },
     "displayId": "MNV S000888",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "S000889",
@@ -15085,7 +15452,8 @@
       "Mail": "thuyttt@kaizen.edu.vn"
     },
     "displayId": "MNV S000889",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000890",
@@ -15126,7 +15494,8 @@
       "Mail": "liennt@esuhai.com"
     },
     "displayId": "MNV S000890",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S000891",
@@ -15167,7 +15536,8 @@
       "Mail": "nghiatm@esuhai.com"
     },
     "displayId": "MNV S000891",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S000892",
@@ -15208,7 +15578,8 @@
       "Mail": "nhitty@esuhai.com"
     },
     "displayId": "MNV S000892",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S000893",
@@ -15249,7 +15620,8 @@
       "Mail": "khanhlt@esuhai.com"
     },
     "displayId": "MNV S000893",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 4
   },
   {
     "id": "S000894",
@@ -15290,7 +15662,8 @@
       "Mail": "chintm@esuhai.com"
     },
     "displayId": "MNV S000894",
-    "formCCount": 4
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "S000895",
@@ -15331,7 +15704,8 @@
       "Mail": "ngocttn@kaizen.edu.vn"
     },
     "displayId": "MNV S000895",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S000896",
@@ -15372,7 +15746,8 @@
       "Mail": "vannt@jpc.edu.vn"
     },
     "displayId": "MNV S000896",
-    "formCCount": 3
+    "formCCount": 4,
+    "receivedVotes": 7
   },
   {
     "id": "S000899",
@@ -15413,7 +15788,8 @@
       "Mail": "diemdtn@esuhai.com"
     },
     "displayId": "MNV S000899",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 1
   },
   {
     "id": "S000900",
@@ -15454,7 +15830,8 @@
       "Mail": "thaontp@esuhai.com"
     },
     "displayId": "MNV S000900",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 4
   },
   {
     "id": "S000901",
@@ -15495,7 +15872,8 @@
       "Mail": "hoa.buithimy@esutech.vn"
     },
     "displayId": "MNV S000901",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000903",
@@ -15536,7 +15914,8 @@
       "Mail": "vietnq@esuhai.com"
     },
     "displayId": "MNV S000903",
-    "formCCount": 2
+    "formCCount": 2,
+    "receivedVotes": 8
   },
   {
     "id": "S000905",
@@ -15577,7 +15956,8 @@
       "Mail": "huongltq@kaizen.edu.vn"
     },
     "displayId": "MNV S000905",
-    "formCCount": 4
+    "formCCount": 1,
+    "receivedVotes": 3
   },
   {
     "id": "S000907",
@@ -15618,7 +15998,8 @@
       "Mail": "anhnpm@jpc.edu.vn"
     },
     "displayId": "MNV S000907",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 7
   },
   {
     "id": "S000908",
@@ -15659,7 +16040,8 @@
       "Mail": "nguyentnt@kaizen.edu.vn"
     },
     "displayId": "MNV S000908",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000910",
@@ -15700,7 +16082,8 @@
       "Mail": "hungtt@proskills.ac.vn"
     },
     "displayId": "MNV S000910",
-    "formCCount": 2
+    "formCCount": 1,
+    "receivedVotes": 4
   },
   {
     "id": "S000911",
@@ -15741,7 +16124,8 @@
       "Mail": "thuht@esuhai.com"
     },
     "displayId": "MNV S000911",
-    "formCCount": 1
+    "formCCount": 4,
+    "receivedVotes": 4
   },
   {
     "id": "S000912",
@@ -15782,7 +16166,8 @@
       "Mail": "minhtq@kaizen.edu.vn"
     },
     "displayId": "MNV S000912",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 6
   },
   {
     "id": "S000913",
@@ -15823,7 +16208,8 @@
       "Mail": "trungdq@esuhai.com"
     },
     "displayId": "MNV S000913",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 8
   },
   {
     "id": "S000915",
@@ -15864,7 +16250,8 @@
       "Mail": "tanthd@esuhai.com"
     },
     "displayId": "MNV S000915",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S000916",
@@ -15905,7 +16292,8 @@
       "Mail": "huyentt@kaizen.edu.vn"
     },
     "displayId": "MNV S000916",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 2
   },
   {
     "id": "S000917",
@@ -15946,7 +16334,8 @@
       "Mail": "thai.lequoc@esutech.vn"
     },
     "displayId": "MNV S000917",
-    "formCCount": 3
+    "formCCount": 2,
+    "receivedVotes": 5
   },
   {
     "id": "S000918",
@@ -15987,7 +16376,8 @@
       "Mail": "nhungnph@esuhai.com"
     },
     "displayId": "MNV S000918",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000919",
@@ -16028,7 +16418,8 @@
       "Mail": "hoangttk@jpc.edu.vn"
     },
     "displayId": "MNV S000919",
-    "formCCount": 3
+    "formCCount": 3,
+    "receivedVotes": 1
   },
   {
     "id": "S000920",
@@ -16069,7 +16460,8 @@
       "Mail": "vietpha@esuhai.com"
     },
     "displayId": "MNV S000920",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 3
   },
   {
     "id": "S000921",
@@ -16110,7 +16502,8 @@
       "Mail": "thuanpn@jpc.edu.vn"
     },
     "displayId": "MNV S000921",
-    "formCCount": 4
+    "formCCount": 4,
+    "receivedVotes": 2
   },
   {
     "id": "S000922",
@@ -16151,7 +16544,8 @@
       "Mail": "hue.nguyenthihong@esutech.vn"
     },
     "displayId": "MNV S000922",
-    "formCCount": 4
+    "formCCount": 2,
+    "receivedVotes": 2
   },
   {
     "id": "S000923",
@@ -16192,7 +16586,8 @@
       "Mail": "hungpq@esuhai.com"
     },
     "displayId": "MNV S000923",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   },
   {
     "id": "S000924",
@@ -16233,6 +16628,7 @@
       "Mail": "viethm@esuhai.com"
     },
     "displayId": "MNV S000924",
-    "formCCount": 0
+    "formCCount": 0,
+    "receivedVotes": 6
   }
 ]

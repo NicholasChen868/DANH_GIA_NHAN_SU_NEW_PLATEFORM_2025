@@ -9,33 +9,63 @@ const EnhancedEmployeeCard = ({ employee }) => {
     
     setIsGenerating(true);
     try {
-      // Handle Form A, B, and C generation
       if (formType === 'A') {
-        // Form A - Hồi ức cấp 3 (Personal Journey)
-        console.log('Generating Form A for:', employee.name);
-        // TODO: Implement Form A generation logic
-        window.open('/forms/personal-journey', '_blank');
+        // Form A - Hồi ức cấp 3
+        console.log('Opening Form A for:', employee.name);
+        
+        const baseUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSfhk-cfvPrDlpRONfmdDo6L6w1N5UhdgAZecmYLmZNDcXw9HQ/viewform';
+        const params = new URLSearchParams();
+        
+        // Add prefilled data
+        params.append('entry.1704172586', employee.name || '');
+        params.append('entry.1184622690', employee.id || '');
+        params.append('entry.1121817413', employee.department || '');
+        params.append('entry.1727774632', employee.buName || '');
+        params.append('entry.875025279', employee.email || '');
+        
+        const formUrl = `${baseUrl}?${params.toString()}`;
+        window.open(formUrl, '_blank');
+        
       } else if (formType === 'B') {
-        // Form B - Khai báo năng lực (Skills Assessment)  
-        console.log('Generating Form B for:', employee.name);
-        // TODO: Implement Form B generation logic
-        window.open('/forms/skills-assessment', '_blank');
+        // Form B - Khai báo năng lực
+        console.log('Opening Form B for:', employee.name);
+        
+        const baseUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSepXF4C3-dUrmoeBrW4e8v2re4DxsAyiboqc1yI-2VOvjVSiw/viewform';
+        const params = new URLSearchParams();
+        
+        // Add prefilled data
+        params.append('entry.1519666825', employee.name || '');
+        params.append('entry.570205598', employee.email || '');
+        params.append('entry.870287758', employee.id || '');
+        params.append('entry.2096138668', employee.gender || '');
+        params.append('entry.1655662338', employee.dob || '');
+        params.append('entry.1894722077', employee.hometown || '');
+        params.append('entry.712912742', employee.education || '');
+        params.append('entry.1741978684', employee.department || '');
+        
+        const formUrl = `${baseUrl}?${params.toString()}`;
+        window.open(formUrl, '_blank');
+        
       } else if (formType === 'C') {
-        // Form C - Đánh giá 360° (Peer Evaluation) with prefilled data
-        console.log('Generating Form C for:', employee.name);
+        // Form C - Đánh giá 360°
+        console.log('Opening Form C for:', employee.name);
         
-        // Import and use FormCService for prefilled form
-        const { default: FormCService } = await import('../../services/formCService');
-        const result = await FormCService.openFormC(employee, null);
+        const baseUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSfmOf---sF1s90IzEHIaMo-MVTIUX1k5kn2pCYKkhY-q-n6Mg/viewform';
+        const params = new URLSearchParams();
         
-        if (result.success) {
-          console.log('✅ Form C opened successfully for:', employee.name);
-        } else {
-          console.warn('⚠️ Form C popup blocked, fallback triggered');
-        }
+        // Add prefilled data
+        params.append('entry.1583418077', employee.name || '');
+        params.append('entry.2321785', employee.email || '');
+        params.append('entry.594876381', employee.department || '');
+        params.append('entry.1893283171', employee.position || '');
+        params.append('entry.1710308065', employee.id || '');
+        
+        const formUrl = `${baseUrl}?${params.toString()}`;
+        window.open(formUrl, '_blank');
       }
     } catch (error) {
-      console.error(`Error generating Form ${formType}:`, error);
+      console.error(`Error opening Form ${formType}:`, error);
+      alert(`Lỗi mở form: ${error.message}`);
     } finally {
       setIsGenerating(false);
     }
@@ -68,16 +98,8 @@ const EnhancedEmployeeCard = ({ employee }) => {
 
   return (
     <div className={`bg-white rounded-lg shadow-sm border border-gray-200 p-6 space-y-5 min-h-[400px] relative ${employee.status.toLowerCase()}`}>
+      
       <div className="pl-2">
-        {/* EVALUATION BUTTON - TOP RIGHT CORNER */}
-        <button
-          onClick={() => handleGenerateForm('C', employee)}
-          disabled={isGenerating}
-          className="absolute top-2 right-2 bg-red-500 hover:bg-red-600 text-white text-xs font-bold px-3 py-1 rounded transition-colors duration-200 disabled:opacity-50"
-          title="Đánh giá 360° - Đánh giá đồng nghiệp"
-        >
-          {isGenerating ? 'Đang tạo...' : 'VOTE NGAY'}
-        </button>
 
         {/* TOP SECTION: Avatar + Basic Info */}
         <div className="flex items-center space-x-4">
@@ -159,7 +181,7 @@ const EnhancedEmployeeCard = ({ employee }) => {
           <div className="flex justify-between items-center mb-4">
             <h4 className="text-sm font-semibold text-gray-700">Forms Cá nhân:</h4>
             <span className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset ${
-              (employee.formStatus.formA && employee.formStatus.formB) ? 'bg-green-100 text-green-700 ring-green-200' :
+              (employee.formStatus.formA && employee.formStatus.formB) ? 'bg-blue-100 text-blue-700 ring-blue-200' :
               (!employee.formStatus.formA && !employee.formStatus.formB) ? 'bg-red-100 text-red-700 ring-red-200' :
               'bg-orange-100 text-orange-700 ring-orange-200'
             }`}>
@@ -176,7 +198,7 @@ const EnhancedEmployeeCard = ({ employee }) => {
                 {employee.formStatus.formA ? '✓' : '✗'}
               </div>
               {employee.formStatus.formA ? (
-                <span className="text-sm text-gray-700 font-medium">Form A - Đã hoàn thành</span>
+                <span className="text-sm text-blue-700 font-medium bg-blue-50 px-2 py-1 rounded">Form A - Đã hoàn thành</span>
               ) : (
                 <div className="flex items-center flex-1">
                   <span className="text-sm text-gray-700 font-medium mr-3">Form A - Chưa hoàn thành</span>
@@ -199,7 +221,7 @@ const EnhancedEmployeeCard = ({ employee }) => {
                 {employee.formStatus.formB ? '✓' : '✗'}
               </div>
               {employee.formStatus.formB ? (
-                <span className="text-sm text-gray-700 font-medium">Form B - Đã hoàn thành</span>
+                <span className="text-sm text-blue-700 font-medium bg-blue-50 px-2 py-1 rounded">Form B - Đã hoàn thành</span>
               ) : (
                 <div className="flex items-center flex-1">
                   <span className="text-sm text-gray-700 font-medium mr-3">Form B - Chưa hoàn thành</span>
@@ -220,16 +242,33 @@ const EnhancedEmployeeCard = ({ employee }) => {
         {/* PEER EVALUATION SECTION (Form C) */}
         <div className="space-y-4 py-4 border-t border-gray-100">
           <div className="mb-4">
-            <h4 className="text-sm font-semibold text-gray-700 mb-2">Đánh giá 360độ   </h4>
+            <h4 className="text-sm font-semibold text-gray-700 mb-2">Đánh giá 360độ</h4>
             {employee.formStatus.formC ? (
-              <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset bg-green-100 text-green-700 ring-green-200">
-                Đã đánh giá {employee.formCCount || 1} người
-              </span>
+              <div className="space-y-2">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ring-1 ring-inset bg-blue-100 text-blue-700 ring-blue-200">
+                  Đã đánh giá {employee.formCCount || 1} người
+                </span>
+                <div className="text-sm text-blue-700 font-medium bg-blue-50 px-2 py-1 rounded inline-block">
+                  Được {employee.receivedVotes || 0} lượt bình chọn
+                </div>
+              </div>
             ) : (
               <p className="text-sm text-gray-600 italic">
                 Hãy dành thời gian cho việc ý nghĩa này <strong>{employee.name}</strong> nhé?
               </p>
             )}
+          </div>
+
+          {/* EVALUATION BUTTON - BOTTOM LEFT CORNER */}
+          <div className="flex justify-start">
+            <button
+              onClick={() => handleGenerateForm('C', employee)}
+              disabled={isGenerating}
+              className="bg-red-600 hover:bg-red-700 text-white text-xs font-black px-4 py-2 rounded-md shadow-md transition-colors duration-200 disabled:opacity-50"
+              title="Đánh giá 360° - Đánh giá đồng nghiệp"
+            >
+              {isGenerating ? 'Đang tạo...' : 'ĐÁNH GIÁ'}
+            </button>
           </div>
         </div>
 

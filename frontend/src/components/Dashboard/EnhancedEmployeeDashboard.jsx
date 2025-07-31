@@ -58,7 +58,11 @@ const EnhancedEmployeeDashboard = ({ currentUser }) => {
 
   const loadEmployeeData = async () => {
     try {
-      const response = await fetch('/data/employees.json');
+      // Try to load 19-group data first, fallback to regular data
+      let response = await fetch('/data/employees-19nhom.json');
+      if (!response.ok) {
+        response = await fetch('/data/employees.json');
+      }
       if (!response.ok) throw new Error('Failed to load employees');
       const data = await response.json();
       setEmployees(data);
